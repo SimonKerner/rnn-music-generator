@@ -1,0 +1,6269 @@
+X:1
+T:La bergère de Coulandon
+R:Bourrée à deux temps
+C:Trad.
+A:Centre
+O:France
+M:2/4
+Q:1/4=120
+K:G
+c4B2c2|A6Bc|d3c B2A2|B4G4|
+c4B2c2|A6Bc|d3c B2A2|G8:|
+|:A3B A2G2|F6G2|A3B c2A2|B4G4|
+A3B A2G2|F6G2|A3B c2A2|G8:|
+
+X:2
+T:Venosc
+R:Bourrée à 2 temps
+C:Trad.
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+F>E DE|F2 DA|A>B cd|c>B AG|F>E DE|F2 DA|A>B cd|A4:|
+dB BA|cA AG| B>A GF|G/2F/2G/2A/2 B/2A/2B/2c/2|dB BA|cA AG|B>A
+GF|G4:||
+
+X:3
+T:Bourrée 1
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/4
+Q:1/4=220
+K:G
+D2|GFG2A2|G2F2G2|ABc2B2|A4D2|GFG2A2|G2F2G2|ABA2F2|G4:|
+Bc|d2B2A2|G2F2G2|ABc2B2|A4Bc|d2B2A2|G2F2G2|ABA2F2|G4:|
+
+X:4
+T:Bourrée des Gars
+R:Bourrée à 3 temps
+C:Trad.
+A:Massif Central
+O:France
+M:3/4
+Q:1/4=220
+K:G
+D2|G2B2B2|A2cBAG|F2A2A2|G2B2D2|\
+G2B2B2|A2cBAG|F2A2A2|G4:|
+|:Bc|d4e2|A4AB|c2dcBA|B2G2Bc|\
+d4e2|A4AB|c2dcBA|G4:|
+
+X:5
+T:Les grandes poteries
+R:Bourrée à 3 temps
+C:Trad.
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=200
+K:C
+e/2f/2|:geg|g/2e/2 c e/2f/2|geg|g2 d/2e/2| fdd|d2 c/2d/2|ecc|1 c2
+e/2f/2:|2 c2 B/2A/2|
+|:G2A|G2A|Gcd|e3|dcd|cBA|1GAG|E2F:|2Ged|c3||
+
+X:6
+T:On d'onoren gorda
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/4
+Q:1/4=210
+K:G
+G2|ABc2B2|ABc2d2|c4B2|A2G2G2|ABc2B2|ABc2d2|c4B2|A4:|
+G2|ABc2B2|G2A2B2|G3GF2|G2A2G2|\
+ABc2B2|G2A2B2|G3GF2|G6:|
+
+X:7
+T:Bourrée de Royat
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=220
+K:F
+C|:FAA|G B/2A/2G/2F/2|EGG|FAC|FAA|G B/2A/2G/2F/2|EGG|1F z C:|2F z
+A/2B/2|
+|:c2 d|G2 G/2A/2|B c/2B/2A/2G/2|AF A/2B/2|c2 d|G2 G/2A/2|B
+c/2B/2A/2G/2|1F z A/2B/2:|2F z C||
+
+X:8
+T:La Calhe
+R:Bourrée à 3 temps
+A:Limousin
+O:France
+M:3/4
+L:1/4
+Q:1/4=200
+K:G
+D|G/2G/2 GG|AAd|cd2|A2D|G/2G/2 GG|AAd|cd2|A2G|
+A/2B/2 cA|BGA|BGF|G2 G|A/2B/2 cA|BGA|BGF|G2 z||
+
+X:9
+T:La Sabotée
+R:Bourrée à 3 temps
+A:Corrèze
+O:France
+M:3/4
+L:1/8
+Q:1/4=180
+K:C
+EF|G2 GA GF|E2C2 EF|G2G2A2|G3 z EF|G2 GA GF|E2C2E2|G2F2D2|C3 z
+E2|
+E2 DE FE|D2 C2 D2|D2 C2 D2|E2 C2 E2|E2 DE FE|D2 C2 D2|G2 F2 D2|C3
+z||
+
+X:10
+T:Bourrée d'Egletons
+R:Bourrée à 3 temps
+A:Corrèze
+O:France
+M:3/8
+L:1/8
+Q:1/4=120
+K:F
+C F G|A2 A|B/2A/2 G F|A G2|C F G|A2 A|B/2A/2 G F|1G3:|2G2C|
+|:F2G|F/2E/2 D C|D2 E|D CC|F2G|F/2E/2 D C|DEC|1F2C:|2F3|
+
+X:11
+T:Derrière Chez Nous
+R:Bourrée à 2 temps
+A:Massif Central
+O:France
+M:C
+L:1/8
+Q:1/4=140
+K:G
+A>A AE A3B|c>B AG A2EF|G>G GEG3A|B>A GF E4:|
+D>D ED A3G|EG/2F/2 EFD3E|D>D EDA4|1 EG/2F/2 EFD3E:|2 EG/2F/2 ECD4||
+
+X:12
+T:Bourrée de Viplaix
+R:Bourrée à 2 temps
+A:Bourbonnais
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+G>F GA|B3 G|A>A AB/2A/2|G2 D2|G>F GA|B3 G|A>A AB/2A/2|G4:|
+|:F>A AA|G>B B2|F>A AA|G2 D2|F>A AA|G>B BB|d>c BA|G4:||
+
+X:13
+T:Le long de la rivière
+R:Bourrée à 2 temps
+A:Bourbonnais
+O:France
+M:2/4
+L:1/8
+Q:1/8=220
+K:G
+D|GA Bc|d2A2|dcAB|GGGD|GABc|d2A2|
+dcAB|G2 zB|AGFG|A2A2|BcBA|GGGB|AGFG|A2A2|BcAB|G2||
+W:Le long de la rivière, j'ai perdu mes gants, maman!
+W:Le long de la rivière, j'ai perdu mes gants
+W:Mes gants et mes jarretières, mon p'tit panier blanc, maman !
+W:Mes gants et mes jarretières, mon p'tit panier blanc.
+
+X:14
+T:Bourrée 2
+R:Bourrée à 2 temps
+A:Bourbonnais
+O:France
+M:2/4
+L:1/8
+Q:1/8=220
+K:G
+B|d2AA|c2GG|B>d cB|A/2G/2A/2B/2 A/2c/2B/2c/2|d2AA|c2GG|B>d
+cB|A3:|
+|:F/2G/2|AA AA|A2 G/2F/2G/2A/2|Bd Be|^c>B Ad|AF GA|B2
+EF/2G/2|AG/2F/2E2|D3:||
+
+X:15
+T:Baillez-li
+R:Bourrée à 2 temps
+A:Bourbonnais
+O:France
+M:2/4
+L:1/8
+Q:1/8=220
+K:G
+G>F GB|AG FD|A>G Ac|BA G2|G>F GB|AG FA/2B/2|cB/2A/2 EF|G4:|
+|:F>A FA|GA BA|F>A FA|GF E2|F>A FA|GA BA/2B/2|cB/2A/2 EF|G4:|
+
+X:16
+T:Bourrée artée
+R:Bourrée à 3 temps
+A:Centre
+O:France
+M:3/4
+L:1/4
+Q:1/4=220
+K:D
+A|A/2G/2 FA|A/2G/2 FA|B/2A/2Bc|d2A|
+A/2G/2 FA|A/2G/2 FA|B/2A/2B/2c/2B/2c/2|d2:|
+D|E/2F/2GE|A/2G/2FA|B/2A/2Bc|d/2e/2dD|
+E/2F/2GE|A/2G/2FA|B/2A/2Bc|d2:||
+
+X:17
+T:La Sarrandouna
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/4
+L:1/8
+Q:1/4=200
+K:F
+F2A2c2|f4e2|dcdfed|cBAG F2|F2A2c2|f4e2|dcdfed|c6:|
+|:AB c2d2|B4A2|GFGFGF|G4F2|AB c2d2|B4A2|GFGBAG|F4 z2:|
+
+X:18
+T:Aval dins la Bas-Pais
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:F
+c/2d/2|:c B/2c/2B/2A/2|G/2A/2 B c/2d/2|c B/2c/2B/2A/2|1G2
+c/2d/2:|2G2B|
+|:AGF|EC2|C/2D/2 EC|F G/2A/2 B|A G/2A/2G/2F/2|EC2|C/2D/2
+EC|1F2B:|2F2||
+
+X:19
+T:Ma jeunesse
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:F
+F|:Gc2|B/2c/2dc|BGA|Bc2|B/2c/2BA|1G2F:|2G2B|
+|:AF2|G/2A/2GF|ECB|AF2|G/2A/2GE|1F2B:|2F2||
+
+X:20
+T:Les garçons de Neuville
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=240
+K:F
+FG>c|c>dc|BGA|F2E|FG>c|c>dc|BGA|G3:|
+|:CFF|E>FG|AGF|EC2|CFF|E>FG|AFE|F2:||
+
+X:21
+T:Quand les moutons...
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=240
+K:F
+cdc|B2G|A2B|c2c|cdc|B2G|A2B|c3:|
+|:FGc|B2G|A2G|F2E|FGc|B2G|AG2|F3:||
+
+X:22
+T:Branle
+R:Bourrée à 2 temps
+A:Bourbonnais
+O:France
+M:2/4
+L:1/8
+Q:1/8=220
+K:G
+B2 BA/2B/2|cB AG|B>A GF|GA BG|
+B2 BA/2B/2|cB AG|B>A GF|G4:|
+d2 dc/2d/2|ed cB|c2 cB/2c/2|dc BA|
+B2 BA/2B/2|cB AG|B>A GF|1GA BG:|2G4||
+
+X:23
+T:Bourrée des Monédières
+R:Bourrée à trois temps
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=210
+K:F
+C|F/2E/2FG|AGc|c/2B/2cd|c2C|
+F/2E/2FG|AGc|c/2B/2cd|c2c|
+d/2c/2BA|GAB|A/2G/2FG|AFc|
+d/2c/2BA|GAB|A/2G/2FE|F2C|F3||
+
+X:24
+T:Petite Marguerite
+R:Bourrée à trois temps
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=230
+K:F
+G/2A/2BA|GG/2A/2c|B2A|GF2|
+G/2A/2BA|GG/2A/2c|B2A|G3:|
+|:G/2A/2BA|FG/2A/2G|F2E|FG2|
+G/2A/2BA|FG/2A/2G|F2E|1F3:|2FA/2B/2c/2d/2|
+cA/2B/2A/2G/2|F zc|fz2||
+
+X:25
+T:Va-t-en, va-t-en!
+R:Bourrée à 3 temps
+O:France
+M:3/8
+L:1/8
+Q:1/8=220
+K:C
+eee|fed|dc2|eee|fed|g3:|
+|:cde|d2c/2B/2|AG2|cde|fed|g3|
+cde|d2c/2B/2|AG2|cde|fed|c3:|
+
+X:26
+T:Si vous passez par Nantes
+R:Bourrée à 3 temps
+A:Bourbonnais
+O:France
+M:3/8
+L:1/8
+Q:1/8=230
+K:G
+Gdc|d>A B|cdB|A2G|Gdc|d>A B|cdB|A3:|
+|:GAB|A>G A|dcB|G2=F|GAB|A>G A|dcB|G3:||
+
+X:27
+T:Quand j'étais chez mon père
+R:Bourrée à 3 temps
+A:Auvergne
+O:France
+M:3/4
+L:1/4
+Q:1/4=220
+K:C
+C/2D/2|EEE|ECC/2D/2|EEE|D2D/2E/2|FFF|EEE/2E/2|DDD|C2G|
+G2F|E2E|DDD|ECG|G2F|E2E|DDD|C2||
+W:Quand j'étais chez mon père
+W:Apprenti pastoureau
+W:Il m'a mis dans la lande
+W:Pour garder les troupiaux
+W:Troupiaux, troupiaux
+W:Je n'en avais guère
+W:Troupiaux, troupiaux
+W:Je n'en avais biaux.
+
+X:28
+T:Bourrée à Cousset
+R:Bourrée à 2 temps
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+K:D
+A3B|G3A|F>EFG|A/2G/2A/2B/2 A/2G/2F/2G/2|A3B|G3A|FEGF|D4:|
+|:DEFG|A/2G/2A/2B/2 Ad|cded|A/2G/2A/2B/2 A/2G/2F/2E/2|
+DEFG|A>BAF|GEGF|D4:|
+
+X:29
+T:Le ruban bleu
+R:Bourrée à 2 temps
+A:Massif central
+O:France
+M:2/4
+L:1/8
+Q:1/8=200
+K:G
+d2 BG|F>G AB|c2 AF|G>A Bc|d2 BG|F>G AB|c2 AF|G4:|
+|:F>A FA|G>B GB|A>c Ac|B2G2|F>A FA|G>B GB|d>c BA|1d4:|2G4||
+
+X:30
+T:Bourrée carrée de St Chartier
+R:Bourrée à 2 temps
+A:Berry
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+D2 EF|G3 B|A>G FG|AB A2|D2 EF|G3 B|A>G FE|D4:|
+|:GA BA/2B/2|cB A2|BG FG|AF ED|GA BA/2B/2|cB A2|BA/2G/2 FA|G4:||
+
+X:31
+T:Les filles de Saint Nicolas
+R:Bourrée à deux temps
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+B2G2|B>A Bc|AA GA|B2G2|B>A Bc|A3 G:|
+|:d2A2|d>c BA|GG/2F/2 GA|B2AB/2c/2|d>c BA|G4:||
+
+X:32
+T:Bourrée de Saint Pierre
+A:Bourbonnais
+O:France
+M:3/8
+L:1/8
+Q:1/4=110
+K:C
+f|e2d|c2d|e/2f/2ed|g2 f|eed|c2d|e/2f/2ed|
+g3/2a/2g/2f/2|ed/2f/2B/2d/2|c2d|e/2f/2ed|
+g2f|eed|c2d|e/2f/2ed|g2g|
+|:abc'|g2f|d/2f/2ed|ecg|
+abc'|g2f|d/2f/2ed|1c2g:|2c2f||
+
+X:33
+T:Bourrée droite
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:1/4=110
+K:G
+D|G F/2G/2 E/2F/2|DGB|AcF|AGD|G F/2G/2 E/2F/2|DGB|AcF|G2:|
+|:B/2c/2|ded|A2 A/2B/2|c A/2c/2 A/2c/2|BG B/2c/2|ded|A2 A/2B/2|c
+A/2c/2 A/2F/2|G2:||
+
+X:34
+T:Bourrée valsée d'Issoudun
+R:Bourrée à 3 temps
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:1/4=120
+K:G
+D|G2F|G2 F/2G/2|ABG|A2D|A2B|A2 G/2F/2|EFE|D2:|
+|:B|BdB|AcA|GG/2F/2G/2A/2|BGB|AcA|G/2F/2EF|G2:||
+
+X:35
+T:Bourrée solognote
+A:Sologne
+O:France
+M:3/8
+L:1/8
+Q:1/8=220
+K:G
+D|:G2F|G2 F/2G/2| ABG|A3|A2B|AGF|EFE|1DEF:|2D2|
+|:d|BdB|AcA|G>FG/2A/2|BGd|BdB|AcA|G2F|G2:||
+
+X:36
+T:Bourrée croisée de Glux
+R:Bourrée à 3 temps
+A:Morvan
+O:France
+M:3/4
+L:1/8
+Q:1/4=200
+K:C
+f2|ff e2g2|f4 de|fe d2f2|e4 cd|ed c2e2|d4 Bc|dc B2d2|c4G2|c4 cd|
+|:e2 ef ed|c4 cd|e2f2e2|c4Bc|d2de dc|B4 de|f2e2d2|1e2c2 cd:|2c4
+G2|
+|:gf e2g2|f4 de|fe d2 f2|e4 cd|ed c2e2|d4 Bc|dc
+B2d2|1e2c2g2:|2c4||
+
+X:37
+T:Bourrée patinée
+R:Bourrée à 3 temps
+A:Morvan
+O:France
+M:3/4
+L:1/8
+Q:1/4=210
+K:C
+c2|A2 B2 c2|d4de|f2 gf ed|e2c2c2|A2 B2 c2|d4de|f2 gf ed|1c4:|2c4 ef|
+|:g2g2c'2|g4ef|ga gf ed|1e2 c2 ef:|2c2 z2 c2||
+
+X:38
+T:Bourrée carrée de la Châtre
+R:Bourrée à 2 temps
+A:Berry
+O:France
+M:2/4
+L:1/8
+Q:1/8=210
+K:G
+G>A Bc|d2d2|e>f ge|d>c BA|G>A Bc|d2d2|e>f ge|d3 d:|
+|:B>G Bd|c/2d/2c/2B/2 AB|c>B ce|d/2e/2d/2c/2 Bd|B>G
+Bd|c/2d/2c/2B/2 AB|c>d ef|g3 d:||
+
+X:39
+T:Bourrée des jeunes
+R:Bourrée à 3 temps
+A:Berry
+O:France
+M:3/8
+L:1/8
+Q:1/4=110
+K:C
+G|e/2^d/2ec|B2 d/2e/2|f/2d/2f/2d/2f/2d/2|ecG|e/2^d/2ec|B2
+d/2e/2|f/2d/2f/2d/2B/2d/2|c2 G:|
+|:e/2^d/2e/2g/2e/2c/2|e/2^d/2e/2g/2e/2c/2|d/2^c/2d/2f/2e/2d/2|ecG
+|
+e/2^d/2e/2g/2e/2c/2|e/2^d/2e/2g/2e/2c/2|d/2^c/2d/2f/2e/2d/2|c2
+G:||
+
+X:40
+T:Bourrée ronde de Sainte-Sévère
+R:bourrée à 3 temps
+C:trad
+A:Berry
+O:France
+M:3/4
+L:1/8
+Q:1/4=180
+K:C
+EF||G4A2|G4A2|GA GF ED|E2C2 EF|G4A2|G4A2|GA GF ED|C4 B,C|
+D4E2|D4G2|GA GF ED|E2C2 B,C|D4E2|D4G2|GA GF ED|C4 EF||
+
+X:41
+T:Bourrée à six de Briantes
+R:bourrée à 2 temps
+C:trad
+A:Berry
+O:France
+M:2/4
+L:1/8
+Q:1/4=150
+K:C
+|:c2G2|E2C2|D>E FD|E>F GG|c2G2|E2C2|D>F ED|1C4:|2C3 G|
+|:E>G EG|A2F2|A>c BA|G3 G| E>G EG|A2A2|GF ED|C3 G:||
+
+X:42
+T:J'ai vu le loup
+R:bourrée à 3 temps
+C:trad
+O:France
+M:3/8
+L:1/8
+Q:1/4=110
+K:G
+cBc|A2c|B/2A/2 G2|cBc|ABG|A3:|
+|:EFG|A2 G/2F/2|EA2|EFG|ABA|G3:||
+
+X:43
+T:Bourrée à huit
+R:bourrée à 3 temps
+C:trad
+O:France
+M:3/8
+L:1/8
+Q:1/4=100
+K:G
+d2^c|d2A/2B/2|cBA|BGD|d2^c|d2A/2B/2|cBA|1G3:|2G2|
+|:D|GFG|D2G|A>d B/2A/2|BGD|GFE|D2G|A2F|1G2:|2G3||
+
+X:44
+T:Bourrée de Bethmale
+R:Bourrée
+C:trad
+A:Ariège
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+ef|gg/2g/2 ga|ag ab|ag/2g/2 gf|e2:||:cd|ee/2e/2 eg|f2 de|fg/2f/2 ed|1ec:|2c2||
+
+X:45
+T:Allons vite fillettes
+R:Bourrée
+C:trad
+A:Ariège
+O:France
+M:2/4
+L:1/8
+Q:1/4=110
+K:C
+EF|G>AAG |EF1G>A|G2:|:CD|EE/2E/2 EG|GF DE|FG/2F/2 ED|1EC:|2C2||
+
+X:46
+T:Allons petits
+R:Bourrée
+C:trad
+A:Ariège
+O:France
+M:2/4
+L:1/8
+Q:1/4=110
+K:C
+cd ef|g3g|fe fg|a2g2:||:eg gg|f2f2|df ff| ed c2:||
+
+X:47
+T:Les poules huppées
+R:bourrée à 3 temps
+C:trad
+A:Centre
+O:France
+M:3/8
+L:1/8
+Q:1/8=220
+K:F
+DDF E/2D/2|A2 A/2=B/2|c/2=B/2A/2d/2 c/2B/2|c/2=B/2A/2B/2 A/2G/2|
+DD/2F/2 E/2D/2|A2 A/2=B/2|c/2=B/2A/2d/2 B/2d/2|A2:|
+|:d/2e/2|fA/2f e/2d/2|B2 d/2e/2|f/2d/2g/2f/2 e/2d/2|^cde|
+fA/2f e/2d/2|G2 d/2e/2|f/2d/2g/2f/2 e/2^c/2|d2:||
+
+X:48
+T:Le long de la rivière 2
+R:Bourrée à 2 temps
+C:trad
+A:Centre
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+A/2B/2|c3A|B2G2|A>G Ad|cB/2A/2 GA/2B/2|c3A|B2G2|A>G AB|G3:|
+|:A|G3E|D2D2|A>G AB|G>G GA|G3E|D2D2|A>G AB|G3:||
+
+X:49
+T:La crouzado
+R:Bourrée à 3 temps
+C:trad
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=200
+K:Bb
+f2 d/2e/2|f2 d/2e/2|fed|c3|cde|f>g f|edc|d/2c/2B2:|
+|:c/2d/2ef|c2 f|g/2f/2ed|c/2e/2dB|
+c/2d/2ef|c2 f|g/2f/2ed|c2 F:|
+|:BA/2B/2c/2d/2|ecd|Bc/2d/2c/2B/2|A/2G/2FF|
+BA/2B/2c/2d/2|ecg|fd/2f/2e/2c/2|1B2F:|2B2||
+
+X:50
+T:Bourrée de Creuse
+R:Bourrée à 3 temps
+C:trad
+A:Creuse
+O:France
+M:3/8
+L:1/8
+Q:1/4=120
+K:C
+cgf|g/2f/2ed|cg>f|g3:|
+|:d/2e/2fe|d>e f|e/2d/2cd|BA2|d/2e/2fe|d>e f|e/2d/2cB|c3:|
+
+X:51
+T:Bourrée de Corrèze
+R:Bourrée à 3 temps
+C:trad
+A:Corrèze
+O:France
+M:3/8
+L:1/8
+Q:1/4=110
+K:F
+cd>e|f2d|ed2|d/2e/2 f g/2a/2|gf/2g/2f/2e/2|d3:|
+|:d/2e/2fe|d2c|BG2|dgf|ed2|c3:||
+
+X:52
+T:bourrée de Pontgibaud
+R:Bourrée à 3 temps
+C:trad
+A:Auvergne
+O:France
+M:3/8
+L:1/8
+Q:1/4=110
+K:F
+F/2A/2|ccc|dc d/2e/2|ffc|dc:|
+|:F/2A/2|ccc|dc d/2e/2|ffc|dc:|
+|:c|cA c|cA c|cA F|GAB|cAF|BGE|F3|F2:||
+
+X:53
+T:Bourrée
+R:Bourrée
+C:trad
+S:Raymond Berg
+A:Morvan
+O:France
+Z:S Piron
+M:3/8
+L:1/8
+Q:1/4=110
+K:C
+G|c>B A|G2c|B/2c/2df|ecG|c>B A|G2c|B/2c/2dB|c2:|
+|:e/2f/2|g>fe|g2f|dfd|ece/2f/2|g>fe|g2f|dfe|c2:||
+
+X:54
+T:La balancelle
+R:Bourrée
+C:trad
+A:Morvan
+O:France
+Z:S Piron
+M:3/8
+L:1/8
+Q:1/4=100
+K:C
+G|c/2B/2cd|ece/2f/2|gfe|d2G|c/2B/2cd|ece/2f/2|gfe|d2e|
+faf|ege|dd/2f/2e/2d/2|ecd/2e/2|faf|ege|dd/2f/2e/2d/2|c2||
+
+X:55
+T:Bourrée d'Arleuf
+R:Bourrée
+C:trad
+A:Morvan
+O:France
+Z:S Piron
+M:3/8
+L:1/8
+Q:1/8=220
+K:C
+GAB|c>Bc|ede|c>Bc|ABc|d>ed|1cBA|A2G:|2GAB|c3|
+|:ege|dfe|dcd|e2c|ege|dfe|1dcd|d2c:|2dcB|c3||
+
+X:56
+T:Bourrée d'Armes
+R:Bourrée
+C:trad
+A:Morvan
+O:France
+Z:S Piron
+M:3/8
+L:1/8
+Q:1/4=110
+K:C
+Gcd|ed/2e/2f/2d/2|cde|d3|Gcd|ed/2e/2f/2e/2|dcB|c3:|
+|:g f/2g/2a/2g/2|fd/2e/2f/2e/2|cde|d3|g f/2g/2a/2g/2|fd/2e/2f/2e/2|dcB|c3:||
+
+X:57
+T:Bourrée
+R:Bourrée à 3 temps
+C:trad
+A:Morvan
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=190
+K:C
+e/2f/2|g/2a/2g/2f/2e/2f/2|g2 d/2e/2|f g/2f/2e/2d/2|ece/2f/2|
+g/2a/2g/2f/2e/2f/2|g2 d/2e/2|f g/2f/2e/2d/2|c2|
+|:G|e3/2f/2e/2d/2|c2G|f3/2g/2f/2e/2|d2G|e3/2f/2e/2d/2|c2c|B/2c/2dB|c2:||
+
+X:58
+T:Bourrée du gagne-pain
+R:Bourrée à 3 temps
+C:trad
+A:Morvan
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=180
+K:C
+e/2f/2|ga/2g/2f/2e/2|g2 d/2e/2|f g/2f/2e/2d/2|
+ece/2f/2|ga/2g/2f/2e/2|g2 d/2e/2|f g/2f/2e/2d/2|c2:|
+|:e|dfe|c2d/2e/2|fg/2f/2e/2d/2|ece|dfe|c2d/2e/2|fg/2f/2e/2d/2|c2:||
+
+X:59
+T:Bourrée patinée
+R:Bourrée à 3 temps
+C:trad
+A:Morvan
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=190
+K:C
+c|ABc|d2 d/2e/2|fg/2f/2e/2d/2|ecc|
+ABc|d2 d/2e/2|fg/2f/2e/2d/2|c2:|
+|:e/2f/2|ggc'|g2 e/2f/2|g/2a/2g/2f/2e/2d/2|
+ece/2f/2|ggc'|g2 e/2f/2|g/2a/2g/2f/2e/2d/2|c2:||
+
+X:60
+T:Bourrée de Brigueil
+R:Bourrée carrée
+C:trad
+A:Massif Central
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=190
+K:G
+d2 B/2d/2|d2d|d2D|:G/2F/2GA|BGB|G2F|G2D|G/2F/2GA|BGB|G2F|G2D:|
+A/2B/2 cB|ABG|AGF|G2D|A/2B/2 cB|ABG|AGF|GFG|
+|:A2A|Adc|B2A|GFG|A2A|Adc|B2A|GFG:|
+A2A|A/2G/2Ac|BA2|GFG|A2A|A/2G/2Ac|BA2|1GFG:|2G2d|
+|:d/2c/2 Bc|d2A/2B/2|cBA|BGd|d/2c/2 Bc|d2 A/2B/2|cBA|1G2d:|2G3||
+DGA|B2A/2B/2|cBG|BAG|DGA|B2A/2B/2|cBG|A3|
+|:BAG|EFG|AGF|E2D|BAG|EFG|AGF|1G3:|G B/2c/2d/2e/2|dB/2d/2c/2A/2|G2G|G zz||
+
+X:61
+T:Les garçons de la montagne
+R:Bourrée à 3 temps
+C:trad
+A:Massif Central
+O:France
+Z:S. Piron
+M:3/8
+L:1/8
+Q:1/4=110
+K:C
+GAG|FDF|E/2D/2 CD|ED2|GAG|FDF|E/2D/2 CB,|C2 z:|
+|:CB,C|DEF|D/2E/2 CD|ED2|CB,C|DEF|D/2E/2 DB,|C2 z:|
+
+X:62
+T:Les moutons
+R:Bourrée à 2 temps
+C:trad
+A:Limousin
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/8=240
+K:C
+g>f ec|d>f ef|g>f ec|1d2e2:|2d>f e2|
+|:e>f e^d|ec A2|d>B cA|d>B cA|e>f e^d|ec A2|d>B cA|dB c2:|
+
+X:63
+T:Bourrée
+R:bourree
+C:Michael Praetorius
+H:XVI eme siecle
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/2=110
+K:F
+B|G2GA/2B/2|cFFB/2A/2|G/2F/2G/2A/2 G/2A/2B/2c/2|dDDB|
+G2GA/2B/2|cFFB/2A/2|G/2F/2G/2A/2 G/2A/2B/2c/2|dDDB|
+B3d|B3d|B/2c/2dB/2c/2d|cAAc|A/2B/2cA/2B/2c|BGGB/2A/2|G^F G/2A/2B/2G/2|ADDB|
+B3d|B3d|B/2c/2dB/2c/2d|cAAc|A/2B/2cA/2B/2c|BGGB/2A/2|G^F G/2A/2B/2G/2|ADD2||
+
+X:64
+T:Tricotada
+R:Bourree
+C:trad.
+A:Massif Central
+O:France
+M:3/8
+L:1/16
+Q:1/4=105
+K:C
+e2g2f2|e4d2|cdedef|efedc2|e2g2f2|c4d2|cdedef|g6|
+e2g2f2|e4d2|cdedef|efedc2|e2g2f2|c4d2|cde2d2|c4ed|
+|:c2B2c2|d4d2|cdedef|e2d2c2|c2B2c2|d4d2|cde2d2|c6:||
+
+X:65
+T:Bourrée tournee a deux
+C:trad.
+A:Morvan
+O:France
+M:3/8
+L:1/16
+Q:1/8=210
+K:C
+e2|geg2a2|g4e2|def2d2|e2c2e2|geg2a2|g4e2|def2d2|c4:|
+|:e2|c2ecBA|G4c2|Bcd2f2|e2c2e2|c2dcBA|G4c2|Bcd2B2|c4:||
+
+X:66
+T:Bourree
+R:Bourree
+A:Massif Central
+O:France
+M:3/8
+L:1/16
+Q:1/4=115
+K:C
+GAB|c2e2de|c2e2de|f4e2|decGAB|c2e2de|c2e2de|ded2B2|
+B3GAB|c2e2de|c2e2de|f4e2|decGAB|c2e2de|c2e2de|ded2B2|c4G2|
+ABcdcA|d2c2B2|ABc2G2|ABcdcA|d2c2B2|cde2 G2|
+ABcdcA|d2c2B2|ABc2G2|ABcdcA|d2c2B2|c6 ||
+
+X:67
+T:Bourree droite du Pays Fort
+R:Bourree
+C:trad.
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:1/4=110
+K:G
+e|:dBd|g2b|a/2g/2fe|edd|dBd|g2b|a/2g/2fa|g2d:|
+|:g/2g/2gg|fff|e/2e/2ef|edd|g/2g/2gg|f/2f/2ff|e/2f/2ef|g2 z:|
+
+X:68
+T:Bourrée mussée
+C:trad.
+N:Franc
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:1/4=115
+K:G
+D|GAB|AGF|E/2F/2GE|A2D|A2B|A2d|d/2c/2BA|BGD|
+GAB|AGF|E/2F/2GE|A2D|A2B|A2d|d/2c/2BA|G2D|
+E/2E/2ED|G2D|E/2E/2ED|G2D|G2A|BGB|A/2G/2FA|G2D|
+E/2E/2ED|G2D|E/2E/2ED|G2D|G2A|BGB|A/2G/2FA|G2||
+
+X:69
+T:J'avais une bonne amie
+R:bourree
+C:trad.
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:1/4=110
+K:G
+D|GBG/2B/2|dBd|cAc|BGD|GBG/2B/2|dBd|cAF|G2 D|
+GBG/2B/2|dBd|cAc|BGD|GBG/2B/2|dBd|cAF|G2 B/2c/2|
+dcA/2c/2|BGB|AFA|BGB/2c/2|dcA/2c/2|BGB|AFD|G2B/2c/2|
+dcA/2c/2|BGB|AFA|BGB/2c/2|dcA/2c/2|BGB|AFD|G2||
+
+X:70
+T:Bourrée de la Chapelotte
+C:trad.
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:1/4=120
+K:D
+F2G|A2A|B/2A/2Bc|BAd|d2d|c2B|A/2B/2AG|F2D|
+F2G|A2A|B/2A/2Bc|BAd|d2d|c2B|Aec|d3|
+f/2f/2ff|B3|e/2e/2ee|A3|d2d|c2c|A/2B/2AG|F3|
+f/2f/2ff|B3|e/2e/2ee|A3|d2d|c2c|Aec|d3||
+
+X:71
+T:Bourree a quatre du Carni
+C:trad.
+A:Morvan
+O:France
+M:3/8
+L:1/16
+Q:1/8=180
+K:C
+defdef|e2c2c2|Bcdfed|e2c2c2|defdef|e2c2c2|Bcd2B2|c4c2:|
+|:BcdcBA|G4e2|defdef|e2c2c2|BcdcBA|G4e2|def2B2|c6:||
+
+X:72
+T:Bourrée tournee a trois
+C:trad.
+A:Morvan
+O:France
+M:3/8
+L:1/16
+Q:1/8=240
+K:C
+G2|c2d2e2|f2e2d2|c2Bcdc|B2A2G2|c2d2e2|f2e2d2|c2BcdB|c4:|
+|:g2|fed2f2|edc2e2|dcB2c2|d4g2|fed2f2|edc2e2|dcB2d2|c4:||
+
+X:73
+T:Ont menarem...
+R:Bourree 3 temps
+C:trad.
+A:Corrèze
+O:France
+Z:S. Piron
+M:3/8
+L:1/8
+Q:1/8=210
+K:C
+d|:Gf>e|de/2d/2e/2f/2|ga/2g/2f/2e/2|d/2e/2cd|
+|Gf>e|de/2d/2e/2f/2|1ga/2g/2f/2e/2|d2d:|2g>ag|d3|
+|:fde|ce/2d/2e|c2_B|cd2|fde|cd/2e/2f/2d/2|1e3/2c/2d/2B/2|c3:|2ed2|c2 z|
+
+X:74
+T:L'auvergnate
+R:Bourree
+C:trad.
+A:Massif Central
+O:France
+Z:S. Piron
+M:3/8
+L:1/16
+Q:1/8=200
+K:G
+D2|G2GFGA|B2dBde|cBA2G2|FGABAF|G2GFGA|B2dBde|cBA2F2|1G4:|G4d2||
+c2AcAc|B2G4|D2E2F2|GABcd2|c2AcAc|B2G4|D2E2F2|1G4d2:|2G4||
+
+X:75
+T:Bourrée à Huit
+R:Bourrée (3 temps)
+A:Massif Central
+O:France
+M:3/8
+L:1/8
+Q:1/4=105
+K:C
+g2^f|g2d/2e/2|fed|ecc|g2^f|g2d/2e/2|fed|1c3:|2c2G|
+|:cBc|G2c|B/2c/2dg|ecc|cBc|G2c|B/2c/2dB|1c3:|2c2||
+
+X:76
+T:Bourrée de Brand
+R:Bourrée
+C:trad.
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+d>B GB|c3g|f>d ef|ga bg|d>B GB|c3g|f>d ef|g4:|
+|:c2e2|g=fd2|e=f/2e/2 de/2d/2|cB AG|c2e2|g=fd2|e=f/2e/2 dB|c4:|
+
+X:77
+T:An dro de Pluherlin
+R:An dro
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/8=170
+K:C 
+A|dc AA/2B/2 AG AB/2c/2|d>c Ac A/2B/2A/2G/2 AA|
+|dc AA/2B/2 AG AB/2c/2|d>c Ac A/2B/2A/2G/2 A2|
+dc B>A dc B>A/2|dc B>A/2 dc BE|
+AB c>c B/2A/2B/2c/2 BE/2E/2|AB c>A A/2B/2A/2G/2 AE|
+AB c>c B/2A/2B/2c/2 BE/2E/2|AB c>A A/2B/2A/2G/2 A2||
+W:C'est en dix ans, la bell' dites-moi
+W:Ce qui fait danser ma mie auprès de moi (bis)
+W:Le sais-tu bien ?
+W:Oui, je le sais
+W:As-tu les clés
+W:Oui, je les ai
+W:C'est la rosée du joli mois de mai
+W:Là qui fait danser ma mie auprès de moi (bis)
+
+X:78
+T:Laridé
+A:Bretagne
+O:France
+M:2/2
+L:1/4
+K:G
+E2B2|AcB2|A>BAF|1GAB2:|2GFE2|
+|:E2G2|GEF2|1FAAF|GAB2:|2F>GAB|GFE2|
+
+X:79
+T:Gavotte
+A:Bretagne
+O:France
+M:12/8
+L:1/8
+Q:1/4=110
+K:C
+E3/2AB/2cB/2c3/2|B/2c/2B/2 A G/2 A3/2A3/2:|
+|:E3/2AB/2cB/2c3/2|A/2B/2A/2 GA/2BG/2 F3/2|
+F3/2A B/2 cB/2c3/2|B/2c/2B/2AG/2 A3/2A3/2:|
+
+X:80
+T:Tour
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=190
+K:C
+E2 AB c2 AB|cc BA G4|E2 AB cA AB|c2B2A4:|
+|:c2 AB c2 AB|cc dc B4|cc AB cA AB|c2B2A4:||
+
+X:81
+T:Avant-deux de Chateaubriant 1
+R:avant-deux
+C:trad
+M:6/8
+L:1/8
+Q:1/8=250
+K:G
+G2Bddd|e2d AAB|1c2 A dcB|A2GA3:|2c2Ad3|F3G3|
+|:G2Bddd|e2d AAB|1c2 A dcB|A2GA3:|2c2Ad3|F3G3|
+|:G2BA2G|F2G AAB|1c2A dcB|A2GA3:|2c2Ad3|F3G3|D6||
+
+X:82
+T:Hanter dro
+R:hanter dro
+C:trad
+A:Bretagne
+O:France
+M:2/4
+L:1/16
+Q:1/4=90
+K:G
+B2 EG B2 G2|c4|B2 EG B2 G2|A2 e2|
+B2 EG B2 G2|c3 B|AB AG F2 D2|E4:|
+|:e2 ed c2 c2|de dc|1BA GG A2 GA|B4:|2d4 cABc|ABcA||
+
+X:83
+T:Changtu
+R:En dro
+C:trad France
+A:Bretagne
+M:2/4
+L:1/16
+Q:1/8=140
+K:G
+D2|BcBA B2G2|ABcBA2 D2|BcBAG2 B2|AG FA G2:|
+|G2|ccBA B2 GG|cc dc B3 G|
+|:B2 Bd G2 BB|AG FG A2A2|B2 Bd G2 BB|AG FA G4:||
+
+X:84
+T:Hanter dro an dro
+C:trad
+A:Bretagne
+O:France
+M:3/4
+L:1/8
+Q:1/4=90
+K:G
+BB/2B/2 AB GE|BA/2B/2 d^cB2:|
+M:2/2
+|:B/2B/2B/2B/2 AA/2B/2 G/2G/2G/2E/2 F2|B/2B/2B/2B/2 AA/2B/2 G/2E/2F/2G/2
+ E2:||
+
+X:85
+T:Kas a barh 1
+C:trad
+A:Bretagne
+O:France
+M:2/4
+L:1/8
+Q:1/4=80
+K:G
+dd/2e/2 cd|B>c d/2g/2g|dd/2e/2 cd|Bc d2:|
+|:G G/2A/2 B>A|GG/2e/2 d2|1c/2d/2c/2A/2 BG/2A/2|B/2G/2A/2B/2 A2:|2c/2d/2
+c/2A/2 BG|B/2G/2A/2^F/2 G2|
+
+X:86
+T:An dro
+C:trad
+A:Bretagne
+O:France
+M:2/2
+L:1/4
+Q:1/4=180
+K:Bb
+Gdd d/2e/2|cc/2d/2B2|A/2B/2c/2A/2 BG|G/2F/2G/2A/2 BA|
+Gddd/2e/2|cc/2d/2B2|A/2B/2c/2A/2 BG|B/2G/2A/2F/2 G2:|
+|:A/2B/2c/2A/2 BG|G/2F/2G/2A/2 BA|A/2B/2c/2A/2 BG|B/2G/2A/2F/2 G2:||
+
+X:87
+T:Avant-deux de Chateaubriant 2
+R:avant-deux
+C:trad
+M:6/8
+L:1/8
+Q:1/4=190
+K:G
+d2dB2B|ABA G3|1ddd g2 d|ddd B2 G:|2ddd g2 c|B2 AG3|
+|:d2dB2B|ABA G3|1ddd g2 d|ddd B2 G:|2ddd g2 c|B2 AG3|
+|:ggg f2 f|eeed2B|ddd g2 c|1B2AB3:|2B2AG3|D6||
+
+X:88
+T:Gavotte ton simple
+R:Gavotte
+C:trad
+A:Bretagne
+O:France
+M:6/8
+L:1/8
+Q:1/4=220
+K:G
+B2 AG2A|B2GA3|A2 B cBA|B3B3:|
+|:B2 AG2A|B2GA2F|F2 G ABA|G3 G3:||
+
+X:89
+T:Laridé
+R:laridé
+C:trad
+A:Bretagne
+O:France
+M:6/8
+L:1/8
+Q:1/4=230
+K:C
+A|:A2 B c2B|A2GF2E|D2EF2E|D3E3:|
+E2FE2D|C2B,D3|E2GB2d|1c2Bc2A:|2c2BA3||
+
+X:90
+T:Gavotte ton simple
+R:Gavotte
+C:trad
+A:Bretagne
+O:France
+M:6/8
+L:1/8
+Q:1/4=240
+K:C
+e2de2d|c2BA3|c2AB2c|B3B3:|
+|:e2de2d|c2BA3|c2A BcB|A3A3:||
+
+X:91
+T:Bal gavotte
+C:trad
+A:Bretagne
+O:France
+M:6/8
+L:1/8
+Q:1/4=80
+K:C
+ABc e3|dcB A3|efe d2 e|d2cB3:|
+|A2 ce2 d|c2BA3|A2Bc2e|e2 d/3c/2 B3|
+ABc e2 d|c2BA3|e2ed2c|BcB A3||
+
+X:92
+T:Gavotte ton double
+R:Gavotte
+C:trad
+A:Bretagne
+O:France
+M:6/8
+L:1/8
+Q:1/4=250
+K:C
+A2GA2c|B2cA3|e2ed2c|BcBA3:|
+|:e2fg2g|e2dc3|c2de2d|c2de3|
+e2fe2d|c2Bc2c|A2c BcB|A3 A3:||
+
+X:93
+T:Plinn ton simple
+R:Plinn
+C:trad
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=140
+K:C
+cA cc BB A2|cd ee dc B2:||:cd eg ec ed|c2 Ac BB A2:|
+
+X:94
+T:Tour
+R:En dro
+C:trad.
+A:Bretagne
+M:2/4
+L:1/16
+Q:1/4=110
+W:Y'a bien dix ans, tout le li, tout le long
+W:Y'a bien dix ans mais tout le long du bois
+W:Où étais-tu, étais-tu dis-le moi
+W:Où étais-tu mais tout le long du bois.
+K:C
+E2 AB c2 AB|cc BAG4|E2 AB cA AB|c2B2A4:|
+|:c2 AB c2 AB|cc dc B4|cc AB cA AB|c2B2A4:||
+W:
+W:Y'a bien dix ans, tout le li, tout le long
+W:Y'a bien dix ans mais tout le long du bois
+W:Où étais-tu, étais-tu dis-le moi
+W:Où étais-tu mais tout le long du bois.
+
+X:95
+T:Bal Plinn
+C:trad
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=200
+K:C
+|:E|A2 Bc2B|G3 G2E|A2Bc2B|G3G:|
+|:AB AG AB A2|GG FF ED EE|AB AG AB A2|GG FF ED E2:||
+
+X:96
+T:Suite de Loudéac
+C:trad
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=190
+W:Mon père a fait bâtir maison
+W:Je regrette nom de nom
+W:Je regrette nom de nom
+W:Les années qui s'en vont
+W:Je regrette nom de d'là
+W:Le bon temps qui s'en va
+K:C
+|:AG Ac BA G2|AB cA AG A2:|
+|:AB c2 BA G2|1c2 Bc dd c2:|2cc BA G2 A2|
+|:AB c2 BA G2|1c2 Bc dd c2:|2cc BA G2 A2||
+
+X:97
+T:Plinn ton double
+R:Plinn
+C:trad
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=180
+K:C
+|cA Be ed B2|cA BB A2A2:|
+|:cA Be ed B2|eg ed e2 eg|ed ce dc B2|c2 Ac BB A2:||
+
+X:98
+T:Kas a barh 2
+C:trad
+A:Bretagne
+O:France
+M:2/4
+L:1/8
+Q:1/4=110
+K:G
+G/2B/2A/2G/2 F>G|AA d/2e/2d|G/2B/2A/2G/2 F>G|B/2G/2A/2F/2 G2:|
+|dc/2B/2 A>B|c/2d/2c/2B/2 A2|G/2B/2A/2G/2 F>G|AA d2|
+dc/2B/2 A>B|c/2d/2c/2B/2 A2|G/2B/2A/2G/2 F>G|B/2G/2A/2F/2 G2||
+
+X:99
+T:Plinn ton simple 2
+R:Plinn
+C:trad
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=180
+K:C
+ce ce ef e2|dc ce e2 d2:||:ce ce eg e2|dc Bc dd c2:||
+
+X:100
+T:Contredanse de Plessala
+C:trad
+A:Bretagne
+O:France
+M:3/8
+L:1/8
+Q:1/4=190
+K:F
+C|F2 G|A3|GAG|A2 G|A3|GAB|A3|G3|F2G|A3|GAG|F2G|A3|G/2A/2B2|A3|G2A|c3|
+|:c3|c3|G/2A/2B2|c/2B/2 A2|G/2F/2 G2|A3|F2A|c3|
+c3|c3|G/2A/2B2|c/2B/2A2|G/2A/2G2|1F3|F2A|c3:|2F2 C|F2G|A3|G3|F3||
+
+X:101
+T:Du côté du bois
+R:Kost er hoet
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=180
+K:D
+B|cA Bc dc B2|AF GA F2E2|BA Bc dc B2|AF GA F2E2|
+BA Bc dc B2|A/2B/2A/2G/2 FB BA FB|B>A Bc dc B2|AF GA F2E2|
+BA Bc dc B2|A/2G/2G/2F/2 GA BA FB|B2 AB dc B2|AF GAF2 E||
+
+X:102
+T:Dans a ruz
+R:Gavotte
+A:Bretagne Pont-Aven
+O:France
+M:4/4
+L:1/8
+Q:1/4=180
+K:D
+F>E FG AF D2|F>E FG A2d2|F>E FG AF D2|E>D EF D2D2|
+|EE E2 FF F2|G>F EF DF A2|EEE2 FFF2|G>F GAF4||
+
+X:103
+T:Tour
+R:An dro
+C:trad
+M:2/4
+L:1/8
+Q:1/4=160
+K:F
+G/2|Ac c>B|GB A>G|Ac c>B|GB A3/2:|
+|G/2|Ac cB|AB G||:F|GG Ac/2B/2|Ac BG/2G/2|
+GG Ac/2B/2|AB G:||
+
+X:104
+T:Derrière de chez mon père
+R:Ridée
+C:trad
+H:Ridée de Pontivy
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=180
+K:G
+G2 GA GF ED|A2G2GF ED:|
+|:A2 AA GA B2|1GG/2G/2 AG B2 A z:|2GG/2G/2 AG A2 G z||
+
+X:105
+T:Périgourdine
+R:Divers
+C:Traditionnel
+H:Festival Boqueho Mai 1998
+A:Bretagne
+Z:J.M. HENRY
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+B>G Bd dc/2B/2 AA|BG Bd dc/2B/2 A2|BG Bd dc/2B/2 AA|BG Bd dc/2B/2 A2-|A2
+|G|AB G2 A>G FG|AB G2 A2 GG||AB G2 A>G FG|AB G2 A2 G4|!
+
+X:106
+T:Passe Pieds de Plaintel
+R:Passe Pieds
+C:Traditionnel
+H:Festival Boqueho Mai 1998
+A:Cotes d'Armor (Bretagne)
+Z:J.M. HENRY
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+|:BG AB cA BB/2B/2|BA GA/2B/2 cA B2:|!
+GA BA/2B/2 cB AA/2A/2|AG Ad/2d/2 dA B2|GA BA/2B/2 cB A2|AG A2 d2 G2|
+
+X:107
+T:Passe Pieds de Saint Carreuc
+R:Passe Pieds
+C:Traditionnel
+H:Festival Boqueho Mai 1998
+A:Cotes d'Armor (Bretagne)
+Z:J.M HENRY
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+EA Ac BA G2|BB BA/2B/2 c2 A2|EA Ac BA G2|BB BA/2B/2 c2 A2|!
+BB BA/2B/2 cA G2|BB BA/2B/2 c2 A2|BB BA/2B/2 cA G2|BB BA/2B/2 c2 A2|!
+
+X:108
+T:Passe Pieds de Ploeuc sur Lie
+R:Passe Pieds
+C:Traditionnel
+H:Festival Boqueho Mai 1998
+A:Cotes d'Armor (Bretagne)
+Z:J.M HENRY
+M:4/4
+L:1/8
+Q:1/4=160
+K:G
+Gd dB ce dB|ce dc BA BG|Gd dB ce dB|ce dc BA GA/2B/2|!
+cB Ad dd GA/2B/2|cB AB A2 GA/2B/2|cB Ad dd GA/2B/2|cB AB A2 G2|
+
+X:109
+T:Secouette de Boqueho
+R:Avant Deux
+C:Traditionnel
+H:Festival Boqueho Mai 1998
+A:Cotes d'Armor (Bretagne)
+Z:J.M HENRY
+M:2/4
+L:1/4
+Q:1/4=260
+K:G
+B2| AG|AA |BG|B2| AG|AA| B2|B2| AG|AA| BG|B2| AG|AA| B2|!
+B2 |B>A|Bc| d2|d>c| Bd|cB| A2-|AB| dB|d2| B>A|!
+GB| dB|dB| A2|GB| dB|d2| B>A|GB| dB|dB| A2|G2|
+
+X:110
+T:Ruban Bleu de Boqueho
+R:Avant Deux
+C:Traditionnel
+H:Festival Boqueho Mai 1998
+A:Cotes d'Armor (Bretagne)
+Z:J.M HENRY
+M:4/4
+L:1/8
+Q:1/4=250
+K:G
+G2 G2 d2 dd|d2 c2 d4|A2 B2 d2 c2|B2 A2 B2 G2|!
+G2 G2 d2 dd|d2 c2 d4|A2 B2 d2 c2|B2 A2 G4|!
+A2 B2 c2 cc| B2 A2 B2 B2|G2 A2 B2 B2| A2 G2 A4|!
+A2 B2 c2 cc| B2 A2 B2 B2|G2 A2 B4|A4 G4|!
+
+X:111
+T:Hanter Dro "Clam" No 1
+R:Hanter Dro "Clam"
+C:Traditionnel
+A:Bretagne
+O:France
+Z:J.M. HENRY
+M:3/4
+L:1/16
+Q:1/4=100
+K:C
+|: G2Gc e2d2 e2c2 | G2Gc e2d2 e2c2 | G2Gc e2d2 e4 :| !
+g2fe d2f2  e2c2 | c2Bc e2dc  d4| d4| c2cc B2c2 d4 | G2Bd f2e2 c4 ||
+
+X:112
+T:Hanter Dro "Clam" No 2
+R:Hanter Dro "Clam"
+C:Traditionnel
+A:Bretagne
+O:France
+Z:J.M. HENRY
+M:3/4
+L:1/16
+Q:1/4=100
+K:C
+|:e2dc d2e2 c2A2 | e2dc d2e2 c2A2 | e2dc d2e2 c4 :|
+A2Bc d2d2 c4 | e2dc B2c2 A4|A4 zz |A2Bc d2d2 c4 | e2dc B2c2 A4||
+
+X:113
+T:Adieu donc ma mie
+C:trad
+A:Haute Bretagne
+O:France
+Z:S Piron
+M:2/4
+L:1/8
+Q:1/4=140
+K:D
+D|DF AA|AA Ad||
+M:3/4
+Q:140
+dd B2 G2|BB A3 D||
+M:2/4
+Q:70
+DF AA|AA Ad||
+M:3/4
+Q:140
+dd B2G2|BB A3A|AF D2E2|FG FE DA|AF D2E2||
+M:2/4
+Q:70
+FG FE|D2 z2||
+W:Adieu donc ma mie je m'en vas
+W:Adieu donc ma mie je m'en vas
+W:Puisque ton bâtiment s'en va
+W:Puisque ton bâtiment s'en va
+W:Je m'en vas faire un tour à Nantes
+W:Puisque le roi me le demande !
+
+X:114
+T:Dans le port il est arrivé
+C:trad
+A:Haute Bretagne
+O:France
+Z:S Piron
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+DD/2G/2|GD DB|B2 Bc/2A/2|FD EF|
+G2DD/2G/2|GD DB|B2 Bc/2A/2|FD EF|
+G2 AA/2d/2|d^c cB|B2GG/2B/2|BA AF|D2 DG|
+GF/2E/2 DB|B2Bc/2A/2|FD EF|GF/2E/2 DG|
+GF/2E/2 DB|B2cA|FF/2D/2 EF|G2 z2||
+W:
+W:Dans le port il est arrivé
+W:Dans le port il est arrivé
+W:Un navire en cuivre doublé
+W:Un navire en cuivre doublé
+W:Que personne n'a visité
+W:Que la fille d'un conseiller.
+W:refrain :
+W:Par ma foi j'donn'rai bien cinq sous
+W:Pour passer la barque avec elle
+W:Par ma foi j'donn'rai bien cinq sous
+W:Pour passer la barque avec vous
+W:
+W:Que personne n'a visité
+W:Que la fille d'un conseiller.
+W:Dans un canot ayant sauté,
+W:Elle dit: Nage à aborder
+
+X:115
+T:Zannabal
+R:Hanter dro
+C:trad
+A:Bretagne
+O:France
+M:3/4
+L:1/8
+Q:1/4=160
+K:C
+"Am"ABcdeA|ef "G"g2gg| "Dm"fedc "F"d2|fe "E7"dcB2| "Am"ABcdec|ef "G"g2gg
+|"Dm"fedcd2|"F"f2"E7"e4:| 
+|:"Am"e2fe"F"d2|c2"G"B3c|"E7"dd ed "F"c2|Ac "G"B2G2|"Am"e2fe"F"d2|c2"G"B3c|
+"E7"dd ed "F"c2|"G"B2"Am"A4:|
+
+X:116
+T:Feuille, feuille
+R:Hanter dro, En dro
+C:trad.
+S:Yann Dour - musiques pour la danse bretonne
+A:Bretagne
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/4=180
+K:C
+e/2d/2 e/2f/2 g g/2f/2|ec|
+e/2d/2 e/2f/2 g g/2f/2|e2:|
+|:Ad/2d/2dg/2e/2|cc/2B/2AA/2c/2|de/2d/2cB|A2:||
+W:
+W:Feuille, feuille, feuille s'envole
+W:Pique, pique pique le houx
+W:Feuille, feuille, feuille s'envole
+W:Pique, pique pique le houx
+W:Cà fait dix ans j'allais à la fontaine
+W:Et j'ai pris le plaisir d'aimer
+W:Cà fait dix ans j'allais à la fontaine
+W:Et j'ai pris le plaisir d'aimer
+
+X:117
+T:Dix canetons
+R:Tour (En dro)
+C:trad.
+S:Yann Dour - musiques pour la danse bretonne
+A:Bretagne
+O:France
+Z:S. Piron
+M:C
+L:1/8
+Q:1/4=160
+K:C
+A2 AE A2c2|B2BGB2B2|A2AEA2c2|B2G2A4:|
+B2Bdc2A2|B2Bdc2A2|A2 AE A2 c2|B2G2A4:||
+W:
+W:Mon père a 'cor dix canes, canes, canes
+W:Mon père a 'cor dix canetons
+W:Mon père a 'cor dix canes, canes, canes
+W:Mon père a 'cor dix canetons
+W:Dix canes, canes, dix canetons
+W:Dix canes dans les marais s'en vont
+W:Dix canes, canes, dix canetons
+W:Dix canes dans les marais s'en vont
+W:
+W:Mon père a 'cor neuf canes, canes, canes
+W:Mon père a 'cor neuf canetons
+W: etc....
+
+X:118
+T:J'ai dix sous dans ma poche
+R:Tour (En dro)
+C:trad.
+A:Bretagne
+O:France
+M:C
+L:1/8
+Q:1/4=160
+K:C
+E|AA AA (3ABA GA|B2c2B3:|
+A|d2c2 (3BcB AA|d2c2B4|
+|:E2 AB c3c|d2c2 (3BcB AB|c2B2A4:||
+W:
+W:J'ai dix sous dans ma poche et aucun argent
+W:J'ai dix sous dans ma poche et aucun argent
+W:Toujours gai gai, toujours gaiement
+W:Y'a bien dix gars dans mon village
+W:Qui n'en ont point tant
+W:
+W:J'ai neuf sous dans ma poche et aucun argent
+W: etc...
+
+X:119
+T:Pile menu
+C:trad.
+A:Bretagne
+O:France
+M:2/4
+L:1/8
+Q:1/8=220
+K:F
+A|AG FA|AG AA/2A/2|GG FA/2A/2|AG A:|
+|:F/2F/2|FG A2|cA GF/2F/2|EF GA/2B/2|AG F:||
+
+X:120
+T:Rond de Saint-Vincent
+C:trad.
+A:Bretagne
+O:France
+M:2/4
+L:1/8
+Q:1/8=220
+K:F
+GB/2A/2 GF|G2 BA/2B/2|cA BG:|
+|:GG/2G/2 AG|F2 BA/2B/2|cA BG|GG/2G/2 AG|F2 BA/2B/2|cA G2:||
+
+X:121
+T:Les filles de Couya
+R:Rond Saint-Vincent
+C:trad.
+A:Bretagne
+O:France
+M:12/8
+L:1/8
+Q:1/4=190
+K:G
+G2AG2FE2FG3|G2AG2FE2FG3|G2AG2FE2FG3|
+G2AG2FE2FG3|G2AG2FE2FG3|G2AG2FE2FG2A|
+A2AA2AB3A3|G2Ac2BA2GF2G|A2Ac2BA3G2A|
+A2AA2AB3A3|G2Ac2BA2GF2G|A2Ac2BA3G3||
+W:
+W:1ere partie (bis) :
+W:Y'a cor 10 filles à Couya
+W:Qu'ont coupé la queue d'leur chat
+W:Qu'ont coupé la queue d'leur chat
+W:
+W:2eme partie (bis) :
+W:Les ont mis sur le grill
+W:On fait croire à leur mari
+W:Que c'était des anguilles
+
+W:
+X:122
+T:Hanter Dro
+R:Hanter dro
+C:trad.
+A:Bretagne
+O:France
+M:3/4
+L:1/16
+Q:1/8=160
+K:F
+GGFE D2EF G2G2|FGFE D2G2 F4:|
+|:FGFE D2G2 F2F2|FGFE D2G2F4:||
+
+X:123
+T:Ridee 6 temps
+R:ridee
+C:trad.
+A:Bretagne
+O:France
+M:2/4
+L:1/8
+Q:1/8=260
+K:G
+d|dd cB|Ad Gd|dd cB|Ad Gd|dd cB|Ad Gd|dd cB|Ad G2|
+|:GG AB|cA dd|cB AG|A2G2:||
+
+X:124
+T:Ridee 6 temps
+R:ridee
+C:trad.
+A:Bretagne
+O:France
+M:2/4
+L:1/8
+Q:1/8=300
+K:G
+|:D|GA Bc|dB d2|cB AD|GA Bc|dB d2|cB A:|
+|:d|de d2|G2 Ac|BA Gd|de d2|G2 Ac|BA G:||
+
+X:125
+T:Marche a Compagnon
+A:Morvan
+O:France
+M:2/4
+L:1/4
+Q:1/4=120
+K:C
+G A/2B/2|c B/2c/2|e d/2c/2|g2|f e/2d/2|g3/2 f/2|e/2d/2
+A3/4B/4|AG|
+G A/2B/2|c B/2c/2|e d/2c/2|g2|f e/2d/2|g3/2f/2|e/2d/2 A3/4B/4|c
+c:|
+|:G/4A/4B/4c/4 d/2d/4c/4|d/2e/2 d/2c/2|G/2c/2e/2d/4e/4|f/2e/2 d|
+G/4A/4B/4c/4 d/2d/4c/4|d/2e/2 c/2e/2|g/2f/2 A3/4B/4|c2:||
+
+X:126
+T:Rigodon de Pelafol
+A:Dauphin&eacute;
+O:France
+M:2/4
+L:1/8
+Q:1/8=160
+K:G
+GB|d2e/2f/2 g/2e/2|ddGB|d3/2 e/2 d/2c/2B/2A/2|G2:|
+:|G/2B/2 G/2B/2|AAA/2c/2 A/2c/2|BB e/2f/2 g/2e/2|d3/2 e/2 d/2c/2
+B/2A/2|G2:|
+
+X:127
+T:Rondeau
+O:France
+M:C
+L:1/4
+Q:1/4=200
+K:C
+EA|A>GAB|G>ABG|A2F2|E2:|
+|:EA|A>GAB|c>Bcd|B2G2|A2:|
+
+X:128
+T:Allez-vous-en
+R:Maraichine
+A:Poitou - Normandie
+O:France
+M:2/4
+L:1/8
+Q:1/8=180
+K:G
+AB/2A/2GG|AcBG|AB/2A/2GG|AFG2:|
+|:GA/2B/2cc|cdcB|AB/2c/2dd|cBA2:|
+W:Allez-vous-en jeunes gens d'la noce
+W:La mari&eacute;e est fatigu&eacute;e (bis)
+W:Elle a un' puce dans son corsage
+W:Que l'mari&eacute; veut lui enl'ver (bis)
+
+X:129
+T:Rondeau du Savès
+A:Gers
+O:France
+M:2/4
+L:1/8
+Q:1/8=230
+K:G
+d>c BA|GB A/2B/2A|d>c BA|GB A2:|
+|:G>A Bc|BA d2|d>e dc|1A/2c/2A/2c/2 BG:|2BA G2||
+
+X:130
+T:D'r Hans im Schnokeloch
+A:Alsace
+O:France
+M:2/4
+L:1/8
+K:G
+D|G2d2|B>A GG|AA DD|G2 zG|
+AB cA|Bc dB|AB cA|Bc dD|
+G2d2|B>A GG|AA DD|G2 z||
+W:D'r Hans im Schnokeloch
+W:Hett alles was er will!
+W:Un was er hett des well er nitt
+W:Un was er will des hett er nitt
+W:D'r Hans im Schnokeloch
+W:Hett alles was er will!
+
+X:131
+T:Mueder, ich well a Ding
+A:Alsace
+O:France
+M:2/4
+L:1/4
+K:F
+A A/2A/2|GG|F2|zC|AA|GG|F2|
+F>G|AB|cc|c2|d2|fd|c2|
+|BB|BB/2B/2|AA|AA|GG|AG|FA|c2|
+|BB|BB/2B/2|AA|AA|GG|AG|F2||
+W:Mueder, ich well a Ding
+W:a Ding, a Ding, a Ding.
+W:Guell du wett a Reckele ?
+W:Nei, Momme, Nei
+W:O was ich fer a Mueder ha
+W:Die jo gar nix rote ka
+W:O was ich fer a Mueder ha
+W:Die gar nix rote ka
+W:
+W:Guell du wett a Fletele ?
+W:Nei, Momme, Nei
+W:
+W:Guell du wett a M&auml;nnele ?
+W:Ja, Momme, Ja
+W:O was ich fer a Mueder ha
+W:Die jo alles rote ka
+W:O was ich fer a Mueder ha
+W:Die alles rote ka
+
+X:132
+T:Rondeau 2
+A:Gascogne
+O:France
+M:6/8
+K:C
+G2G A2A|BAG c2c|G2G A2A|BAG c3:|
+|:e2 g gfe|dcd e2c|e2g gfe|ded c3:||
+
+X:133
+T:Rondeau 3
+A:Gascogne
+O:France
+M:2/4
+L:1/8
+Q:1/8=190
+K:G
+G/2A/2B/2A/2 GF/2G/2|Ad BG|G/2A/2B/2A/2 GF/2G/2|AD G2:|
+|:GA/2B/2 cB/2c/2|dc/2B/2 A2|cB/2A/2 GF/2G/2|1Ad BG:|2AD G2||
+
+X:134
+T:Grand Pere Corbefin
+R:Rondeau
+A:Gascogne
+O:France
+M:2/4
+L:1/8
+K:C
+g>f eg|ed cd|1ee ef/2e/2|dc d2:|2ef gc|d2c2|
+|:c/2d/2e/2f/2 gg|aa g/2a/2g/2f/2|e/2d/2e/2f/2 gg|aa g2:||
+
+X:135
+T:Branle de Gouloux
+A:Morvan
+O:France
+M:6/8
+K:G
+G2BA2G|FGA G2 D|G2 BA2G|FGA G3:|
+|A3A2G|F2ED3|D2GF2G|A2Bc2A|A3A2G|F2ED3|D2GF2F|G2AG3||
+
+X:136
+T:Rondeau de Samatan
+R:Rondeau
+A:Gascogne
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:G
+GA/2B/2 AG|FA AG|GA/2B/2 AG|FA G2:|
+|:GA/2B/2 Ad|dc/2B/2 AA|GA/2B/2 Ad|d2 A2:||
+
+X:137
+T:Branle de Pierrot
+A:FLANDRE
+O:FRANCE
+M:6/8
+L:1/8
+Q:1/4=150
+K:C
+GAB|c2cc2c|c3ABc|d2cB2A|G3:|d3|G2BZBd3G2BZ|
+|:G3|ABcA2B|c2BZBG3|ABcA2B|c3:||
+
+X:138
+T:Branle du curé
+A:FLANDRE
+O:FRANCE
+M:2/4
+L:1/8
+Q:1/4=150
+K:G
+GG/2G/2|ddBd/2c/2|cBBAG|B2c2|dD2:|
+AA/2A/2|AABBc|d2GG/2G/2|GGF>E|D2GG/2G/2|AABc|d2G2|dc BA|B>A G2||
+
+X:139
+T:Les filles de Dunkerque
+A:FLANDRE
+O:FRANCE
+M:2/4
+L:1/8
+Q:1/8=220
+K:F
+F2FA|c2BA|GcAF|F2FA|c2BBA|GcF2|A2AG|A2B2|
+cAF2||
+M:9/8
+F2FBFFFBFEF|G2GG2cc2B|
+M:2/4
+A2B2|cAF2|
+M:9/8
+F2AG2GF3||
+
+X:140
+T:la Fricassée
+A:Ile de France
+O:France
+M:4/4
+L:1/8
+Q:1/4=180
+K:G
+D2|G3ABABG|c4c2dc|
+cB AB cB AG|AG FE D3D|	
+G3ABA BG|c6dc|cB AB cB AB|G4G2||
+Bc|d2d2c2B2|c6Bc|
+d2d2c2B2|c6Bc|d2d2c2B2|c2d2e2d2|
+c2B2A2G2|AGFE D2||
+
+X:141
+T:La Sauteuse
+O:FRANCE
+M:6/8
+L:1/8
+Q:1/4=180
+K:G
+d2c|B3ABc|B2Gd2c|
+B3ABc|B3G2A|B2BB2B|
+d2Bd2B|G2FG2B|
+A3A2B|ddd ded|
+B2Bd2c|B3AGA|G2 z||
+
+X:142
+T:Le hareng saur
+A:FLANDRE
+O:FRANCE
+M:6/8
+L:1/8
+Q:1/4=120
+K:Cdor
+G|G2AB2c|d2d cdc|B2AG2G|G2AB2c|d3cdc|B2AG2|
+|:A|B2AG2A|B2AG2:|d|d2dc2d|B2AG2 z||
+
+X:143
+T:Les dames de Paris
+A:Ile de France
+O:FRANCE
+M:6/8
+L:1/8
+Q:1/4=160
+K:G
+DDD|B2BA2A|G2 z BBB|
+d2d c2c|B2 z ddd|e2e c2c|
+B2cBBB|c2A AAA|D2D GGG|
+G2DBBB|B2G d2e|
+d2d cBA|G3||
+
+X:144
+T:La queue du renard
+R:MARAICHINE
+A:Poitou
+O:France
+M:2/4
+L:1/8
+Q:1/4=150
+K:Fdor
+EB BG|BA/2G/2 FE|
+EB BA|B2F2:|
+|:FG GE|GG/2F/2 EE|DF AC|F2E2:||
+
+X:145
+T:Les navetières
+A:ILE DE FRANCE
+O:FRANCE
+M:2/4
+L:1/8
+Q:1/4=160
+K:D
+A2|ddcA|eeA2|
+ddcA|d2A2|ddcA|ddF2|
+BGAA|D2||AA|
+ee/2d/2cA|ddFF|
+BB/2G/2AA|D2||
+
+X:146
+T:Riou Piou Piou
+R:Branle morgué
+A:Flandre
+O:France
+M:6/8
+L:1/8
+Q:1/4=140
+K:D
+DD2D|E2E EFG|A2d dcB|
+A2c dcB|A2DD2D|E2E EFG|
+M:9/8
+F3E3D2D||
+M:6/8
+D2 z d2D|D3d2D|D2||
+
+X:147
+T:Ronde de la chaise
+A:FLANDRE
+O:FRANCE
+M:6/8
+L:1/8
+Q:1/4=180
+K:Cdor
+B3F2F|G2AB3:|
+c2cc2d|e2dc3|
+d2B BAB|c2cF3|
+G2GA2A|B3B2 z/:||
+
+X:148
+T:Les deux amants
+R:Branle
+A:Flandre
+O:France
+M:6/8
+L:1/8
+Q:1/4=170
+K:F
+F2GA2A|B2AF2F|c2B ABc|F3F2c|c2cd2c|B2BB3|
+|:A2A ABA|G2GG3|
+c2B ABc|1A3A3:|2F6||
+
+X:149
+T:Ronde de la dévote
+A:FLANDRE
+O:FRANCE
+M:6/8
+L:1/8
+Q:1/4=180
+K:D
+AAA Bcd|A3D2D|G2G EFG|
+A3 z2 A|A2Ac2d|A2GF2F|
+G2GEFG|A3 z2 A|A3d3|
+A3F2A|A3d2|A3F2 z|
+GGG EFG|F2ED2F|
+GGG EFG|F2ED2 z|||
+
+X:150
+T:T'as perdu tes gants
+R:Maraichine
+A:Poitou
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+B>G B>d|B>A AG|BB BA/2G/2|B2A2:|
+|:B>G B>A|(3GFE Dd|1d>c A>c|B2G2:|2d>c A>B|G2 z2||
+
+X:151
+T:Les filles de Dunkerque
+A:FLANDRE
+O:FRANCE
+M:2/4
+L:1/8
+Q:1/4=160
+K:F
+F2FA|c2BA|Gc AF|F2FA|c2 BA|GcF2|A2AG|A2B2|cAF2||
+M:9/8
+F2F FFF FEF|G2GG2 cc2B||
+M:2/4
+A2B2|cA F2|
+M:9/8
+F2AG2GF3||
+
+X:152
+T:A la pointe de l'épée
+R:Rondo
+C:trad
+A:Gascogne
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:C
+EE|A>G AB|cB AB|A z:||AB|c2 ed|B2 dc|
+A>G AB|cB AB|c2 ed|B2 dc|AG/2A/2 BG|A z||
+W:
+W:L'autre jour m'en étais allé
+W:Un flûtiau j'avais acheté (bis)
+W:Et le flût et le flût de mon flûtiau (bis)
+W:Et le rapataplan de mon tambour (bis)
+W:
+W:L'autre jour m'en étais allé
+W:Un violon j'avais acheté (bis)
+W:Et le jig et le jag de mon violon (bis)
+W:Et le flût et le flût de mon flûtiau (bis)
+W:Et le rapataplan de mon tambour (bis)
+
+X:153
+T:le rondo du tambour
+R:Rondo
+C:trad
+A:Aquitaine
+O:France
+M:6/8
+L:1/8
+Q:1/4=170
+K:D
+D2D|A2A Bcd|A3G2G|FFF E2E|D3:|
+|:AA|DDDD2 F|E2DE2:||:d |dcB A2 G|F3 d3|ABA GFE|D3||
+W:
+W:L'autre jour m'en étais allé
+W:Un flûtiau j'avais acheté (bis)
+W:Et le flût et le flût de mon flûtiau (bis)
+W:Et le rapataplan de mon tambour (bis)
+W:
+W:L'autre jour m'en étais allé
+W:Un violon j'avais acheté (bis)
+W:Et le jig et le jag de mon violon (bis)
+W:Et le flût et le flût de mon flûtiau (bis)
+W:Et le rapataplan de mon tambour (bis)
+
+X:154
+T:J'ai vu le renard
+R:Rondo
+C:trad
+N:Variation d'un air bien connu
+A:Aquitaine
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+d/2d/2c/2B/2|AG/2G/2 FF/2G/2|AB d/2d/2c/2B/2|AG/2G/2 FA|D2:|
+|:D/2F/2F/2F/2|DF/2F/2 DF/2F/2|GE C/2E/2E/2E/2|CE/2E/2 CE|D2:||
+
+X:155
+T:Pas du loup
+C:trad
+A:Limousin
+O:France
+M:2/4
+L:1/8
+Q:1/8=220
+K:G
+DB/2G/2 DB/2G/2|DB BA|DA/2F/2 DA/2F/2|DA G2:|
+|:dc/2B/2 AB/2c/2| de ed|dc/2B/2 AB/2c/2|de d2:||
+
+X:156
+T:Maraichine
+C:trad
+A:Bretagne
+O:France
+M:6/8
+L:1/8
+Q:1/4=190
+K:G
+|:d2Bd2B|dcB ABc|d2Bd2B|d3A3:|
+|:G2BA2B|cBA B2 G|G2 BA2B|cBA G3:||
+
+X:157
+T:Rigaudon
+C:trad
+A:Dauphiné
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+cd ee|ff g2|gg ag|1ff ee:|2ff e2|
+|:df ed|ec d2|GA Bc|1df ec:|2de c2||
+
+X:158
+T:Mon pauvre amant
+R:Valse
+C:trad
+O:France
+M:3/4
+L:1/4
+Q:1/4=220
+K:G
+DEF|GGG|GEF|G3|GAB|ABA|GFE|1D3:|2D2B|
+|B2A|G3|F3|GAB|c2c|B2B|A2A|G3|F3|DGA|B2A|G3|G3||
+
+X:159
+T:La fille du paysan
+R:Rondo
+C:trad
+A:Gascogne
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+D|:G/2G/2G/2G/2 GA|B/2B/2B/2B/2 BB|cA FD|1G2GD:|2G2G z|
+|dd dd|B2 G G/2A/2|Bd cB|A2 z D|G>A Bc|B2 dd|cc BA|G2 G z||
+
+X:160
+T:Veux-tu te marier
+R:Branle
+C:trad
+A:Gascogne
+O:France
+M:6/8
+L:1/8
+Q:1/4=150
+K:G
+B2 A|G3 DEF|G2G:||:G2A |B2BB2B|c3:|
+|BcB|A2A FGA|B2 G BcB|A2A ABA|G3||
+W:
+W:Te veux-tu te marirer Rosette
+W:Rosette veux-tu te marier
+W:Digodon dondon la deridéto
+W:Digodon don lala derida
+
+X:161
+T:Fillettes de Libourne
+R:Branle
+C:trad
+A:Pyrénées
+O:France
+M:2/4
+L:1/8
+Q:1/4=180
+K:G
+GA|B2c2|dc BG|A4|A z:||:de|d>c Bc|d z:|
+|BB|BB dc|BA DD|G>A Be|d>e dc|B2A2|G2||
+W:
+W:Les fillettes de Libourne houp !
+W:De plus belles n'y a pas.
+W:Riou piou piou sur la branchette
+W:De plus belles n'y a pas,
+W:Le merle chantera.
+
+X:162
+T:Yan de la Réole
+R:Branle
+C:trad
+A:Pyrénées
+O:France
+M:6/8
+L:1/8
+Q:1/4=150
+K:Bb
+GGG|B2AB2c|d3 dcB|A2Bc2d|B2A:|
+|ABc|B3 ABG|A3D2G|_F2GA2c|B2A ABc|
+B3 ABG|A3D2G|_F2GA2B|G3||
+W:
+W:Yan de la Réole mon ami,
+W:Ah que ta femme est mal coiffée.
+W:Mène la moi, la coifferai
+W:A l'ombrette, à l'ombrette
+W:Mène la moi, la coifferai
+W:A l'ombrette d'un pêcher.
+W:
+W:Yan de la Réole mon ami,
+W:Ah que ta femme est mal lavée.
+W:Mène la moi, la laverai
+W:A l'ombrette, à l'ombrette
+W:Mène la moi, la laverai
+W:A l'ombrette d'un pêcher.
+W:
+W:Yan de la Réole mon ami,
+W:Ah que ta femme est mal chaussée.
+W:Mène la moi, la chausserai
+W:A l'ombrette, à l'ombrette
+W:Mène la moi, la chausserai
+W:A l'ombrette d'un pêcher.
+W:
+W:Yan de la Réole mon ami,
+W:Ah que ta femme est mal aimée.
+W:Mène la moi, je l'aimerai
+W:A l'ombrette, à l'ombrette
+W:Mène la moi, je l'aimerai.
+W:A l'ombrette d'un pêcher.
+
+X:163
+T:Yam Petit que dansa
+R:Ronde
+A:Aquitaine
+O:France
+M:2/4
+L:1/8
+Q:1/4=180
+K:C
+Ae ed|e2c2|dd de|cB A z|Ae ed|e2c2|dd cB|
+M:3/4
+cB A z|AB|
+M:2/4
+czdz|c z||AB|czdz|ez ee/2e/2|e/2f/2e/2d/2 cB|A2||
+
+X:164
+T:La Maristingo
+R:Gigue
+A:Aquitaine
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+Gc|cc/2c/2 GE|G2 Ge|ed de|dc Gc|cc/2c/2 GE|G2 Ge|ed cB|c2:|
+
+X:165
+T:Son Ar Skoff
+C:trad
+S:from the playing of John Skelton
+D:John Skelton, "One At A Time" (Pan Records 146CD)
+O:Pourlet region of Brittany
+Z:Gary Chapin
+M:3/4
+L:1/4
+Q:1/4=250
+K:E Minor
+EGB|A2 B|G2 F|E2F|G/F/ EF|G2 A|BAB|F3|G/F/Ec|B2c|AGF|E3|EGB|A2 G|B/A/ GF
+|E3::
+EFA|G3|EFA|G3|FGA|BcA|B2G|F3|FGA|B2A|B2G|F3|EFA|G3|F/E/DE|E3:||
+
+X:166
+T:Rondeau de Lagardère 1
+C:trad
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=150
+K:G
+DEF G2 D|B2 Gd2B|GBdc2B|1AcAB2G:|2AcA G3|
+|:GBd c2B|A2ed3|GBd c2B|1AcAB2G:|2AcA G3||
+
+X:167
+T:Rondeau de Lagardère 2
+C:trad
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=200
+K:C
+E2 AA2G|A2 c BcB|E2 AA2G|A2cB3:|
+|:E2AA2G|E2F GAG|E2AA2G|E2F G3:||
+
+X:168
+T:Rondeau d'Ernest Lurdes 1
+C:trad
+A:Gers
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=190
+K:C
+geg g2e|geg g2e|gfe dcd|1fed e2c:|2fed c3|
+|:cde dcd|fed e2c|cde dcd|fed c3:||
+
+X:169
+T:Rondeau d'Ernest Lurdes 2
+C:trad
+A:Gers
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=180
+K:C
+ece gag|ece gag|ecd e2g|1gfe d3:|2dcd c3|
+|:e2 g gfe|dcd e2c|e2 g gfe|ded c3:||
+
+X:170
+T:Marianne
+R:Cercle
+C:trad
+A:Bearn
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=190
+K:C
+G|c2d ede|gag efe|dcd c2 G|
+|:c2 d ede|gag efe|1dcd e2G:|2dcd c2G|
+|:c2 d ede|gag efe|1dcd e2G:|2dcd c2G|
+|:c2d ede|gag e2d|c2d ede|1gag e2 G:|2gag ede|
+|:f3 ede|f3e2d|cdc BAG|cdc BAG|c2d ede|gag efe|1dcd cde:|2dcd c2 G||
+
+X:171
+T:La boulangère del pallars
+C:trad
+A:Catalogne
+O:France
+Z:S.Piron
+M:6/8
+L:1/8
+Q:1/4=220
+K:C
+GAB|:c2cc2c|d3A2B|c2BA2B|1G3 GAB:|2G2 EE2E|
+|F2F A2A|G3 EDE|F2F A2A|G3 EDE|F2F A2A|G3 EDE|F2GA2B|c3 GAB||
+
+X:172
+T:Yousca
+R:Ronde
+C:trad
+A:Gascogne
+O:France
+Z:S.Piron
+M:6/8
+L:1/8
+Q:1/4=180
+K:C
+g|:c2de2f|g2g a2a|g2g a2a|1g3g2g:|
+M:9/8
+|2g3g2gg2g|
+M:6/8
+|c'2 gg2f|e2e ede|gfe ded|c2 e ede|gfe ded|c3c2 g||
+
+X:173
+T:Rondeau
+C:Adam de la Halle
+H:XIV eme siecle
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=120
+K:C
+c2 (3:2:3c/2B/2A/2|(3:2:2GF/2 E F|GA (3:2:2Bc/2|dd(3cd/2|e2 (3d/2c/2B/2|(3:2:2AG/2 AB|
+|c2 (3c/2B/2A/2|(3:2:2GF/2 E F|GA (3:2:2Bc/2|(3:2:2dc/2 BA|c2 z||
+|:c2 (3c/2B/2A/2|(3:2:2GF/2 E F|GA (3:2:2Bc/2|dd(3:2:2cd/2|e2 (3d/2c/2B/2|1(3:2:2AG/2 AB:|2A2 
+z||
+W:
+W:A Dieu comant amouretes
+W:Car je m'en vois
+W:Soupirant en terre estrange.
+W:
+W:Dolans lairai les douchetes
+W:Et mout destrois.
+W:
+W:J'en feroie roïnetes
+W:S'estoie roys,
+W:Coment que la chose empraigne.
+W:
+W:A Dieu comant amouretes
+W:Car je m'en vois.
+
+X:174
+T:Tais-toi
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+d/2e/2d/2c/2|B2B>A|B>A GF|G2G/2A/2B/2c/2|
+|:d2d>d|g>f ed|d2d/2e/2d/2c/2|B2B>A|B>A GF|1G2G/2A/2B/2c/2:|2G2dd|
+B2B2|BG/2B/2dd|BGdd|B2B2|BG/2B/2dB|AG/2A/2B/2c/2|
+|:d2d>d|g>f ed|d2d/2e/2d/2c/2|B2B>A|B>A GF|1G2G/2A/2B/2c/2:|2G2dd|
+B2B2|BG/2B/2dd|BGdd|B2B2|BG/2B/2dB|AG/2A/2B/2c/2||
+
+X:175
+T:Le Valet rusé
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:2/4 et 3/4
+L:1/8
+Q:1/4=130
+K:C
+cce|:g2g2a^f|gcce|g2g2a^f|gcce|g2g2|d>ddfed|cc ce|g^fg2de|cc ce:|
+
+X:176
+T:Marche du roi Malbrouck
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+D|:GG>G|GBAG|A2A>A|A3D|AA>A|ABcA|B2B>B|B2 zd|B>BBB|
+B2dd|e>c cc|c2cc|A>AAA|A2cc|d>cBA|G3 D:|
+
+X:177
+T:La mal mariée
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:4/4
+L:1/8
+Q:1/4=105
+K:C
+G|:ccd2 fe dd cG |cc d2 fe dd cc|
+de fg fe dd |ef gG cc d2| fe dd cA d2|d2c2cG:||
+
+X:178
+T:Hilf o Himmel
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=90
+K:C
+e>fe d>cd|e2AA2G|c>Bc|d>cd|e>dc B2B|
+A>Bc B>cd|e2AA2G|A>Bc B>ed|cAG A3||
+
+X:179
+T:Rondeau de Saumejan
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+G>F GA|BA/2G/2AA|G>F GA|BA/2G/2A2:|
+G>B AG|FED>E|EED>E|EED2:||
+
+X:180
+T:Rondeau Landes
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=180
+K:G
+GAB c2c|d2cA2A|GAB c2c|d2cA3:|
+ABc B2A|G2FG2G|ABcB2A|G2FG3:||
+
+X:181
+T:Sur la Loire ils s'en vont
+C:trad.
+A:Bourbonnais
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=120
+K:F
+F|G2GF2E|F3F2F|G2FB2A|1G3G2:|2G3|
+|:G>AB c3|B>AG F3|A>GF E2F|1G6:|2G3G2||
+W:
+W:Y'a pas de gens plus drôles
+W:Ce sont les mariniers
+W:En voulez-vous, dites mesdames
+W:De ces bons compagnons
+W:Prenant bien garde à la balise
+W:Sur la Loire ils s'en vont
+W:
+W:Ils s'en vont sur la Loire
+W:Et font rien que chanter,
+W:En voulez-vous...
+W:
+W:Une fille qui les regarde
+W:Belle voulez-vous monter
+W:
+W:Quand elle fut sur la Loire
+W:La mine lui a changé
+W:
+W:Je r'grette mon père ma mère
+W:Que j'ai abandonnés
+W:
+W:Ne r'grettez rien la belle
+W:Nous vons vous débarquer
+W:
+W:Ouvrez mon père, ma mère
+W:Je viens de m'promener
+W:
+W:Tout le long de ces îles
+W:Avec les mariniers
+
+X:182
+T:La Morvandelle
+R:marche
+C:trad.
+A:Morvan
+O:France
+M:2/4
+L:1/8
+Q:1/4=90
+K:C
+cBAG|c2c2|d>e dB|A2G2:|
+cdef|e2e2|d>c Bc|d4|defd|c2d2|G>G AB|c4||
+
+X:183
+T:Sur de la pâte fine
+R:branle
+C:trad.
+O:France
+Z:S. Piron
+M:2/2
+L:1/8
+Q:1/4=180
+K:Bb
+d2g2_g2=g2|a2b2z2b2|c'ba2g2a2|_g2=g2 z4|d2g2_g2=g2|a2b2z2b2|
+c'ba2g2a2|_g2=g2 z4|bc'd'2d'2d'2| \
+z2e'd'c'ba2|abc'2c'2c'2|z2d'c'bag2|b2a2g2a2|_g2=g2 z4||
+
+X:184
+T:Si j'avais un bon ami
+R:bourrée 2 temps
+C:trad.
+A:Morvan
+O:France
+Z:Sylvain Piron
+M:2/4
+L:1/8
+Q:1/4=120
+K:Gm
+G>A BG|A^FG2|Bc dB|dc A2|G>A BG|A^F G2|Bc dB|dc A2|
+B>c de|dc A2|cBG2|A^F D2|B>c de|dc A2|cBGG|A^F G2|
+
+X:185
+T:Mazurka souto li pins
+R:mazurka
+A:Provence
+O:France
+M:3/4
+L:1/8
+Q:1/4=160
+K:G
+D2|G2G>B d>e|d2d2D2|G2G>A B>c|B4d2|
+c2c>B A>G|F2F2A2|D2E>F G>A|[1B4:|[2G4||
+|:D2|B2^A2B2|G4D2|d2^c2d2|B4d2|g2f2e2|c4A2|1 f2e2c2| B4D2:|2
+f2e2F2|G4||
+
+X:186
+T:Mazurka de Lapleau
+R:mazurka
+C:Trad.
+A:Massif Central
+O:France
+M:3/4
+L:1/8
+Q:1/4=150
+K:G
+DG|B2BdBG|B2BdBG|A2AcBA|1B2G2:|2G4|:
+dB|GDGBdB|c2A2cA|FDFAcA|B2G2dB|
+GDGBdB|c2A2cA|FDFAcA|G4:||
+
+X:187
+T:Mazurka
+R:mazurka
+C:Trad.
+A:Massif Central
+O:France
+M:3/4
+L:1/8
+Q:1/4=140
+K:G
+D2GFG2|D2BAB2|1cBAGFG|AGFED2 :|2cBAGFA|G4Bc|
+|:d2dedc|B2G2AB|1c2cdcB|A4Bc:|2cBAGFA|G6||
+
+X:188
+T:Varsovienne
+R:mazurka
+O:France
+M:3/4
+L:1/4
+Q:1/4=220
+K:C
+G|:e/2d/2eG|e/2d/2eG|e/2d/2ef|d2G|d/2c/2dG|d/2c/2dG|d/2c/2de|1c2G
+:|2c2c|
+|:B/2A/2Gd|d2c|B/2A/2Ge|e2c|
+B/2A/2Gd|d2f|1e/2d/2 c/2d/2 e/2f/2|g2c:|2e/2d/2ce|c2G||
+
+X:189
+T:Mazurka de Gascogne
+R:mazurka
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:C
+G|:ee/2d/2 e/2f/2|eeG|e e/2d/2 e/2f/2|d2G|d d/2c/2 d/2e/2|
+ddG|d d/2c/2 d/2e/2|c2e/2f/2|gga/2g/2|ffd/2e/2|ffg/2f/2|
+e2c/2d/2|ee/2d/2 e/2f/2|ddG|dd/2c/2 d/2e/2|c2G:|
+
+X:190
+T:Mazurka de Servant
+A:Massif Central
+O:France
+M:3/4
+L:1/8
+Q:1/4=150
+K:G
+ded|G2 Gded|A2A2 Bc|d2 dcBA|B2 Gded|G2 Gded|A2A2 Bc|d2 dcBA|G3Bcd|\
+e2 edcB|A2A2 Bc|d2 dcBA|B2 GBcd|e2 edcB|A2A2 Bc|d2 dcBA|G3||
+
+X:191
+T:Mazurka de Samatan
+A:Massif Central
+O:France
+M:3/4
+L:1/8
+Q:1/4=160
+K:G
+D2|B2 BABc|B2 G2 D2|B2 BABc|A4 D2|A2 AGAB|A2 F2 D2|A2 AGAB|G4:|
+|:Bc|d2d2 ed|c2A2 AB|c2c2 dc|B4 GA|B2B2 cB|A2F2D2|A2 AGAB|G4:||
+
+X:192
+T:Mazurka
+A:Massif Central
+O:France
+M:3/4
+L:1/8
+Q:1/4=130
+K:C
+GAB|c2 cede|c2 cGAB|cBcede|c2 cGAB|c2 cede|c2 cGAB|cBcede|c4eg|
+f2 edeg|d3 efd|ecBcdc|B2G2 eg|f2 edeg|d3efd|ecBcdB|c3||
+
+X:193
+T:Juliette
+R:mazurka
+A:Massif Central
+O:France
+M:3/4
+L:1/8
+Q:1/4=130
+K:G
+GA|BABdGA|BABdGB|AGAcFA|B2G2 GA|
+BABdGA|BABdGB|AGAcFA|G4:|
+|:(3FEF|A2 DFdc|c2B2 EF|GEFGcB|A4 (3FEF|
+A2 DFdc|c2B2 EF|GFGABc|d4:|
+|:Bd|GBDGBd|c2A2 Ac|FADFAc|B2G2 Bd|
+GBDGBd|c2A2 Ac|FADFAF|G4:||
+
+X:194
+T:Mazurka des Italiens
+O:France
+M:3/4
+L:1/8
+Q:1/4=180
+K:C
+G2|:c2cB AB|c2c2G2|c2c2 BA|G6|
+fe dc BA|G2G2 BA|G2G2 AB|c4G2:|
+|:e2 ed cd|e2e2G2|e2 ed cd|e4e2|
+d2 dc Bc|d2d2G2|1cB cd ef|g4G2:|2d2e2d2|c6||
+
+X:195
+T:Mazurka du Bas-pays
+A:Morvan
+O:France
+M:3/4
+K:G
+BG|:D2 DB BA|c2A2 AF|D2 DA AG|B2G2 BG|D2 DB BA|
+c2A2 AF|D2 dc BA|1G4 BG:|2G4 Bc|
+|:d2 dB cd|e2e2 AB|cc cA Bc|d2d2 GA|B2 BG AB|
+c2c2 AF|D2 dc BA|1G4 Bc:|2G2 GA Bc|
+|:B2 GA Bc|B2 dB dB|A2 dc BA|(3BdB GA Bc|(3BdB GA Bc|
+B2 dB dB|A2 dc BA|1G2 GA Bc:|2G4 BG||
+
+X:196
+T:Mazurka d'Auvergne
+A:Auvergne
+O:France
+M:3/4
+L:1/8
+Q:1/4=150
+K:C
+G AB|:c2ce de|c2cG AB|cB ce de|1c2 cG AB:|2c4eg||
+f2ed eg|d2de fd|ec Bc dc|BA G2 eg|
+f2 ed eg|d2 de fd|ec Bc dB|c3||
+
+X:197
+T:Mazurka d'Auvergne
+C:trad
+A:Auvergne
+O:France
+Z:S.Piron
+M:3/4
+L:1/8
+Q:1/4=140
+K:C
+G>c c>B c2|G>e e>d e2|f>e d>c B>c|d>c B>A A>G|
+G>c c>B c2|G>e e>d e2|f>e d>c B>d|1c4 z2:|2c4 ef|
+|:g2 ga gf|e2c2 de|fe fg fe|d4 ef|
+g2 ga gf|e2c2 de|fe dc Bd|1c4 ef:|2c4 z2||
+
+X:198
+T:Mazurka à Rigal
+C:trad
+A:Cantal
+O:France
+Z:S.Piron
+M:3/4
+L:1/8
+Q:1/4=140
+K:G
+E Ac|:e3 efe|c3 efe|B2 Bc dB|c2B2 Ac|
+e3 efe|c3 efe|B2 Bd Bc|1A3E Ac:|2A3 E AB|
+|:cB cd Bc|A3 BAG|FE Bc dB|c2B2 AB|
+cB cd Bc|A3 BAG|FE Bd Bc|1A3 E AB:|2A3 EAc||
+
+X:199
+T:Mazurka des familles
+C:trad
+A:Rouergue
+O:France
+Z:S.Piron
+M:3/4
+L:1/8
+Q:1/4=140
+K:C
+Gce|:g3 e fa|g2 ge ge|f2 fd ec|d3 Gce|
+g3 e fa|g2 ge ge|fd ec dB|1c3 G ce:|2c4 Bc|
+|:d2 dc Bc|e2 ec eg|fe d^c df|e2c2 Bc|
+d2 dc Bc|e2 ec eg|fe dB dB|1c4 Bc:|2c3 Gce||
+
+X:200
+T:La Chaumeilloise
+R:mazurka
+C:trad
+A:Limousin
+O:France
+Z:S.Piron
+M:3/4
+L:1/8
+Q:1/4=160
+K:G
+GA|:B3 c BA|G2G2 Bc|d3 c de|d2d2 GA|
+B3 c BA|G2 G2 Bc|d3 c de|d4 de|d3 c Ac|B2G2 AB|A3 G FG|
+A4 de|d3 c Ac|B2 G2 AB|A3 G FA|G4 GA:||
+
+X:201
+T:Mazurka de Castenau
+R:mazurka
+C:trad
+A:Périgord
+O:France
+Z:S.Piron
+M:3/4
+L:1/8
+Q:1/4=160
+K:G
+Bc|:d2 de dc|d4 Bc|d2 de dB|c4 AB|c2 cd cA|
+c4 de|fe dc BA|1B2G2 Bc:|2G4 e=f|
+|:e2 dc de|d2 cB cd|c2 BG AB|A2G2 e=f|
+e2 dc de|d2 cB cd|c2 BG AB|1c4 e=f:|2c4 Bc||
+
+X:202
+T:Catherine
+R:mazurka
+A:Aquitaine
+O:France
+M:3/4
+L:1/8
+Q:1/4=160
+K:C
+cd|e2d2g2|e4|cd|e2d2g2|e4|:fe|d2d2 ed|c2c2 dc|B2A2B2|1c4:|2c6|
+|:c2 BAG2|d2d4|c2 BA G2|e2e4|c2 BA G2|d2d4|g2 gf e2|1d2e2c2:|2d2c4||
+
+X:203
+T:Mazurka
+C:trad
+A:Morvan
+O:France
+Z:S. Piron
+M:3/4
+L:1/8
+Q:1/4=150
+K:C
+g2|gf ed ef|g2 gc eg|f2 fd Bd|e2c2g2|gf ed ef|g2 gc eg|f2 d2B2|1c4:|2c6|
+|:ed ef ed|c6|gf ga gf|e2 eG ce|d2 dg Bd|e2c4|
+ed ef ed|c6|gf ga gf|e2 eG ce|d2 dg Bd|e2c4||
+
+X:204
+T:Mazurka de Pécharde
+R:mazurka
+C:trad.
+A:Limousin
+O:France
+Z:S. Piron
+M:3/4
+L:1/8
+Q:1/4=180
+K:C
+fd|:e2dc dc|Bc de fd|e2 dc de|d2G2 fd|e2dc dc|Bc de fd|1e2 dcde|d2G2 fd:|2e2dc Bd|c2 GABG||
+|:c2 Bcdc|Bcdefd|e2dc dc|B2 GABG|c2 Bc dc|Bc de fd|e2dc Bd|1c2 GA BG:|2c4 fd||
+
+X:205
+T:Mazurka de Bergerac
+R:mazurka
+C:trad.
+A:Périgord
+O:France
+Z:S. Piron
+M:3/4
+L:1/8
+Q:1/4=180
+K:C
+FE|:C4 EG|c4 Bc|d2 dcBc|d3 E FD|C4 EG|c4 Bc|dedcBd|1c4 FE:|2c4 ed|
+|:cBcdec|f4 e2|dc Bc df|e2c2 ed|cBcdec|f4e2|dedcBd|1c4 ed:|2c4 FD||
+
+X:206
+T:Polka de l'Aveyron 1
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+GA/2B/2 cc|B/2c/2d/2B/2 c2|d/2e/2f/2d/2 ec|1dc B/2A/2 G:|2dB c2|
+|:de/2f/2 gg|fe d>e|fd ec|1dc B/2A/2G:|2dB c2||
+
+X:207
+T:Polka
+O:France
+M:4/4
+L:1/4
+Q:1/4=250
+K:F
+|CFED|CAA G/2A/2|BGG F/2G/2|1ABc2:|2AGF2|
+|:cAA G/2A/2|cAA G/2A/2|BAG F/2G/2|1AB c2:|2AGF2||
+
+X:208
+T:Taitou
+R:Polka piquée
+O:France
+M:4/4
+L:1/8
+Q:1/4=230
+K:G
+d2e2d4|cdcB ABcA|d2e2d4|cdcBA4::
+B2G2F2G2|ABAGF2D2|c2AcB2GB|1A2GAB2G2:|2A2F2G4||
+
+X:209
+T:Polka de l'Aveyron 2
+O:France
+M:2/4
+L:1/8
+Q:1/4=150
+K:C
+cB/2c/2 dg|fed2|cB/2c/2 dg|1g2d2:|2g2 cd/2e/2|
+|:fd ec|dB cd/2e/2|fd ec|1dB cd/2e/2:|2d2c2||
+
+X:210
+T:La petite Jeannette
+R:polka
+A:Bourbonnais
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+e/2g/2g/2g/2 e/2g/2g/2g/2|f/2e/2f/2g/2 ag|e/2g/2g/2g/2
+e/2g/2g/2g/2
+|1a/2g/2f/2d/2 cc:|2a/2g/2f/2d/2 c c/2d/2|
+ef d/2c/2B/2c/2|dec>d|ef d/2c/2B/2c/2|dec>d|
+ef d/2c/2B/2c/2|d/2c/2d/2e/2 c>d|eg a/2g/2f/2e/2 d/2c/2B/2d/2c2||
+
+X:211
+T:Polka du Quartier
+O:France
+M:2/4
+L:1/8
+Q:1/4=150
+K:C
+Gc Bc|de df|ed cd/2e/2|1dc BG:|2dB c2|
+|:ce g>a|gf df|ed cd/2e/2|1dc BG:|2dB c2||
+
+X:212
+T:Polka de Maurs
+O:France
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+GA/2B/2 cc/2e/2|dc d2|1ge c>B|cd BG:|2gg g>f|ed c2|
+|:c/2d/2e/2f/2 g>a|gf d2|1ge c>B|cd BG:|2gg g>f|ed c2||
+
+X:213
+T:Polka
+O:France
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+GA/2B/2 cd|ef g>f|eg fe|1df ec:|2de c2|
+|:eg eg|fe d2|df df|ed c2|ce ce|dc Bc|de fg|1a2g2:|2ag c2||
+
+X:214
+T:Polka piquée de Bethmale
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:D
+DF AG/2A/2|dA F2|AG E2|1GEFD:|2GF/2E/2 D2|
+|:A2 d>A|AG FE|F2 B>A|AG F2:||
+
+X:215
+T:Polka piquée de Corrèze
+A:Massif Central
+O:France
+M:2/4
+L:1/16
+Q:1/4=80
+K:G
+dDcD dDcD|ABcB AFAF|dDcD dDcD|ABcB A4:|
+|:BDGD F>G|ABAG FGFc|BDGD F>G|ABAF G4:||
+
+X:216
+T:Polka
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+ee AA/2B/2|cB/2A/2 e2|e/2f/2e/2d/2 ee|e/2f/2e/2d/2 e2|ee
+AA/2B/2|cB/2A/2 e2|e/2f/2e/2d/2 cc/2B/2|Ac/2B/2 A2:|
+|:ee a2|g/2a/2g/2d/2 e2|e/2f/2e/2d/2 ee|e/2f/2e/2d/2 e2|ee
+a2|g/2a/2g/2d/2 e2|e/2f/2e/2d/2 c/2d/2c/2B/2|Ac/2B/2 A2:||
+
+X:217
+T:Polka de Baugy
+O:France
+M:2/4
+L:1/8
+K:G
+G/2B/2|dG GA/2B/2|cF F2|EF EF|G/2F/2G/2A/2 BG/2B/2|
+dG GA/2B/2|cF F2|EF EF|1GBG:|2GB G2|
+|:D/2E/2F/2G/2 A/2G/2F/2E/2|Dc c2|D/2E/2F/2G/2 A/2G/2F/2E/2|DB
+B2|
+D/2E/2F/2G/2 A/2G/2F/2E/2|Dc c2|D/2E/2F/2G/2 A/2G/2F/2E/2|1DB
+G2:|2DBG||
+
+X:218
+T:Polka piquée
+A:Centre
+O:France
+M:2/4
+L:1/8
+K:C
+e2e2|d/2e/2f/2d/2 ec|g2g2|a/2g/2f/2e/2 d2:|
+|:de/2f/2 gf|ed c2|cB/2c/2 df|1ec d2:|2ed c2||
+
+X:219
+T:Polka de Mirepoix
+O:France
+M:2/4
+L:1/8
+Q:1/4=170
+K:G
+DG FE|DB BA/2B/2|cA AG/2A/2|1Bc d2:|2BA G2|
+|:dB BG/2B/2|dB BG/2B/2|cA AG/2A/2|1Bc d2:|2BA G2||
+
+X:220
+T:Polka du Gers 1
+A:Gers
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:C
+cc cc|d/2c/2B/2A/2 G2|dd dd|e/2d/2c/2d/2 ec|
+cc cc|d/2c/2B/2A/2 G2|EE GF|FF AG|GG BG/2G/2|
+AF E2|EE GF|FF AG|GG AG|AB c2:||
+
+X:221
+T:Polka du Gers 2
+A:Gers
+O:France
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+Ge cB/2A/2|Ge c2|Bc de/2d/2|1AB AG:|2AB c2|
+|eg e2|df d2|ce Gc|1B/2A/2B/2d/2 g2:|2B/2A/2B/2d/2 c2|
+|:ga ag/2f/2|eg gf/2e/2|1df dc/2d/2|ec cd/2e/2:|2df AB|c2c2||
+
+X:222
+T:Polka de la Valentinon
+O:France
+M:2/4
+L:1/8
+Q:1/4=150
+K:G
+Dc c/2B/2A/2G/2|AB A>B|cd A>c|1BA BG:|2BA G2|
+|:A/2B/2c/2d/2 e>d|cB E>c|Bd A>c|1BA BG:|2BA G2||
+
+X:223
+T:L'harmonica
+R:polka
+O:France
+M:C
+L:1/8
+Q:1/4=170
+K:C
+z6 e>d|cA AG EA Ac|B/2A/2G/2A/2 BG A2 e>d|cA AG EA Ae|
+e>d cB A2 zB|c>B ce d>c de/2d/2|cB Ac B2 z e/2d/2|cA AG EA Ae|
+e>d cB A2 e>d|cA AG E/2A/2A/2A/2 AA|G/2G/2G/2G/2 G/2A/2B/2c/2 d2
+e>d|cA AG E/2A/2A/2A/2 AA|ee e/2d/2c/2B/2 A4||
+W:
+W:Dans mon sac de matelot, 
+W:j'ai mis tout ce que j'avais de plus beau
+W:Souvenirs de tous pays, bouteille de rhum et de whisky
+W:Une montre et elle ne marche pas, ma pipe et mon tabac
+W:J'y ai mis l'harmonica, qu'j'avais acheté à Malaga.
+W:
+W:Avec mon harmonica
+W:Je souffle, la voilà
+W:L'harmonica, l'harmonica
+W:Pour la gigue et la polka
+W:Ecoutez çà les gars
+W:Faut faire de l'harmonica
+W:
+W:Il m'accompagne partout, une chanson prête à chaque trou
+W:Il sait des tas de refrains, dont les plus beaux sont de marins
+W:A bord pendant les quarts à bord, il fait rêver les gars
+W:Il leur parle de la terre, de la mer et de leurs amours.
+W:
+W:Du temps où j'étais pas manchot, 
+W:je faisais l'amour dans les chauds
+W:A une sombre beauté, qui ne voulait pas se laisser tenter
+W:Sa peau et son corps étaient noirs, 
+W:mais elle ne voulait riensavoir
+W:Je lui dit que j'étais matelot, elle a crié je suis perdue.
+W:
+W:Celui qu'a composé la chanson, 
+W:c'est Henri Jacques matelot de   pont
+W:Si elle est à votre goût les gars, faut lui payer un coup
+W:Avec sa gueule de trafiquant, faut lui rincer les dents
+W:Offrez-lui un pot de tafia, je vous jure bien qu'il le boira.
+
+X:224
+T:Polka d'Ygrande
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+Q:1/4=140
+K:G
+d2A2|A/2B/2A/2F/2 GD|DD AA|A/2B/2A/2F/2 G2:|
+|:Ac BG|A/2B/2c/2A/2 BG|Ac BG|A/2B/2A/2F/2 G2:|
+
+X:225
+T:Polka bichouse
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+Q:1/4=160
+K:G
+B/2c/2|dd d>e|dB c>d|cA B>c|AF A>B|AF GB/2c/2|
+dd d>e|dB c>d|cA B>c|AF AB|cd d2|d2G2|G2d2|d2G2|G2d2|d2d2|d3||
+
+X:226
+T:Polka
+A:Auvergne
+O:France
+M:2/2
+L:1/4
+Q:1/4=240
+K:G
+ddBB|GG E A/2B/2|cAA B/2A/2|G/2F/2G/2A/2 B/2A/2B/2c/2|
+dd BB|GG E A/2B/2|cAA B/2A/2|G/2F/2G/2A/2 G2:|
+|:G B/2G/2 D/2G/2B/2G/2|D/2G/2B/2G/2 AF|F A/2F/2 D/2F/2A/2F/2|
+D/2F/2A/2c/2BG|GB/2G/2 D/2G/2B/2G/2|D/2G/2B/2G/2 AF|
+F A/2F/2 c B/2A/2|D E/2F/2 G2:||
+
+X:227
+T:Polka
+O:France
+M:2/4
+L:1/8
+Q:1/4=160
+K:G
+D|G>F GB|d>c dB|cA FA|G/2F/2G/2A/2 GD|G>F GB|d>c dB|cA
+FA|1G3:|2G4|
+|:A>G Ad|B>A Bg|fe d^c|d/2^c/2d/2e/2 d2|A>G Ad|B>A Bg|fe
+d^c|1d4:|2d3||
+
+X:228
+T:Polka piquée
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:C
+de c2|d/2e/2d/2c/2 BG|de c2|d/2e/2d/2B/2 c2:|
+|:cd/2e/2 de/2f/2|gf ed|cd/2e/2 de/2d/2|cB c2:||
+
+X:229
+T:Polka piquée
+C:trad
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+cc/2e/2 g2|a/2g/2f/2a/2 ge|c/2e/2g/2a/2 ge/2g/2:|
+|:f/2e/2d/2B/2 c2|g/2f/2e/2g/2 f/2e/2d/2f/2|e/2d/2c/2e/2 d2:|
+|:f/2e/2d/2B/2 c2|g/2f/2e/2g/2 f/2e/2d/2f/2|1e/2d/2c/2e/2 d2:|2e/2c/2d/2B/2c2||
+
+X:230
+T:Polka piquée 2
+C:trad
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:C
+e2c2|d/2e/2d/2c/2 BG|f>e dg|1e/2g/2a/2g/2 ec:|2e/2g/2a/2g/2c2|
+|:e/2d/2e/2g/2 f/2g/2f/2e/2|d/2e/2d/2c/2 BG|G/2A/2B/2c/2 d/2e/2f/2g/2|1a/2g/2_f/2g/2 ec:|2a/2g/2f/2d/2c2||
+
+X:231
+T:Polka des Landes
+C:trad
+A:Landes
+O:France
+M:2/4
+L:1/8
+Q:1/4=140
+K:C
+cB/2A/2 GA/2B/2|ce ed/2e/2|fd dc/2d/2|ec c2|
+cB/2A/2 GA/2B/2|ce ed/2e/2|fd de/2d/2|ce c2:|
+|:eg ea|ge ed/2e/2|fd dc/2d/2|ec c2|
+eg ea|ge ed/2e/2|fd de/2d/2|ce c2:|
+
+X:232
+T:Polka du Périgord
+C:trad
+A:Périgord
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:C
+GA/2B/2 cc|B/2c/2d/2B/2 c2|d/2e/2f/2d/2 ec|d/2e/2f/2d/2 ec|
+GA/2B/2 cc|B/2c/2d/2B/2 c2|d/2e/2f/2d/2 eg|g/2f/2e/2d/2 c2:|
+|:ge c/2e/2g/2e/2|c/2e/2g/2e/2 fd|fd B/2d/2f/2d/2|1B/2d/2f/2d/2 ec:|2B/2d/2f/2d/2 c2||
+
+X:233
+T:Polka du Cabretaire
+C:trad
+A:Limousin
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+Gc e/2f/2e/2d/2|ce g2|e/2c/2e/2g/2 f/2e/2d/2c/2|1B/2c/2d/2f/2 ec:|2B/2c/2d/2B/2 c2|
+|:Gc e/2f/2e/2d/2|cB A2|G/2B/2d/2e/2 f/2e/2d/2c/2|1B/2c/2d/2f/2 ec:|2B/2c/2d/2B/2 c2||
+
+X:234
+T:Polka d'Olt
+C:trad
+A:Aveyron
+O:France
+M:2/4
+L:1/8
+Q:1/4=140
+K:G
+DG B/2c/2B/2A/2|Ge d2|Bd c/2B/2A/2G/2|1Ac BG:|2AF G2||
+|:G F/2G/2 A/2D/2d/2D/2|c/2D/2B/2D/2 A/2D/2d/2D/2|
+c/2D/2B/2D/2 A/2D/2c/2D/2|1B/2D/2A/2D/2 B/2D/2G/2D/2:|2B/2D/2A/2D/2 G2||
+
+X:235
+T:Polka de Chabassier
+C:trad
+A:Limousin
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+B/2d/2|:gd B/2G/2B/2d/2|cA=F2|cA =F/2A/2F/2A/2|1ec/2e/2 dB/2d/2:|2B2 z d|
+|:B/2G/2B/2d/2 cA|A/2F/2A/2c/2 Bd/2B/2|GB AB/2c/2|1d/2c/2B/2A/2 BG:|2d/2c/2B/2A/2 GB/2d/2||
+
+X:236
+T:Bonjour chère Pauline
+R:Polka piquée valsée
+A:Aquitaine
+O:France
+M:4/4
+L:1/8
+Q:1/4=160
+K:D
+F2 A>D DD DC|E2 F>C CC D2:|
+M:6/8
+Q:80
+FFA AGF|EFG F3|DEF E2E|EDE F2D|
+FFA AGF|EFG F3|DEF E2 F|AGE D3||
+
+X:237
+T:Polka d'Uzeste
+C:trad
+A:Landes
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=150
+K:G
+GA/2B/2 AG|BBB2|Bc/2d/2 cB|ddd2|de/2d/2 cB|dcc2|AB/2c/2 BA|Bc d2:|
+|B2B2|ded2|B2B2|dg f2|A2A2|cd c2|A/2c/2A/2c/2 dc|A/2c/2A/2c/2 dc|
+B2B2|ded2|B2B2|dg f2|ee ef/2e/2|ddd2|f/2e/2d f/2e/2d|gg g2||
+
+X:238
+T:Polka de Corrèze
+C:trad
+A:Corrèze
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=130
+K:C
+c'b/2c'/2 d'/2c'/2b/2a/2|ge ed/2e/2|fd de/2d/2|c/2d/2e/2f/2 g2|
+c'b/2c'/2 d'/2c'/2b/2a/2|ge ed/2e/2|fd d/2f/2e/2d/2|cec2:|
+|:c/2d/2e/2f/2 gc'|ge cd/2e/2|f/2e/2d/2c/2 B/2c/2d/2e/2|1f/2g/2a/2b/2 ag:|2f/2g/2a/2b/2 c'2||
+
+X:239
+T:Polka du Couserans
+C:trad
+A:Ariège
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=150
+K:G
+DB Bc/2B/2|DB Bc/2B/2|DA AB/2A/2|G/2A/2B/2c/2 d2|DB Bc/2B/2|dc BA|DA AB/2A/2|GBG2:|
+|:DG G/2F/2G/2A/2|GF F2|DA A/2G/2A/2B/2|AG G2|DB B/2A/2B/2c/2|BAA2|E/2F/2A E/2F/2A|GB G2:|
+
+X:240
+T:La vielha
+R:Polka piquée
+C:trad
+A:Pays Niçois
+O:France
+Z:S. Piron
+M:2/4
+Q:70
+K:G
+G/2A/2B/2c/2 dd|BB G2|G/2A/2B/2c/2 dd|c/2d/2c/2B/2 cA|F/2G/2A/2B/2 cc|
+AA F2|A>B cd/2c/2|1BA BG:|2BA Gd|
+|:ed cc/2d/2|cB Ad|ed BB/2c/2|BA Gd|
+ed c c/2d/2|cB Ad|ed BG|1AF Gd:|2AF G2||
+
+X:241
+T:Polka de Grandfontaine
+R:polka
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+G|:e2 e>d|ed cG|e2 e>d|ed cG|ee ed|e2 cc|1df ed|cA G2:|2df ed|c3a|
+M:6/8
+|:gea gea|g2f e2g|gfe ded|1c2AG2a:|2c3 c2 z||
+
+X:242
+T:Polka piquee
+R:polka
+C:trad.
+A:Massif Central
+O:France
+Z:S. Piron
+M:2/2
+L:1/4
+Q:1/4=240
+K:G
+d2A2|A/2B/2A/2F/2 G2|ddA2|A/2B/2A/2F/2 G2:|
+|:AcBG|A/2B/2c/2A/2 BG|AcBG|F/2G/2A/2F/2 G2:||
+
+X:243
+T:Polka piquee
+R:polka
+C:trad.
+A:Massif Central
+O:France
+Z:S. Piron
+M:2/2
+L:1/4
+Q:1/4=200
+K:G
+d2c2|A/2c/2A/2c/2 BG|d2c2|A/2B/2A/2F/2 G2:|
+|DGBA|G/2A/2G/2F/2 ED|DGB A/2B/2|c/2A/2G/2A/2 BG|DF A>B|AFD2|GGA>B|AFG2||
+
+X:244
+T:Polka piquee
+R:polka
+C:trad.
+A:Massif Central
+O:France
+Z:S. Piron
+M:2/2
+L:1/4
+Q:1/4=210
+K:G
+B2d2|A/2c/2B/2A/2 BG|A2d2|B/2c/2B/2A/2 G2:|
+|:A/2B/2c/2A/2 B A/2G/2|FAAG|A/2B/2c/2A/2 B A/2G/2|FAG2:||
+
+X:245
+T:Scottiche à Catinaux
+A:Massif Central
+O:France
+M:2/4
+L:1/16
+Q:1/4=90
+K:C
+efed cGce|gfef d4|GABc d2de|1fedf e2c2:|2fedB c4|
+|:e2g2 A2Bc|dcBA G4|GABc d2de|1fedf e2c2:|2fedB c4||
+
+X:246
+T:Le Cotillon vert
+R:Schottiche/Valse
+A:Morvan
+O:France
+M:C
+L:1/8
+Q:1/4=180
+K:C
+edcB c2 de|f2 df e2c2|edcB c2de|f2 d2 c4:|
+M:3/4
+gag|fde|fgf|e2c|efe|dBc|def|g3|
+gag|fde|fgf|e2c|efe|dBc|ded|c3:||
+
+X:247
+T:Scottiche à Malochet
+R:Scottiche
+C:Trad.
+O:France
+M:C
+L:1/8
+Q:1/4=180
+K:G
+BcBA GDGB|dcBcA4|DEFG A2AB|1c2BAB2G2:|2 c2BAG4|
+|:B2d2E2FG|AGFED4|DEFGA2AB|1 c2BAB2G2:|2 c2BAG4||
+
+X:248
+T:L'eau de roche
+R:Scottiche
+A:Massif Central
+O:France
+M:C
+L:1/4
+Q:1/4=160
+K:C
+cd/2e/2fd|g/2f/2g/2a/2 g/2f/2e/2d/2|cd/2e/2 fd|g/2f/2g/2a/2g2:|
+|:d/2e/2f/2d/2 g f/2e/2|d/2e/2d/2c/2 BG|d/2e/2f/2d/2 g
+f/2e/2|d/2e/2d/2B/2 c2:||
+
+X:249
+T:Le petit bossu
+R:Schottiche
+C:Trad.
+O:France
+M:C
+L:1/8
+Q:1/4=180
+K:G
+D2E2D2E2|D2GAB2G2|D2E2D2E2|D2BAG4:|
+BABcB2A2|AGABA2G2|DDEF GBD2|DDEFG4:|
+
+X:250
+T:Scottiche gasconne
+A:Gascogne
+O:France
+M:2/4
+L:1/8
+Q:1/8=170
+K:C
+c/2d/2e/2f/2 gg|a/2g/2f/2a/2 g/2f/2e/2d/2|c/2d/2e/2f/2
+gg|a/2g/2f/2e/2 d2:|
+|:fd/2f/2 ec/2e/2|dd g2|fd/2f/2 ec/2e/2|dd c2:|
+
+X:251
+T:Scottiche de Roquefort
+O:France
+M:2/4
+L:1/8
+Q:1/8=150
+K:C
+gg a>g|fg ec|d/2e/2f/2d/2 ec|1dg ec:|2dB c2|
+|:cB/2A/2 GG|c/2B/2c/2d/2 ee|fd/2f/2 ec/2e/2|1dg ec:|2dB c2||
+
+X:252
+T:Scottiche à Servant
+O:France
+M:2/4
+L:1/16
+Q:1/8=150
+K:C
+efed cGce|gfef d4|GABc d2de|1f2ed e2c2:|2f2ed c2 z2|
+|:e2g2A2Bc|dcBA G4|GABc d2de|1f2ed e2c2:|2f2ed c4||
+
+X:253
+T:Scottiche de la Montagne Noire
+O:France
+M:2/4
+L:1/16
+Q:1/8=150
+K:C
+c2c2 G4|cBce a2g2|fadf egce|1d2d2 g4:|2d2d2c4|
+|:edef g2g2|cBcd e4|d2AB d2AB|1d2AB A2G2:|2d2e2c4|
+|:e2f2 g2eg|c'geg d4|defg b2ba|1gfed e2c2:|2gfed c4||
+
+X:254
+T:Plante un chou
+R:Scottiche
+O:France
+M:2/4
+L:1/8
+Q:1/4=70
+K:C
+ed c/2G/2c/2e/2|fe d2|g/2a/2g/2f/2 e/2d/2e/2f/2|1ed ec:|2ed c2|
+|ee f>e|d/2c/2d/2e/2 c2|dd e/2f/2e/2d/2|cB A2|
+A/2B/2c/2A/2 dd|c/2B/2c/2d/2 e2|A/2B/2c/2d/2 e/2f/2e/2d/2|cd ec|
+ee a>g|f/2e/2d/2f/2 e2|A/2B/2c/2d/2 e/2f/2e/2d/2|cd ec|
+ee a>g|f/2e/2d/2f/2 e2|A/2B/2c/2d/2 e/2f/2e/2d/2|cB A2||
+
+X:255
+T:Le Porchier
+R:Scottiche/marche/valse
+O:France
+M:4/4
+L:1/8
+Q:1/4=140
+K:G
+d2A2AGF2|d2A2AGF2|\
+M:6/8
+EGGF3:|\
+M:4/4
+|:E2G2F2A2|\
+M:6/8
+BAG AGF|\
+M:4/4
+E2G2F2A2|\
+M:6/8
+BAGF3:||
+
+X:256
+T:Scottiche Nérondaise
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+Q:1/4=90
+K:G
+DG/2A/2 B2|cB/2A/2 d2|d/2B/2G/2B/2 BA|c/2A/2F/2A/2 AG|
+DG/2A/2 B2|cB/2A/2 d2|d/2B/2G/2B/2 BA|c/2A/2F/2A/2 G2:|
+|:d/2c/2B/2c/2 de|Ae d2|dc/2B/2 cA|d/2c/2B/2A/2 BG|
+d/2c/2B/2c/2 de|Ae d2|dc/2B/2 cA|d/2c/2B/2A/2 G2:||
+
+X:257
+T:Scottiche de la République
+A:Massif Central
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+GA/2B/2 cc/2c/2|cd c2|d/2c/2d/2e/2 dc/2B/2|1AB AG:|2AB c2||
+|dd de/2d/2|cc c2|dd de/2d/2|cc cc/2d/2|ec/2d/2 ed/2c/2|dg c2||
+
+X:258
+T:Scottiche Valse
+A:Massif Central
+O:France
+M:4/4
+L:1/4
+K:C
+edc d/2e/2|fdec|edcd/2e/2|fed2|edc d/2e/2|fdec|edcd/2e/2|fed2||
+M:3/4
+|:f>df|ec2|d/2e/2dc|B/2c/2ef|f>df|ec2|d/2e/2dB|c3:||
+
+X:259
+T:Scottiche Valse
+A:Massif Central
+O:France
+M:4/4
+L:1/4
+K:C
+edc>d|egec|edc>d|egd2|edc>d|egec|edc>d|egd2||
+M:3/4
+|:gag|fde|fgf|e2c|efe|dBc|1def|g3:|2ded|c3||
+
+X:260
+T:Scottiche Valse
+A:Massif Central
+O:France
+M:4/4
+L:1/4
+K:C
+G A/2F/2 G2|A B/2c/2 BA|G A/2F/2 G2|A B/2c/2 A2:|
+M:3/4
+ABc|ded|cBA|G2F|DGG|FGA|BAF|G3:||
+
+X:261
+T:Tienne de la Barret
+R:Scottiche
+A:Massif Central
+O:France
+M:2/4
+L:1/16
+Q:1/4=80
+K:G
+DEFD G4|AGFB A4|DEFD G2AB|AGFA G4:|
+|:dedc A2AB|cdcB A4|G2FG A2AB|1cABc d4:|2cAGF G4||
+
+X:262
+T:Scottiche des Landes 1
+C:trad
+A:Landes
+O:France
+M:2/4
+L:1/8
+Q:1/4=90
+K:C
+cc Bc|A/2G/2A/2B/2 cG|cc Bc|A/2G/2A/2B/2 G2:|
+e/2d/2e/2f/2 eg|ag ec|gf/2e/2 d/2c/2d/2e/2|f/2e/2d/2f/2 ec|
+c/2B/2c/2d/2 eg|ag ec|gf/2e/2 d/2c/2d/2e/2|f/2e/2d/2B/2 c2||
+
+X:263
+T:Scottiche des Landes 2
+C:trad
+A:Landes
+O:France
+M:2/4
+L:1/8
+Q:1/4=90
+K:C
+G/2c/2e/2g/2 f/2e/2d/2B/2|G/2B/2d/2f/2 ec|ee/2c/2 d/2c/2B/2A/2|
+G/2B/2d/2f/2 ec|G/2c/2e/2g/2 f/2e/2d/2B/2|G/2B/2d/2f/2 ec|
+G/2c/2e/2c/2 d/2c/2B/2A/2|G/2A/2B/2G/2 c2:||cd/2e/2 ff|gg a2|
+a/2g/2e/2c/2 dc/2d/2|e/2d/2c/2B/2 AG|cd/2e/2 ff|
+gg a2|a/2g/2e/2c/2 dc/2d/2|e/2d/2B/2G/2 c2||
+
+X:264
+T:Scottiche des Causses
+R:Scottiche
+C:trad
+O:France
+M:4/4
+L:1/8
+Q:1/4=110
+K:G
+D>E F>G A2A2|G>F G>BD2D2|D>E F>G A>c B>A|1G>F D>F G2D2:|2G>F D>F G4|
+|:B>d e>d B>d c>B|A>c B>A B2G2|B>d e>d B>d c>B|A>c B>A G4:||
+
+X:265
+T:Scottiche
+C:trad
+O:France
+M:2/2
+L:1/4
+Q:1/4=160
+K:F
+AA A>G|F/2G/2A/2B/2 G2|EG F/2A/2F/2D/2|E/2G/2F/2E/2 FD|
+AAA>G|F/2G/2A/2B/2 G2|EG F/2A/2F/2D/2|E/2G/2F/2E/2 D2:|
+|:A G/2A/2 d d/2e/2|d/2c/2=B/2A/2 G2|AA D/2E/2F/2A/2|G F/2E/2 FD|
+A G/2A/2 d d/2e/2|d/2c/2=B/2A/2 G2|AA D/2E/2F/2A/2|G/2F/2E/2F/2 D2:||
+
+X:266
+T:Scottiche
+C:trad
+M:2/2
+L:1/4
+Q:1/4=190
+K:G
+Bcd e/2f/2|gB d2|e/2d/2c/2B/2 A A/2B/2|c/2d/2e/2f/2 ed| 
+Bcd e/2f/2|gB d2|e/2d/2c/2B/2 A/2B/2c/2A/2|G B G2:| 
+|:gg f>f|eed2|e/2d/2c/2B/2 A A/2B/2|c/2d/2e/2f/2 ed|
+gg f>f|eed2|e/2d/2c/2B/2 A/2B/2c/2A/2|G B G2:| 
+
+X:267
+T:Scottiche d'Aurice
+A:Aquitaine
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+Ge|ed/2e/2 fe|d2 Gd|Gd g/2f/2e/2d/2|1ec:|2c2|
+|:g/2f/2g/2e/2|cc/2e/2 gf/2e/2|d2Bd|Bd g/2f/2e/2d/2|1ec:|2c2||
+
+X:268
+T:La glissante
+R:Scottiche
+C:trad
+A:Cantal
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+ee e>d|c/2B/2c/2e/2g2|f/2e/2d/2f/2 e/2d/2c/2e/2|d/2c/2B/2A/2 AG|
+ee e>d|c/2B/2c/2e/2g2|f/2e/2d/2f/2 e/2d/2c/2e/2|d/2c/2B/2d/2 c2:|
+|:g/2e/2c/2e/2 g2|g/2e/2c/2e/2 G>e|d/2c/2B/2c/2 d/2e/2f/2g/2|1a/2e/2f/2d/2 ec:|2a/2e/2f/2d/2 c2||
+
+X:269
+T:La dame du Poivre
+R:Scottiche
+C:trad
+A:Languedoc
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=90
+K:G
+d/2e/2d/2c/2 BB|c/2d/2c/2B/2 AA|B/2c/2B/2A/2 GG|Bd A2:|
+|:B/2G/2B/2G/2 AA|c/2A/2c/2A/2 BB/2d/2|d/2e/2f/2g/2 d/2f/2d/2c/2|BA BG
+|B/2G/2B/2G/2 AA|c/2A/2c/2A/2 BB/2d/2|d/2e/2f/2g/2 d/2f/2d/2c/2|BA G2:||
+
+X:270
+T:Scottiche simple de Meyssac
+C:trad
+A:Limousin
+O:France
+Z:S.Piron
+M:4/4
+L:1/8
+Q:1/4=140
+K:G
+G2 (3ABA G2 (3ABA|G2c2B2 (3ABA|G2 (3ABA G2 (3ABA|G2 cB A3 B|
+BABc B2 AB|AGAB A2 GB|BABc BABc|B2 (3ABA G4||
+
+X:271
+T:Scottiche d'Alsace
+R:scottiche
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=90
+K:G
+D|:G/2F/2G/2A/2 B/2A/2B/2c/2|ed d>B|1dc c>A|ed dD:|2dc cB/2A/2|GBG2|
+|:gd d/2c/2B|gd d/2c/2B|1AA/2B/2 c/2B/2c/2d/2|edd2:|2F/2G/2A/2B/2 cB/2A/2|GB GG|
+|:e/2d/2c/2B/2 d/2c/2B/2A/2|G2 EG/2G/2|1=F2DA/2A/2|G2EG:|2A/2A/2G/2A/2 B/2B/2A/2B/2|cc cG/2c/2|
+|:BB B=F/2A/2|GG GG/2G/2|1A/2A/2G/2A/2 B/2B/2A/2B/2|c/2c/2B/2A/2 GG/2c/2:|2A/2A/2G/2A/2 B/2B/2A/2B/2|ce c D||
+
+X:272
+T:Scottiche
+R:scottiche
+C:trad
+A:Massif Central
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/8=140
+K:Dm
+DF/2A/2 DF/2A/2|BA/2G/2 A2|B/2c/2d/2c/2 BA/2G/2|FG AD|
+DF/2A/2 DF/2A/2|BA/2G/2 A2|B/2c/2d/2c/2 BA/2G/2|Ff/2e/2d2||
+de/2f/2 ed|c/2d/2c/2B/2 A2|B/2c/2d/2c/2 BA/2G/2|FG AD|
+de/2f/2 ed|c/2d/2c/2B/2 A2|B/2c/2d/2c/2 BA/2G/2|Ff/2e/2d2||
+
+X:273
+T:Scottiche du Crassier
+C:trad.
+A:Massif Central
+O:France
+M:2/4
+L:1/16
+Q:1/4=85
+K:G
+D2|GFGA B2c2|d^cde d2g2|fedc B2AB|edcB A2D2|
+GFGA B2c2|d^cde d2g2|fedc B2AB|cAGF G2Bc|
+d2d^c dgfg|d2dc B2AB|c2cB AGAB|edcB A2Bc|
+d2d^c dgfg|d2dc B2AB|cBAG FGAF|G2BA G2||
+
+X:274
+T:Scottiche à Bretagne
+R:scottiche
+O:France
+M:2/2
+L:1/8
+Q:1/4=160
+K:C
+cded cded|c2e2g2e2|dcBc d2d2|efed e2c2|cded cded|c2e2g2e2|dcBc d2d2|efed c4:|
+|:e2e2g2fe|d2d2g2e2|dcBc d2d2|efed e2c2|e2e2g2fe|d2d2g2e2|dcBc d2d2|efed c4:||
+
+X:275
+T:Valse d'Ernest Lurde
+O:France
+M:3/4
+L:1/4
+Q:1/4=170
+K:C
+ecd|e2e|gcd|e2e|gfe|d2d/2e/2|fed|1e2c:|2c3|
+|:eee|ede|fed|c2B/2c/2|dBc|d2d/2e/2|fed|1e2c:|2c3||
+
+X:276
+T:Valse à Cadet
+R:Valse
+A:Morvan
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:C
+cGe|c3|cGe|d2 d/2e/2|fed|cBA|GAB|A2 G|
+cGe|c3|cGe|d2 d/2e/2|fed|cBA|GAB|1 c3:|2 c2 B/2c/2|
+|:d d/2f/2 e/2d/2|e e/2g/2 f/2e/2|d d/2f/2 e/2d/2|1 ec B/2c/2:|2
+c3|
+e2f|gag|d2e|fgf|c2d|efe|d2c|d3|
+e2f|gag|d2e|fgf|c2d|efe|d2B|c3:||
+
+X:277
+T:les Balançoires
+R:Valse
+O:France
+M:3/8
+L:1/8
+Q:1/4=100
+K:C
+g2 g|gag|f d/2f/2d/2f/2|B3|f2f|1 fgf|e c/2e/2c/2e/2|G3:|2 fed|c3|
+c G/2c/2 G/2c/2|B f/2B/2f/2B/2|A2 f|B f/2B/2f/2B/2|A2 B|c
+e/2c/2e/2c/2|
+G2e|c e/2c/2e/2c/2|G2c|B f/2B/2f/2B/2|
+A2 f|B f/2B/2f/2B/2|A2 B|ceg|c3:||
+
+X:278
+T:Valse 1
+A:Gascogne
+O:France
+M:3/4
+L:1/4
+Q:1/4=200
+K:C
+Gcd|e2e|gcd|e2e|gfe|d2d|fed|1e2c:|2c3|
+|:c'3|b3|afa|g3|af/2a/2f/2a/2|geg|fed|1e2c:|2c3||
+
+X:279
+T:Valse 2
+A:Gascogne
+O:France
+M:3/4
+L:1/4
+Q:1/4=210
+K:C
+E|:G2F|E2D|CEG|c2B|d2c|B2A|GBA|G2E:|GAB|c2G|
+|:ec/2e/2 c/2g/2|AGG|ec/2e/2 c/2g/2|AGg|f2e|d2c|BAB|1deG:|c2E||
+
+X:280
+T:Valse à Bouscatel
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:C
+e>fg|e>fg|f/2e/2da|g2e/2f/2|gg/2a/2 g/2f/2|
+ece|1d/2c/2 d/2e/2 f/2e/2|d2:|2d/2c/2 B/2c/2 d/2B/2|c2B/2c/2|
+|:dd c/2d/2|ee d/2e/2|fed|g2a/2g/2|fd/2e/2 f/2d/2|
+ece|d/2c/2 d/2e/2 f/2e/2|c2B/2c/2:|d/2c/2 B/2c/2 d/2B/2|c3||
+
+X:281
+T:Valse du Cantal
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:G
+B|:BGB|d/2B/2GB|d/2B/2GB|d2d|dcB|
+AA/2G/2 A/2B/2|AA/2G/2 A/2B/2|AA/2G/2B/2A/2|G2G|
+|:A/2B/2cd|e2e|e/2f/2ga|e2e|e/2f/2ed|c>Bc|1dcB|A2A:|2dBA|G2B||
+
+X:282
+T:La baigneuse
+R:Valse
+O:France
+M:3/4
+L:1/4
+Q:1/4=190
+K:C
+efg|cde|ABd|c2B|def|dag|1fdc|e3:|2gAB|c3|
+GAG|f3|edc|e3|dcB|dcB|AcB|A2G|GAG|f3|
+edc|e3|dcB|Aag|fAB|c3||
+
+X:283
+T:La fille du fermier
+R:Valse
+O:France
+M:3/4
+L:1/4
+Q:1/4=200
+K:G
+GAB|c>Bc|dcB|ABc|d3|ded|c2B|A3-|A3:|
+|:ded|G2A|BAG|=F2G|A2d|c2A/2B/2|cBA|G3-|G3:|
+|:G G/2F/2 G/2A/2|BGE|BB/2A/2 B/2c/2|d2B/2c/2|d d/2e/2 d/2c/2|
+B/2G/2 B/2d/2 c/2B/2|A/2F/2 A/2c/2 B/2A/2|1BGD:|2G3-|G3||
+
+X:284
+T:Valse de Bargouin
+O:France
+M:3/4
+L:1/4
+Q:1/4=210
+K:G
+BA>G|B2G|ed>B|d2B/2d/2|gfe|c2A/2c/2|fed|B2G|
+BA>G|B2G|ed>B|d2B/2d/2|gfe|cBA|GBd|g3:|
+|:g3|f3|ege|e3|cec|BeB|A/2B/2 c/2d/2 e/2f/2|edB/2d/2|
+|g3|f3|ege|d3|cec|BdB|A/2B/2 c/2d/2 e/2f/2|g3:|
+|:dGB|dGB|d3|GBd|g/2f/2 e/2d/2 c/2B/2|A3|c=FA|
+c=FA|c3|=FAc|f/2e/2 d/2c/2 B/2A/2|1B2G:|2G3||
+
+X:285
+T:En avant blonde
+R:Valse
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:G
+Acd|e2e|GBc|d2d|dcB|A2c|B2G|A3:|
+|:e e/2d/2c/2d/2|ecA|d d/2c/2B/2c/2|dBG|e
+e/2d/2c/2d/2|ecA|dBG|A3:|
+
+X:286
+T:D'r Vehrele
+R:Valse
+A:Alsace
+O:France
+M:3/4
+L:1/4
+Q:1/4=190
+K:F
+C|FFF|FFF|EEF|G2C|G z G|G>FG|A3-|A z A|
+BBB|B2G|AAA|A2F|G2G|G>FG|c3-|c z A|BBB|
+B2G|AAA|A2F|G2G|EDE|F3-|F2||
+W:
+W:E mol het de Vehrele ins Exame muen gehn
+W:Do, het de Vehrele gsat:
+W:Sie werre mi yo scho wieder lo gehn,
+W:So, het de Vehrele gsat.
+W:Sie werre mi jo scho wieder lo gehn,
+W:So, het de Vehrele gsat.
+W:
+W:Do han se ne gfrojt ûs de Geographie
+W:Do, het de Vehrele gsat:
+W:Nawe's Nachbars Hus isch unsers gsi
+W:So, het de Vehrele gsat.
+W:Nawe's Nachbars Hus isch unsers gsi
+W:So, het de Vehrele gsat.
+W:
+W:Do han se ne gfrojt ûs de Mineralogie
+W:Do, het de Vehrele gsat:
+W:Met Steine wärft m'r d'Fanschter i,
+W:So, het de Vehrele gsat.
+W: Met Steine wärft m'r d'Fanschter i,
+W:So, het de Vehrele gsat.
+W:
+W:Do han se ne gfrojt ûs de Astronomie
+W:Do, het de Vehrele gsat:
+W:Im "Starne" gitt's de beschte Wi,
+W:So, het de Vehrele gsat.
+W:Im "Starne" gitt's de beschte Wi,
+W:So, het de Vehrele gsat.
+W:
+W:Do han se ne gfrojt ûs de Philosophie
+W:Do, het de Vehrele gsat:
+W:Des Danke isch mi Sach nie gsi,
+W:So, het de Vehrele gsat.
+W:Des Danke isch mi Sach nie gsi,
+W:So, het de Vehrele gsat.
+W:
+W:Do han se de Vehrel zü de Tör nüs khejt
+W:Do, het de Vehrele gsat:
+W:Ich ha's Ejch jo glich prophezejt,
+W:So, het de Vehrele gsat.
+W: Ich ha's Ejch jo glich prophezejt,
+W:So, het de Vehrele gsat.
+
+X:287
+T:Mon père avait six cent moutons
+R:Valse
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=210
+K:F
+CDE|FAG|C2C|D3|GFE|D3|C3:|
+A2A|AFA|AFA|AGF|G3|G3|G3|
+CFG|AcB|A3|A2G|F3|F3|F3|F zz||
+W:
+W:Mon père avait six cent moutons
+W:J'en étais la bergère
+W:Mon père avait six cent moutons
+W:J'en étais la bergère
+W:J'en étais la bergère dondaine, don don
+W:J'en étais la bergère don
+
+X:288
+T:Sur les bords de la rivière
+R:Valse
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=200
+K:F
+CFG|A2B|A2G|F3|AGA|c2F|A3|G3:|
+GGG|G3|GAB|c3|cBc|d2d|c2B|AFG|
+A3|GcA|G3|FFG|A3|GcA|G3|F3:||
+W:
+W:J'ai fait l'amour cinq à six mois dans la ville de Rennes (bis)
+W:Je l'ai fait en suivant la loi
+W:Tenant ma mie entre mes bras
+W:Sur les bords de la rivière (bis)
+W:
+W:Elle ne fut pas au bord de l'eau 
+W:qu'elle vit venir sa mère (bis)
+W:Oh! ma mère j'ai un amant 
+W:Sur les bords de la rivière
+W:Et je l'aime bien tendrement
+W:Comme vous aimez mon père (bis)
+W:
+W:Oh ! ma fille que penses-tu de ce mineur volage (bis)
+W:Nous n'avions plus que toi d'enfant
+W:Nous te marierons richement
+W:Nous te ferons millionnaire (bis)
+W:
+W:De vos millions je n'en veux âs, 
+W:çà fait marcher trop fière(bis)
+W:J'aime mieux mon petit mineur
+W:C'est lui qui a charmé mon coeur
+W:Plus que toutes vos richesse (bis)
+
+X:289
+T:Rosalie de bon matin
+R:Valse
+O:France
+M:3/4
+L:1/4
+Q:1/4=220
+K:C
+GAB|c2 B/2c/2|dAB|c3|ced|c2B|ABc|d3|d3:|
+|:def|g2 g|fga|g3|fed|c3|1ABc|d3|d3:|2dAB|c3|c3||
+
+X:290
+T:La Marianne
+R:Valse
+A:Bourbonnais
+O:France
+M:3/4
+L:1/4
+Q:1/4=190
+K:C
+cec|g3|faf|ed2|cec|g3|fed|c3|
+cec|g3|faf|ed2|cec|g3|fef|g3|
+|:f a/2f/2d/2f/2|e g/2e/2c/2e/2|d f/2d/2B/2d/2|1c
+e/2c/2g/2c/2:|2c3||
+
+X:291
+T:Valse à Bonnejoie
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=210
+K:D
+FAB|Ade|fdB|A3|GFG|BAG|1F3|E3:|2FGE|D3||
+F F/2A/2F/2A/2|F F/2A/2F/2A/2|F F/2A/2F/2A/2|G3|
+E/2F/2 G/2A/2 G|G F/2G/2 F/2E/2|G F/2G/2 F/2E/2|1F2D:|2D3:||
+
+X:292
+T:La chasse à la bécasse
+R:Valse
+A:Massif Central
+O:France
+M:3/4
+L:1/4
+Q:1/4=180
+K:G
+GFG|E>F G|ABA|G2F|GFG|E>F G|AGF|G3:|
+|DGA|B3|AGF|E2E|EFG|A3|AGF|D3|DGA|
+B3|AGF|E3|FGF|E3|E3|E z2||
+
+X:293
+T:Le dindon
+R:Valse
+A:Aquitaine
+O:France
+M:3/4
+L:1/4
+Q:1/4=190
+K:C
+GEG|c2c|ce>d|A2A|Afd|B2G|GAB|c2z|
+|GG>G|A3|GG>G|F2z|FGF|d2F|FED|E2z||
+
+X:294
+T:Valse landaise
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:3/4
+L:1/8
+Q:1/4=190
+K:G
+g4f2|e3 f ed|cd cB AG|F2 DF Ac|f4e2|d4c2|BA Bc BA|1B3G Bd:|2G4D2|
+|:BG DG Bd|BG DG Bd|cB AF Ac|B2G2D2|BG DG Bd|BG DG Bd|cB AF DF|1G4D2:|2G4 Bd||
+
+X:295
+T:l'Aurillacoise
+R:Valse
+C:trad.
+A:Cantal
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=190
+K:C
+Gce|g>fg|agf|e>de|gfe|d>c d/2e/2|feB|dcA|
+Gce|g>fg|agf|e>de|gfe|d>B d/2e/2|fdB|c3-|c2 z:|
+|:c B/2c/2 d/2e/2|dce|d/2e/2 f/2e/2 d/2f/2|ecG|
+c B/2c/2 d/2e/2|dce|d/2e/2 f/2d/2 B/2d/2|1c2G:|2c3||
+
+X:296
+T:Valse a David
+R:valse
+C:trad.
+A:Morvan
+O:France
+M:3/4
+L:1/4
+Q:1/4=200
+K:G
+BAG|B3|BAG|c3|ABc|ABc|fed|1B3:|2G3|
+GBd|GBd|GBd|e3-|e3|Ace|Ace|Ace|d2B|d3|
+GBd|GBd|GBd|e3-|e3|f3-|fed|g3-|g3||
+
+X:297
+T:Valse a Hipolyte
+R:valse
+C:trad.
+A:Morvan
+O:France
+M:3/4
+L:1/4
+Q:1/4=195
+K:C
+e2f|e2d|cBA|A2G|d2c|d2g|G A/2B/2c/2d/2|e2c|e2f|e2d|cBA|A2G|d2e|dGA|Bcd|c3:|
+|:Gce|g a/2g/2e/2c/2|Gce|g a/2g/2e/2c/2|GBd|fdf|ag^f|g3|
+Gce|g a/2g/2e/2c/2|Gce|g a/2g/2e/2c/2|GBd|fdB|GAB|c3:||
+
+X:298
+T:Valse des roses
+R:Valse
+C:trad.
+A:Massif Central
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=160
+K:G
+B2B|c2c|A2d|B3|BAG|A2A|DEF|G3|BAG|A2A|DEF|G3||
+
+X:299
+T:Valse de l'Aubrac
+R:valse
+C:trad.
+A:Massif Central
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=160
+K:G
+B|:BGB|d/2B/2 GB|d/2B/2 GB|d2d|dcB|A A/2G/2A/2B/2|A A/2G/2A/2B/2|A A/2G/2B/2A/2|G2G:|
+|:A/2B/2 cd|e2e|e/2f/2 ga|e2e|e/2f/2ed|c>B c|1dcB|A2A:|2dBA|G2B||
+
+X:300
+T:J'ai vu le loup
+R:Branle
+C:trad.
+A:Bourgogne
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=90
+K:G
+GF/2G/2|EFDE|EE:|
+|EF|GG/2F/2GA|F2GF/2G/2|EEFF|DB,EF|GG/2F/2GA|F2GF/2G/2|EFDE|E2||
+W:
+W:J'ai vu le loup, le r'nard, le lièvre
+W:J'ai vu le loup, le r'nard cheuler
+W:C'est moi-même qui les ai r'beuillés
+W:J'ai vu le loup, le r'nard, le lièvre
+W:C'est moi-même qui les ai r'beuillés
+W:J'ai vu le loup, le r'nard cheuler
+W:
+W:J'ai ouï le loup, le r'nard, le lièvre
+W:J'ai ouï le loup, le r'nard chanter
+W:C'est moi-même qui les ai r'chinés
+W:J'ai ouï le loup, le r'nard, le lièvre
+W:C'est moi-même qui les ai r'chinés
+W:J'ai ouï le loup, le r'nard chanter
+W:
+W:J'ai vu le loup, le r'nard, le lièvre
+W:J'ai vu le loup, le r'nard danser
+W:C'est moi-même qui les ai r'virés
+W:J'ai vu le loup, le r'nard, le lièvre
+W:C'est moi-même qui les ai r'virés
+W:J'ai vu le loup, le r'nard danser
+
+X:301
+T:Ductie
+R:danse royale
+C:trad.
+H:Danse royale - Moyen Age
+N:to be played ABAC - DBDC - EBEC
+O:France
+Z:S. Piron
+P:ABAC - DBDC - EBEC
+M:3/4
+L:1/4
+Q:1/2=110
+K:C
+G2G|G2 F/2E/2|F3|F2 z|A2A|A2 G/2F/2|G3|G2 z||
+C2D|F2F|G F/2E/2 F|F2 z||
+C2D|F2E|D2E|D2 z||
+c2B|A2G|A3|A2 z|A2D|D2E|C3|C2 z||
+F2G|A2A|G2A|D2 z|F2G|F/2E/2FD|E3|E2 z||
+
+X:302
+T:Gentils galans de France
+C:trad.
+H:XV eme siecle
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/4=190
+K:F
+D|F>E DC|F2-G2|F2 z F|A2-AA|A2B2|A>G FA|
+GF ED|F2G2|F2 z F|G2 GA|G/2F/2E/2D/2 EE|D2 z||
+W:
+W:Gentils galans de France qui en la guerre allez
+W:Je vous prie qu'il vous plaise, mon ami saluer
+W:
+W:Comment le saluerai-je, quand point ne le connais?
+W:Il est bon à connaitre, il est de blanc armé
+W:
+W:Il porte la croix blanche, les éperons dorés
+W:Et au bout de sa lance un fer d'argent doré.
+W:
+W:Ne pleurez plus la belle, car il est trépassé:
+W:Il est mort en Bretagne, les Bretons l'ont tué.
+W:
+W:Je veux faire sa fosse, à l'orée d'un vert pré,
+W:Et veux chanter sa messe à quatre cordeliers.
+
+X:303
+T:Ce fut en mai
+C:trad
+H:XV eme siecle
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=190
+K:D
+D|E-FG|A2d|c-Bc|A2A|G-FE|1E-GA|F3|F2:|2F-EC|D3|D2||
+F|A-GF|E2F|G-FE|D2E|1F-ED|C2D|E3|E2:|2F2E|F-EC|D3|D2||
+W:
+W:Ce fut en mai
+W:Au doux temps gai
+W:Que la saison est belle
+W:Matin me levai
+W:Jouer m'allai
+W:Lez une fontenele.
+W:En un verger
+W:Clos d'églantier
+W:Ouïe une viele
+W:La vit dancer
+W:Un chevalier
+W:Et une demoiselle.
+
+X:304
+T:Branle de Bourgogne
+R:Branle double
+C:Jacques Moderne (16th century)
+O:France
+M:C
+L:1/4
+Q:1/4=200
+K:C
+B A/2B/2 cc|B A/2B/2 cc|GGG B|A2A2:|
+GGGA|A G/2F/2 ED|GGGB|A2A2:||
+
+X:305
+T:Branle de Bourgogne
+R:Branle double
+C:Jacques Moderne 
+O:France
+M:C
+L:1/4
+Q:1/4=200
+K:C
+d2 BG|G A/2B/2 cc|d3/2 c/2 B/2A/2B/2c/2|d2Bc|d2 BG|G A/2B/2
+cc|dccB|c2c2:|
+|:d2 dd|d2de|f2ed|c2Bc:||
+
+X:306
+T:Branle simple
+R:Branle simple
+C:Jacques Moderne
+O:France
+M:C
+L:1/4
+Q:1/4=180
+K:F
+A A/2A/2AA|GFBc|c/2B/2A/2G/2 ^F2|A A/2A/2AA|GFE/2D/2G|G^FG2|
+B B/2B/2BB|A/2G/2F/2E/2DB|A/2G/2B/2A/2B2|G
+G/2G/2GG|EEF/2E/2G|G^FG2:|
+
+X:307
+T:Branle simple
+R:Branle simple
+C:Jacques Moderne
+O:France
+M:C
+L:1/4
+Q:1/4=150
+K:F
+c d/2e/2 f e/2f/2|g/2f/2e/2d/2 ec|d/2e/2f/2e/4d/4 c2:|
+c c/2c/2 c d/2f/2|e/2d/2c/2B/2 AF|G/2A/2B/2A/4G/4F2:||
+
+X:308
+T:Branle de Champagne
+R:branle double
+C:Claude Gervaise
+H:XV eme siecle
+O:France
+Z:S. Piron
+P:AAB
+M:2/4
+L:1/4
+Q:1/4=210
+K:C
+c2|c2|B/2c/2 d|B2|c/2d/2e|dc|BA|1GE:|2G2|
+|:G/2A/2B|AG|A2|A2|G/2A/2B|AG|A2|A2:|
+
+X:309
+T:Branle de Bourgogne
+C:trad
+M:2/2
+L:1/4
+Q:1/4=210
+K:G
+B>A Gd|cBAG|G/2A/2 BAG|G/2A/2B G/2A/2B|
+G/2A/2 BAG|B>A Gd|cBAG|GFG2:|
+|:d2e>d|cBAG|G/2A/2 BAG|G/2A/2B G/2A/2B|
+G/2A/2 BAG|d2e>d|cBAG|GFG2:|
+
+X:310
+T:Danse à 7 temps
+A:Alsace
+O:France
+M:7/4
+L:1/8
+Q:1/4=130
+K:C
+edc2 cedc d2e2 ed|edc2 cedc d2c2 z2:|
+|:efg2g2 agfa g2 gf|efg2g2 agfag4:|
+
+X:311
+T:Aux marches du palais
+O:France
+M:3/4
+L:1/4
+Q:1/4=100
+K:G
+B/2|BB/2cB/2|B3/2BA/2|AA/2BA/2|A3/2AD/2|
+GG/2GA/2|G/2F/2F/2 FD/2|AA/2AB/2|A3/2G:||
+W:Aux marches du palais
+W:Aux marches du palais
+W:Y'a une tant belle fille lonla
+W:Y'a une tant belle fille
+W:Elle a tant d'amoureux
+W:Elle a tant d'amoureux
+W:Qu'elle ne sait lequel prendre lonla
+W:Qu'elle ne sait lequel prendre
+
+X:312
+T:Valse à 5 temps
+C:trad.
+S:collectée par Edouard BAUER du Folk de la rue des Dentelles Strasbourg
+H:collectée dans les années 70
+A:Alsace
+O:France
+M:5/4
+L:1/4
+Q:1/4=210
+K:G
+D/2G/2|FAGBB|AcB2D/2G/2|FAGBd|cAG2:|
+d|cABGd|cAB2D/2G/2|FAGBd|cAd2d|cABGd
+|cAB2D/2G/2|FAGBd|cAG2
+
+X:313
+T:Les saltimbanques
+C:XIII&egrave;me si&egrave;cle
+O:France
+M:6/8
+L:1/8
+Q:1/4=120
+W:Les voilà, les voilà de nouveau parmi nous vois !
+W:Vois, les saltimbanques, leurs ours, leurs chiens et tous leurs tours
+W:Leurs tambours quad le soleil éteindra le jour sourd
+W:Comme un cœur qui bat, va envouter tous les alentours
+W:
+W:Sur la place venez tous, venez nous voir
+W:Sur la place venez tous, venez ce soir.
+W:
+W:Sur son fil le funambule à petits pas va,
+W:plus vite dans la foule pas un seul cri, pas un seul mot
+W:Tournoyant sa jupe rouge comme une fleur vire,
+W:danse la ballerie, le tambourin rythme ses pas.            
+W:
+W:Voici l'ours, un petit singe sur son épaule tient,
+W:et puis les caniches sautant à travers les cerceaux
+W:Et bientôt jongleurs lutteurs et magiciens, tous,
+W:dans la nuit sans bruit partiront vers d'autres pays.
+K:C
+D3CD2|F3 A/2G/2FE|DE2CD2|F6|
+F3A GA|FE2DC2|DC2D FE|D6:|
+D3CD2|F3G FE|DE2DC2|D6:|
+W:
+W:Les voilà, les voilà de nouveau parmi nous vois !
+W:Vois, les saltimbanques, leurs ours, leurs chiens et tous leurs tours
+W:Leurs tambours quad le soleil éteindra le jour sourd
+W:Comme un cœur qui bat, va envouter tous les alentours
+W:
+W:Sur la place venez tous, venez nous voir
+W:Sur la place venez tous, venez ce soir.
+W:
+W:Sur son fil le funambule à petits pas va,
+W:plus vite dans la foule pas un seul cri, pas un seul mot
+W:Tournoyant sa jupe rouge comme une fleur vire,
+W:danse la ballerie, le tambourin rythme ses pas.            
+W:
+W:Voici l'ours, un petit singe sur son épaule tient,
+W:et puis les caniches sautant à travers les cerceaux
+W:Et bientôt jongleurs lutteurs et magiciens, tous,
+W:dans la nuit sans bruit partiront vers d'autres pays.
+
+X:314
+T:Belle qui tient ma vie
+R:Pavane
+C:Thoinot Arbeau
+O:France
+M:2/2
+L:1/2
+Q:1/2=100
+K:F
+G2|GF|GA|B2|Bd|cB|BA|B2:|
+|:B2|AA|GG|F2|D2|E/2F/2G|GF|G2:||
+W:
+W:Belle qui tient ma vie
+W:Captive dans tes yeux
+W:Qui m'a l'âme ravie
+W:D'un souris gracieux
+W:Viens tôt me secourir
+W:Ou me faudra mourir.
+W:
+W:Pourquoi fuit-tu mignarde
+W:Si je suis près de toi ?
+W:Quand tes yeux je regarde,
+W:Je me perds dedans, moi,
+W:Car tes perfections
+W:Changent mes actions
+W:
+W:Tes beautés et ta grâce
+W:Et tes divins propos
+W:Ont échauffé la glace
+W:Qui me brûlait les os;
+W:Et ont rempli mon coeur
+W:D'une amoureuse ardeur.
+W:
+W:Approche donc ma belle
+W:Approche-toi mon bien.
+W:Ne me sois plus rebelle
+W:Puisque mon coeur est tien.
+W:Pour mon mal apaiser
+W:Donne-moi un baiser.
+
+X:315
+T:Branle
+R:branle double
+C:Claude Gervaise
+H:XV eme siecle
+O:France
+Z:S. Piron
+P:AAB
+M:4/4
+L:1/4
+Q:1/4=220
+K:C
+GG|c>d ec|d2cB|AcBG|A2:|
+|:AA|c>B AA|d>c Bc|AGGF|G2:||
+
+X:316
+T:Les bergers de Ballersdorf
+R:Branle
+N:to be played alternatively in G and C
+A:Alsace
+O:France
+M:3/4
+L:1/4
+Q:1/4=150
+K:G
+d/2c/2|:BBA|G2 G/2A/2|BBA|G2 G/2A/2|B B/2G/2 c/2e/2|d d/2B/2
+c/2A/2|
+B B/2G/2 c/2e/2|d d/2B/2 c/2A/2|BBA|G2 d/2c/2|BBA|G2 d/2c/2:||
+
+X:317
+T:Tordion
+R:Tourdion
+C:Jacques Moderne
+H:XVI eme siecle
+O:France
+Z:S. Piron
+P:AAB
+M:4/4
+L:1/4
+Q:1/4=200
+K:C
+z A/2G/2 F/2G/2A/2B/2|c>B A/2G/2F/2G/2|A/2B/2c/2A/2 B2|
+z A/2G/2 F/2G/2A/2B/2|c>B AG|-G^FG2:|
+|:E2F2|G2E2|F2G2:||
+
+X:318
+T:Branle simple
+R:branle simple
+C:Jacques Moderne
+H:XVI eme siecle
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/4=170
+K:F
+AA/2A/2AA|GFBc|c/2B/2A/2G/2^F2|AA/2A/2AA|GFE/2D/2G-|G^FG2|
+|BB/2B/2B|A/2G/2F/2E/2 DB|A/2G/2B/2A/2B2|GG/2G/2GG|EEF/2D/2G-|G^FG2:|
+
+X:319
+T:Branle simple
+R:branle simple
+C:Jacques Moderne
+H:XVI eme siecle
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/4=140
+K:F
+cd/2e/2fe/2f/2|g/2f/2e/2d/2ec|d/2e/2f/2e/4d/4c2:|
+|:cc/2c/2cd/2f/2|e/2d/2c/2B/2AF|G/2A/2B/2A/4G/4F2:|
+
+X:320
+T:Plainte des papetiers
+C:trad.
+A:Angoumois
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/2=40
+K:G
+B,E2B|B2GA2A|B2B,E2F|G2AB2B|A2GE3|z2 GG2G|G2GA2A|
+B2Ad2c|B2GA2A|B2EE2E|G2AB2B|A2GF2G|G2AG2E|F2GE3|B3d2c|B2GA2B|E6||
+W:
+W:C'est un Picard, c'est un Normand
+W:Un Champenois nommé la Ruine
+W:Un Champenois nommé la Ruine
+W:Qu'on veut faire compagnon
+W:Savez-vous bien qu'à l'ordinaire
+W:S'en va toujours en reculant (bis)
+W:
+W:Il semble à tous ce maîtres là
+W:Qu'il n'y a pas d'ouvrage en France
+W:Nous en irons dans la Provence
+W:Du côté de Sisteron;
+W:Nous en irons à Carcassonne
+W:Petite ville de grand renom (bis)
+W:
+W:Il faudrait à ces maîtres là
+W:Des ouvriers faits à leur guise
+W:Des ouvriers faits à leur guise
+W:Travaillant et jour et nuit
+W:Qu'on leur demande de faire la rente
+W:Ils vous envoient à M'sieur le puits (bis)
+
+X:321
+T:Pavane d'Angleterre
+R:pavane
+C:Claude Gervaise
+H:XV eme siecle
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/4=120
+K:G
+B2BB|B2Bd|cBAA|B4:|
+|:d2cc|B>ABB|AGFF|E4:|
+|:B2GA|F3B|ABGA|F3B|AGFF|E3B|AGFF|E4:|
+
+X:322
+T:Gaillarde
+R:pavane
+C:Claude Gervaise
+H:XV eme siecle
+O:France
+Z:S. Piron
+M:3/4
+L:1/4
+Q:1/4=220
+K:G
+BBB|B>dc|BAA|B2 z:|
+|:dcc|B>BA|GFF|E2 z:|
+|:BGA|F3|BGA|F3|BAG|F/2G/2 A/2G/2 F/2E/2|E2D|E2 z:||
+
+X:323
+T:Gavotte
+R:gavotte
+C:Michael Praetorius
+H:XVI eme siecle
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/4=220
+K:G
+cBAB|G>ABG|cBAd|G2G2:|
+|:GABc|d2d2|e/2f/2gfe|d2d2:||
+
+X:324
+T:Gavotte
+R:gavotte
+C:Michael Praetorius
+H:XVI eme siecle
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/2=140
+K:G
+d2ec|d>cBG|d2ec|d/2c/2B/2A/2G2:|
+|:A/2B/2cBG|A2BG|A/2B/2cBG|A2G2:||
+
+X:325
+T:D'r. Maia
+R:branle
+N:Gary Chapin
+M:2/4
+L:1/8
+K:A Minor
+E|A3 A|B3 B|c2 BA|Bd cB|A3 A|B3 B|c BA|B4|B>c dB|c3 B|AA cB|_A3E|_A>=A B
+_A|(=A4|A3)||
+
+X:326
+T:La Rotta
+C:anonymous
+H:XIV eme siecle
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+A/B/cB/c/A|dd/c/B/c/A|A/G/G/F/E/F/D/E/|F/D/EzE|A/B/cB/c/A|
+dd/c/B/c/A|A/G/G/F/F/E/E/D/| \
+D/C/Dz2|A/B/cB/c/A|dd/c/B/c/A|
+A/G/G/F/F/E/E/D/|C/D/Ez2|A/B/cB/c/A|dd/c/B/c/A|A/G/G/F/F/E/E/D/| \
+D/C/Dz2|D/E/FF/G/A|A/B/cB/c/A|A/G/G/F/F/E/E/D/|C/D/EzD/E/|FF/G/AA/B/|
+cB/c/AA/G/|G/F/F/E/E/D/D/C/| \
+D4| \
+
+X:327
+T:Dernière danse
+R:branle
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=140
+K:G
+B2GA|B2A2|G2Bc|d2e2|d2g2|d3c|B2A2|BG Bc|
+d3c|B2A2|B4|d2 GA|B2A2|G2 Bc|d2e2|d2g2|d3c|B2A2|
+BG Bc|d3c|B2A2|G4||
+
+X:328
+T:Bergers et barons
+R:branle
+C:trad.
+H:XIII eme siecle
+A:Alsace
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=120
+K:G
+d|:Bdd Bde|d2B c2d|B3B zd|Bdd Bde|d2 Bc2d|B2B BAG|B3 B z B|d2d c2c|B3 B z d:||
+
+X:329
+T:L'anneau
+R:branle
+C:trad.
+A:Alsace
+O:France
+Z:S. Piron
+M:4/4
+L:1/8
+Q:1/4=115
+K:C
+A|Ac BA G2G2|ce ed e3 A|Ac BA G2G2|ce ed e2 cd|e2 ef e2 dc|
+d2 df eA AB|A2 GF G2 Bd|c2B2A4||
+
+X:330
+T:Le maitre de maison
+R:branle
+C:trad.
+A:Lorraine
+O:France
+M:2/4
+L:1/8
+Q:1/4=105
+K:C
+A|Aee d|e2c2|e2dc|B3A|Aeed|e2c2|e2dc|B3c/2B/2|
+Ac Bc/2B/2|Ac Bc/2B/2|Ac Bc/2B/2|AcB2|A2e2|d2B2|A3A:|
+W:
+W:Mais où est-donc le maître de la maison ? (bis)
+W:Il descend la rue, oublie sa charrue
+W:Bien qu'il serait temps, d'labourer les champs
+W:
+W:Où est donc la maîtresse de la maison ? (bis)
+W:Elle fait la cuisine, sans oeufs ni farine,
+W:Vends la poule au pot et garde le magot
+W:
+W:Mais où est donc le fils de la maison ? (bis)
+W:C'est un petit ange qui chasse les mésanges
+W:Avec son pipeau crie comme un crapeau.
+W:
+W:Mais où est doc la fille de la maison ? (bis)
+W:Elle est à la messe et reçoit caresse
+W:D'un ou deux amants, d'tout un régiment
+W:
+W:Où est la servante de la maison ? (bis)
+W:En battant la chatte avec sa baratte
+W:Elle a mis d'la crème dans toute la pièce
+W:Et le maître l'aime
+
+X:331
+T:Dans la ville de Nantes
+C:trad.
+M:3/8
+L:1/8
+Q:1/4=130
+K:C
+defd2e|c2A|defd2c|A3:|AGA c2c|d2d|cAF G2G|Ade|
+|:f2d e2c Ade|f2de2c|1dde:|2d3||
+W:
+W:Dans la ville de Nantes
+W:Il y a-t-un rosier
+W:Qui ne donne de l'ombre
+W:Rien qu'une fois l'été.
+W:
+W:(refrain)
+W:Je vous ai menti souvent
+W:M'avez-vous toujours dit vrai ?
+W:
+W:Toutes le filles de Nantes
+W:Elles vont s'y promener
+W:La plus jolie de toutes
+W:Son coeur elle m'a donné
+W:
+W:Bonsoir, bonsoir la belle,
+W:Je viens vous demander
+W:La tant jolie ceinture
+W:Que vous m'y promettez.
+W:
+W:Ma tant jolie ceinture
+W:Je ne peux la donner
+W:A un marchand de Nantes
+W:On va m'y marier.
+
+X:332
+T:Ch'était la fête ed no village
+C:trad.
+A:Picardie
+O:France
+M:6/8
+L:1/8
+Q:1/4=120
+K:D
+DD2D|E2E EF G|A2d dc B|A2d dc B|A2EE2E|E2E EF G|
+M:9/8
+F3E3D2C|
+M:6/8
+D2 z d2D|D3d2D|D||
+W:
+W:Ch'était la fête ed no village
+W:Qu'j'étion-ons content, qu'j'étion-ons content,
+W:J'étais à la fleur de-e mon âge
+W:A quatorze ans
+W:Rou piou piou ! (bis)
+
+X:333
+T:Oh je sais bien le mal qu'elle a
+R:Bourree 3 temps
+C:trad.
+A:Auvergne
+O:France
+M:3/8
+L:1/8
+Q:1/4=100
+K:G
+c|B/2c/2B A|G2A|B/2c/2B A|d2:|
+|d|e2g|d2B|c/2d/2cA|BGd|e2g|d2B|c/2d/2cA|G2||
+W:
+W:Oh! je sais bien le mal qu'elle a (bis)
+W:Le mal qu'elle a n'est pas dans les jambes
+W:Le mal qu'elle a il est dans les bras.
+
+X:334
+T:C'est la mère Mathurine
+C:trad.
+A:Picardie
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:D
+FG|AAdB|AAFG|AAdB|A2AA|AABA|GGGG|
+GGAG|F2A2|AAFA|d2F2|FFEE|D2||
+W:
+W:C'est la mère Mathurine
+W:Qui s'est enivrée c'matin
+W:Elle a bu une chopine
+W:De cinq à six sous de vin
+W:Tin, tin, derlin din din !
+W:Tin, tin, derlin din din !
+W:
+W:Elle a bu une chopine
+W:De cinq à six sous de vin
+W:Elle en est tombée malade
+W:Il lui faut un médecin
+W:
+W:Le médecin lui ordonne
+W:De ne plus boire de vin
+W:
+W:J'en ai bu toute ma vie
+W:J'en boirai jusqu'à la fin
+W:
+W:Si je meurs, que l'on m'enterre
+W:Dans la cave où est le vin
+W:
+W:Les pieds contre la muraille
+W:Et la tête sous l'robin
+W:
+W:Sur ma tombe on écrira
+W:En caractères biens fins
+W:
+W:C'est la mère Mathurine
+W:Qui a toujours bu du vin
+
+X:335
+T:J'entends la caille
+R:Bourree 2 temps
+C:trad.
+A:Morvan
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+A>c|BdcB|A^GA>c|BdcB|A2e>d|cAB^G|E2 e>d|
+cAB^G|E2 A>c|BdcB|A^GA>c|BdcB|A2||
+W:
+W:J'entends la caille dans la paille
+W:J'entends la caille dans le blé
+W:Et le rat sur le grenier
+W:Et le rat sur le grenier
+W:Bichez donc vos filles garçons
+W:Bichez donc vos filles.
+
+X:336
+T:Lavou la femme a Colin
+R:Bourree 2 temps
+C:trad.
+A:Morvan
+O:France
+M:2/4
+L:1/8
+Q:1/4=110
+K:Bb
+d>cde|dcBd|d>cde|dc Bz:|
+d>eff|edcd|edcB|d2cz|d>cde|dcBd|d>cde|dc Bz||
+W:
+W:Lavoù la femme à Colin
+W:Colin y la demande (bis)
+W:
+W:Al est sur un' meule de foin
+W:Qu'al y joue d'la jambe
+W:
+W:Lavoù la femme à Colin
+W:Colin y la demande.
+
+X:337
+T:Ma petite veste rouge
+R:Branle
+C:trad.
+A:Morvan
+O:France
+M:2/4
+L:1/8
+Q:1/4=110
+K:G
+d2|dedc|BAc2|cdcB|A2DG|FGAB|A2d>c|BABA|
+GDDG|FGAB|A2d>c|BABA|G2||
+W:
+W:Ma petit' veste rouge
+W:Al dur'ra-t-y toujours ?
+W:En la tournant à l'envers
+W:J'en aurai pour mon hivère,
+W:En la tournant à l'endret
+W:J'en aurai pour mon été
+W:
+W:Ma petit' veste rouge
+W:Al dur'ra-t-y toujours ?
+W:En la bordant d'coton blanc
+W:J'en aurai pour mes dimanches,
+W:En la bordant de velours
+W:J'en aurai pour tous les jours.
+
+X:338
+T:En tout temps la galette est bonne
+R:Bourree 2 temps
+C:trad.
+A:Morvan
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:Bb
+GB|dc/2B/2 Ac|BBFB|dc/2B/2 Ac|B z B2|BGAB|c2cd|cBAG|
+GFB2|BGAB|c2ce|d c/2-B/2 Ac|B z FB|dc/2B/2Ac|BBFB|dc/2B/2Ac|B2||
+W:
+W:En tout temps la galette est bonne
+W:En tout temps y'a du beurr' dedans.
+W:Jamais je n'oublierai
+W:La fille du coupeur de paille
+W:Jamais je n'oublierai
+W:La fille du coupeur de blé
+W:En tout temps la galette est bonne
+W:En tout temps y'a du beurr' dedans.
+
+X:339
+T:Kost er c'hoad
+C:trad.
+A:Bretagne
+O:France
+M:4/4
+L:1/8
+Q:1/4=180
+K:C
+cA AA Bc dc|de cd B2B2|cA AA Bc dc|Bd cB A2A2:|
+|:e2c2 de ff|d2B2 cd ee|c2A2 Bc dc|Bd cB A2A2:|
+
+X:340
+T:An dro
+C:trad.
+A:Bretagne
+O:France
+M:2/4
+L:1/8
+Q:1/4=85
+K:C
+|:BA/2B/2 ce|d/2c/2B/2A/2 B/2c/2d/2e/2|BA/2B/2 ce|ed B2:|
+fe/2f/2 ge|ed/2e/2 fd|BA/2B/2 ce|d/2c/2B/2A/2 B/2c/2d/2e/2|
+fe/2d/2 ga|ed/2c/2 fg| dc/2B/2 ce|edB2||
+
+X:341
+T:Gavotte pourlet
+C:trad.
+A:Bretagne
+O:France
+Z:S. Piron
+M:4/4
+L:1/8
+Q:1/4=150
+K:Cm
+|:B,FFE FGFA|GFED C2C2:||:B,C/2D/2 ED CD B,C|EDCB, A,2B,2:|
+|:B,FFE DE F2|GAGF D2C2:||:B,CDC B,C D2|CDED C2B,2:|
+|:B,FFE FGFE|DEFE D2C2:||:B,CDC B,CD2|CDED C2B,2:|
+|:B,FFE DE F2|FBBA G2F2:||:B,DDC B,CD2|CDED C2B,2:|
+|:B,FFE DEFD|EFGF E2D2:||:B,DDC B,C D2|CDED C2B,2:|
+|:F2FE/2D/2 CD B,2|F2FE D2C2:||:F2FE/2D/2 CD E2|DCB,C DB, C2|
+F2FE/2D/2 CD E2|FE/2D/2 CD B,2B,2||:FE/2D/2 CE D2 DF|FE/2D/2 CE D2D2:|
+|:FE/2D/2 CE DC B,C|DEDE C2 CF:||
+
+X:342
+T:Des rubans, des rubines
+R:Branle double
+C:trad.
+A:Nivernais
+O:France
+M:2/4
+L:1/8
+Q:1/4=120
+K:Bb
+B2|BABc|B2cc|d2cc|FFB2|BABc|B2cc|d2cc|B2||
+W:
+W:Mon père m'a donné
+W:Des rubans, des rubines
+W:Mon père m'a donné
+W:Des rubans satinés.
+W:
+W:On me les a volés,
+W:Mes rubans, mes rubines
+W:On me les a volés,
+W:Mes rubans satinés.
+W:
+W:Je les ai retrouvés,
+W:Mes rubans, mes rubines
+W:Je les ai retrouvés,
+W:Mes rubans satinés.
+W:
+W:J'en ferai des jarr'tières,
+W:D'mes rubans, d'mes rubines
+W:J'en ferai des jarr'tières,
+W:D'mes rubans satinés.
+W:
+W:A ma vieille grand mère,
+W:Mes rubans, mes rubines
+W:A ma vieille grand mère,
+W:Mes rubans satinés.
+W:
+W:Et à mon vieux grand père,
+W:Mes rubans, mes rubines
+W:Et à mon vieux grand père,
+W:Mes rubans satinés.
+
+X:343
+T:La Bergère et son chat
+R:Branle
+C:trad.
+A:Nivernais
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+A|^GB dc|A2A2|c2de|d3B|^GBGB|d2 (3ccc|
+c2de|d2dB|^GBGB|d2 (3cBA|^G Bdc|A2A||
+W:
+W:C'était une bergère
+W:Vive l'amour
+W:Qui gardait ses moutons,
+W:Vive l'amour, ma brunette,
+W:Qui gardait ses moutons,
+W:Vive l'amour et ma chanson.
+W:
+W:Son chat qui la regarde
+W:D'un air tout fripon
+W:
+W:Si tu y mets la patte,
+W:T'auras un coup d'bâton
+W:
+W:Il n'y mit point la patte
+W:Mais il y mit l'menton
+W:
+W:La bergère en colère
+W:A tué son chaton
+W:
+W:Elle s'en fut en confesse
+W:Vers l'curé du canton
+W:
+W:Mon père je m'accuse
+W:D'avoir tué mon chaton
+W:
+W:Ma fille pour pénitence
+W:Nous nous embrasserons.
+W:
+W:La pénitence est douce
+W:Nous recommencerons
+
+X:344
+T:La fille des sables
+C:trad.
+N:Chanson pour ramer
+A:Vendée
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/8=210
+K:G
+DGA B2 A/2B/2|c3B3|B2GB2G|GFG A2 A/2G/2|G6|
+G3 z2 G|B2AB2c|B6|dcB ABA|G3G z B/2c/2|
+|d2cA2G|B3B z B/2c/2|d2c A2G|B6||
+W:
+W:Dans la ville des sables
+W:Vogue, vogue, marinier vogue
+W:Y a-t-un' fille à marier
+W:Vogue beau marinier
+W:Y a-t-un' fille à marier
+W:Y a-t-un' fille à marier
+W:
+W:Elle est là qui écoute
+W:Le marinier chanter
+W:
+W:Oh marinier qui chanter
+W:Apprends-moi z'à chanter
+W:
+W:Entrez belle dans ma barque
+W:Et je vous l'apprendrai
+W:
+W:Quand la belle est entrée
+W:Au large il a poussé
+W:
+W:De frayeur de tristesse
+W:Elle se mit à pleurer
+W:
+W:Oh qu'avez-vous la belle
+W:Qu'avez-vous à pleurer
+W:
+W:J'entends, j'entends mon père
+W:M'appeler pour souper
+W:
+W:Ne pleurez pas la belle
+W:Avec moi vous soup'rez
+W:
+W:J'entends, j'entends ma mère
+W:M'appeler pour coucher
+W:
+W:Ne pleurez pas la belle
+W:Avec moi vous couch'rez
+W:
+W:L'ont bien fait cent lieues d'aive
+W:Sans rire et sans parler
+W:
+W:Au bout de cent lieues d'aive
+W:La belle s'mit à parler
+W:
+W:Ah c'est-y pas Paris
+W:Ou versailles que je voués ?
+W:
+W:C'est l'chateau de mon père
+W:La belle que vous voyez
+W:
+W:Nous y couch'rons ensemble
+W:Le soir après souper
+W:
+W:Quand elle fût dans la chambre
+W:Son lacet a noué
+W:
+W:Mob épée sur la table
+W:Belle pourra le couper
+W:
+W:La belle a pris l'épée
+W:Dans l'coeur se l'est plongée
+W:
+W:Maudite soit l'épée
+W:Celui qui l'a forgée
+W:
+W:Sans la maudite épée
+W:Je serais marié
+W:
+W:Avec la plus belle fille
+W:Qu'y est à l'évêché
+W:
+W:Elle était aussi droite
+W:Que le jonc dans le pré
+W:
+W:L'était aussi vermeille
+W:Que la rose du rosier
+
+X:345
+T:Sur le petit pont joli
+R:bourree a 2 temps
+C:trad.
+A:Nivernais
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=170
+K:A
+cABc|B4|e2dc|B2A z|cABc|B4|e4|B4||
+
+X:346
+T:A Paris sur le petit pont
+C:trad.
+O:France
+M:2/4
+L:1/8
+Q:1/4=70
+K:F
+A A/2A/2 GF|cc FF/2G/2|AAGF|1c2A2:|2c2AF/2G/2|AAGF|GGCF|CFCF|G2G2|
+|:FGAF|G/2F/2E/2D/2Cc|c>B AB|G2F2:||
+W:
+W:A Paris sur le Petit Pont
+W:Sur le bord d'une fontaine
+W:Mon père a fait bâtir maison
+W:Tuton, tuton, tutaine,
+W:
+W:(refrain)
+W:Levez, belle votre cotillon
+W:Il est si long qu'il traîne.
+W:
+W:L'a fait bâtir à trois pignons
+W:Par quatre-vingt jeunes maçons.
+W:Ils m'ont tous demandé mon nom.
+W:Marguerite c'est mon nom.
+W:Que portes-tu dans ton giron?
+W:C'est un paté de trois pigeons
+W:Assieds-toi nous le mangerons
+
+X:347
+T:Quand nous partîmes de Toulon
+C:trad.
+A:Normandie
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=130
+K:C
+c3-c2B|A2AB2G|A6|c3-c2B|A2AB2G|A6|
+|c2de2e|e2ee2d|g3-g2 g|e2ed2d|c6|
+|c2de3-|e2c d3-|d2eA2G|c2c B2A|B2 GA3||
+W:
+W:Quand nous partîmes de Toulon
+W:Pour faire la pêche au poisson
+W:Nous étions notre équipage
+W:Dix-sept jeunes matelots
+W:Qui ne craignaient point l'orage
+W:La mer ses terribles flots.
+W:
+W:Nous n'étions pas montés à bord
+W:Que nous pensions tous à la mort
+W:Embrassant nos bonnes amies
+W:Que nous aimions si tendrement
+W:Notre pauvre coeur qui soupire
+W:Leur dit adieu en pleurant.
+W:
+W:Les ayant toutes embrassées
+W:Elles se mirent toutes à pleurer
+W:Fallait avoir bien du courage
+W:Mais nous étions bien forcés
+W:Car notre doux langage
+W:N'a pas pu les consoler.
+W:
+W:Le capitaine qui pleurait
+W:Parlant à sa bien-aimée
+W:Oh ma mie ma douce amie
+W:Implore le Dieu d'amour
+W:Qu'il nous conserve la vie
+W:Nous ramène auprès de vous.
+W:
+W:Nous n'avions pas fait six cent lieues
+W:Qu'entre la mer et les cieux
+W:On entend gronder le tonnerre
+W:Tout le ciel est en clarté
+W:Matelots que faut-il faire
+W:Voilà notre bateau percé
+W:
+W:Voilà toutes nos voiles perdues
+W:Et notre grand mât rompu
+W:Matelots prenons courage
+W:Forçons notre bâtiment
+W:Voilà la mer qui abonde
+W:Vite à la pompe il faut pomper
+W:
+W:Celui qui faisait son quart
+W:Ne pouvait plus tenir la barre
+W:Il dit à ses camarades
+W:Attachez-moi sous les bras
+W:Ah voyez quelle tristesse
+W:J'ai souffert mille combats
+W:
+W:Celui qui nous a sauvé
+W:C'est un capitaine anglais
+W:Naviguant sur La Rochelle
+W:Faisant sonner carillon
+W:La tempête nous ramène
+W:Tout droit au port de Toulon.
+
+X:348
+T:Avant-deux de Saint-Erblon
+C:trad.
+N:can be played alternatively in G and C tonality
+A:Bretagne
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=115
+K:G
+GA Bd|ced2|GA Bc/2B/2|AG/2A/2 BG|GA Bd|ced2|GA Bc/2B/2|AdG2:|
+|:GB A>F|Ac B>G|BdcB|czcz:|:ddBG|AG/2A/2 BG|GdBG|1AA/2A/2A2:|2AG/2F/2G2||
+
+X:349
+T:Dans l'pot, dans l'sabot dans la grille
+R:Jigue
+C:trad.
+A:Nivernais
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=190
+K:C
+e2c|d2effd|e2ce2c|d2effd|c2 z e2c|d2effd|e2ce2c|d2effd|
+c2 ze3|e2de2f|e2de2c|d2effd|e2ce3|e2de2f|e2de2c|d2effd|c3||
+W:
+W:Dans l'pot, dans l'sabot dans la grille
+W:Dans l'pot, dans l'sabot du grillot
+W:Dans l'pot, dans l'sabot dans la grille
+W:Dans l'pot, dans l'sabot du grillot
+W:
+W:Grill' grille ma mie grille
+W:Dans l'pot, dans l'sabot dans la grille
+W:Grill' grille ma mie grille
+W:Dans l'pot, dans l'sabot du grillot
+
+X:350
+T:La taligourdine
+R:Jigue
+C:trad.
+N:1ere strophe trad. autres strophes par S. Piron
+A:Nivernais
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=170
+K:G
+G2B|d2ddcB|A2AG2B|d2ddcB|A3G2B|d2ddcB|A2AG2B|d2ddcB|A3GFE|
+D3A3|G2GGFE|D3A3|G3GFE|D3A3|G2GGFE|D3A3|G3||
+W:
+W:Pour danser la taligourdine
+W:Faut-avoir le pied dégagé (bis)
+W:Pied dégagé, passe, passe
+W:Pied dégagé, passé (bis).
+W:
+W:Pour danser la taligourdine
+W:Faut tenir la main ben serrée (bis)
+W:Main ben serrée, passe, passe
+W:Main ben serrée, passée.(bis)
+W:
+W:Pour danser la taligourdine
+W:Faut avoir mangé tout léger (bis)
+W:Mangé léger, passe, passe
+W:Mangé léger, passé.(bis)
+W:
+W:Pour danser la taligourdine
+W:Faut avoir les yeux ben rivés (bis)
+W:Yeux ben rivés, passe, passe
+W:Yeux ben rivés, passé.(bis)
+
+X:351
+T:Les vignerons
+R:bourree
+C:trad.
+A:Massif Central
+O:France
+M:3/8
+L:1/16
+Q:1/4=120
+K:G
+G2B2A2|G6|B2d2B2|d2cBA2|G2B2A2|G6|B2d2B2|d2cBA2:|
+|:B2c2e2|d6|B2d2c2|A6|c2c2c2|BcB2G2|B4A2|G6:||
+
+X:352
+T:Bourree limousine
+R:bourree 3 temps
+C:trad.
+A:Limousin
+O:France
+Z:S. Piron
+M:3/8
+L:1/16
+Q:1/4=90
+K:G
+ef|g2e2f2|d2BdBd|cBABcd|e2d2ef|g2f2e2|d2BdBd|cBABcA|1G2Bd:|2G6|
+|:A3GAB|cAB2G2|Bcd2e2|e2d4|efg2e2|d2BdBd|1c2AcAc|B2A2G2:|2cBABcA|G4 z2||
+
+X:353
+T:Sous la fenetre
+R:valse
+C:trad.
+A:Bresse
+O:France
+M:3/8
+L:1/8
+Q:1/4=95
+K:Eb
+G|c2 e| dc=B|c2d|e2d|fed|cde|1dc=B| c3-|-c2:|2dc=B|c3-|-c3|
+|:eee|e2 f|g2_a|gfe|dcd|efg|gfe|d3|fed|c=BG|c2d| e2d|fed|c de|dc=B|c3:||
+
+X:354
+T:Bourree languedocienne 1
+R:bourree 3 temps
+C:trad.
+A:Languedoc
+O:France
+Z:S. Piron
+M:3/8
+L:1/16
+Q:1/4=110
+K:G
+d4e2|d2d2AB|c2dcBA|B4G2|d4e2|d2d2AB|c2dcBA|G6:|
+|:c2ABAB|c2ABAB|c2dcBA|B4G2|c2ABAB|c2ABAB|c2dcBA|G6:||
+
+X:355
+T:Bourree languedocienne 2
+R:bourree 3 temps
+C:trad.
+A:Languedoc
+O:France
+Z:S. Piron
+M:3/8
+L:1/16
+Q:1/4=100
+K:C
+cd|:e2c2A2|G4Bc|d2BdBd|c2A2cd|e2c2A2|G4Bc|d2B2G2|A4 cd:|
+|:e2cece|f2dfdf|e2edcB|c2A2cd|e2cece|f2dfdf|e2edcB|A4cd:||
+
+X:356
+T:Saut bearnais
+C:trad.
+A:Béarn
+O:France
+Z:S. Piron
+M:3/4
+L:1/16
+Q:1/4=90
+K:G
+B,>DD>D B,>DD>D E2D2|GABG E2F2G4|B,>DD>D B,>DD>D E2D2|GABG E2F2G4:|
+|:G>BB>B G>BB>B c2A2|F>AA>A F>AA>A B2G2|ABAG F2E2D4|
+B,>DD>D B,>DD>D E2D2|B,>DD>D B,>DD>D E2D2|GABG E2F2G4:|
+M:2/4
+G2FE D2D2|c2B2A4|G2FE D2Dc|BGAF G4:|
+|:ABcB B2A2|ABcB B2A2|ABcB ABcB|dcBc A4|
+G2FE D2D2|c2B2A4|G2FE D2Dc|BGAF G4:||
+
+X:357
+T:Carnaval de Lanz
+C:trad.
+A:Pays basque
+O:France
+M:2/4
+L:1/8
+Q:1/4=130
+K:G
+B/2c/2|:dd/2e/2 d/2c/2B/2A/2|G>B BB|A>B cd|e2 dB/2c/2|
+dd/2e/2 d/2c/2B/2A/2|G>B BB|A>B cF|1G2-GB/2c/2:|2G2F2|
+|:G>B dg|gfa2|A>B cd|edg2|G>B dg|gfa>g|fdef|g2-g2:|
+|:d>ddd|e>dcB|c>cce|dBG2|d>ddd|e>dcB|c>ced|1G2-G z:|2G2zg|
+|:eccd/2e/2|=fddz|d/2c/2d/2e/2 =fd|BGGg|
+ec c/2d/2e/2=f/2|g3 d/2e/2|=fdcd|1c3g:|2c3B/2c/2||
+
+X:358
+T:La redova
+C:trad.
+A:Gers
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=180
+K:G
+BAG2|F2EF|E2D2|EDEC|B,4|CB,CD|
+E2EF|G2F2|E2D2|CB,CD|E2EF|G2F2|E4||
+
+X:359
+T:Le saut de la Piga
+C:trad.
+A:Gascogne
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=180
+K:G
+GFG A2A|ABc d3|dcde2d|1cBA B2 G:|2cBA G3|
+|:ded A3|ded A3|c2cB2B|1AGA B2G:|2ABA G3:|
+
+X:360
+T:Valse des Lambert
+R:valse
+C:trad.
+A:Jura
+O:France
+M:3/4
+L:1/8
+Q:1/4=210
+K:C
+G2c2d2|e6|c2e2f2|g6|e2f2g2|a4g2|f2e2d2|1e4c2:|2c6|
+|:g2f2g2|e6|e2d2e2|c4G2|c2B2c2|d2e2f2|1a2gf ef|g6:|2a2gf ed|c6||
+
+X:361
+T:Polka du Couserans 2
+R:polka
+C:trad.
+A:Ariège
+O:France
+Z:S. Piron
+Z:S. Piron
+M:2/4
+L:1/16
+Q:1/4=110
+K:G
+DEFG A2A2|ABAG F4|DEF2 DEFG|F2E2 E4|EFEF G2G2|GAGF E4|^CDE2 CDEF|E2D2D4:|
+|:ABAG F2F2|A2A2G4|GAGF E2E2|G2G2 F4|ABAG F2F2|A2A2G4|GAGF EGFE|D2F2D4:||
+
+X:362
+T:Polka du Biros
+R:polka
+C:trad.
+A:Ariège
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=160
+K:G
+DG|:GF/2E/2 DB|BA/2B/2 cA|AG/2A/2 BG|G z DG:|
+|:BA/2B/2 AG|E2 GF/2E/2|DF AB|AG DG|BA/2B/2 AG|E2 GF/2E/2|DF AF|G z DG:||
+
+X:363
+T:Scottiche de la petite montagne
+R:scottiche
+C:trad.
+A:Jura
+M:2/4
+L:1/8
+Q:1/4=180
+K:C
+g2a2|gf ed|c2d2|c2de|f2d2|1d2cd|e2c2|c4:|2e2c2|d2B2|c4|
+|:ef ge|c2e2|e2de|f4|de fd|B2d2|1d2ce|g4:|2d2B2|c4||
+
+X:364
+T:Le vin est necessaire
+C:trad.
+A:Touraine
+O:France
+M:6/8
+L:1/8
+Q:1/4=160
+K:F
+A|F3GAB|c3c2c|d2dB2d|c3 z2c|F3GAB|c3c2c|d2dB2d|c2 z||
+|:ccc|B2-AGAF|G2GBBB|A3GFG|F2 z:||
+W:
+W:Le vin est nécessaire
+W:Dieu ne le défend pas.
+W:Le vin est nécessaire
+W:Dieu ne le défend pas.
+W:Il eût fait la vendange amère
+W:S'il eût voulu qu'on en bût pas.
+W:Il eût fait la vendange amère
+W:S'il eût voulu qu'on en bût pas.
+W:
+W:L'amour est nécessaire, 
+W:Dieu ne le défend pas. (bis)
+W:Il nous eût fait des coeurs de pierre, 
+W:S'il eût vous qu'on aimât pas (bis)
+W:
+W:Les vins, les demoiselles
+W:Partagent tous mes voeux. (bis)
+W:Quand il est bon, qu'elles sont belles !
+W:Je me ferais pendre pour eux.(bis)
+W:
+W:Buvons tous à la ronde,
+W:Amis dans ce festin! (bis)
+W:Et de peur l'amour ne gronde,
+W:Voisine embrasse ton voisin! (bis)
+
+X:365
+T:L'autre jour sur la bruyere
+C:trad.
+A:Touraine
+O:France
+M:2/4
+L:1/8
+Q:1/4=110
+K:F
+FA|ccdA|ccFA|ccdA|c2A>A|A2 (3GAB|c>cA>A|A2 (3GAB|
+c2A>A|A2 (3GAB|c2F2|F2 (3FAF|C2A>A|A2 (3GAB|c2d>c|(3cBA (3B2G|F2||
+W:
+W:L'autre jour sur la bruyère
+W:Le long des ruisseaux coulants
+W:J'aperçois une bergère
+W:Qui dormait le long des champs
+W:Je lui pris bien doucement
+W:Son, son, son joli son
+W:Je lui pris bien doucement
+W:Son joli petit panier blanc.
+W:
+W:La bergère se réveille
+W:Se réveille en souriant
+W:Eh! monsieur qu'est-c'que vous faites?
+W:Je dormais le long des champs
+W:Vous m'prenez bien hardiment
+W:Mon, mon, mon joli mon
+W:Mon joli petit panier blanc.
+W:
+W:Ne crains rien de moi la belle,
+W:Je suis l'fils d'un rich' marchand.
+W:La marchandise que j'achète
+W:Je la paie honnêtement
+W:Je t'achète argent comptant,
+W:Ton, ton, ton joli ton
+W:Ton joli petit panier blanc.
+W:
+W:Mon panier n'est pas à vendre
+W:Ni pour or, ni pour argent
+W:C'est un don qu'm'a fait ma mère
+W:Elle me dit assez souvent
+W:De garder bien précieus'ment
+W:Mon, mon, mon joli mon
+W:Mon joli petit panier blanc.
+
+X:366
+T:Rose a des coiffes
+C:trad.
+A:Picardie
+O:France
+M:6/8
+L:1/8
+Q:1/4=120
+K:Bb
+FFG|B2Bd2c|B2-FGGF|G2FE2G|F2FFFG|F3FFF|G3GGF|G2BA2F|B2zFGF|G3:||
+W:
+W:Rose a des coiffes de fine toile
+W:Elle en a guère mais elles sont belles,
+W:De la finesse dessus tout
+W:Et peu de bien mais les yeux doux
+W:Dansons garçons
+W:
+W:Ayant mis sa jupe à frijettes
+W:Et ses mignonnes caconnettes
+W:Et ses souliers à hauts talons
+W:A paru devant les violons.
+W:Dansons garçons
+W:
+W:En dansant donc à la frairie
+W:Gros-Pierre lui a dit: "Ma mie,
+W:Souhaitez-vous pas m'épouser,
+W:A seul' fin de nous contenter?
+W:Dansons garçons
+W:
+W:Pierre galant comme vous êtes,
+W:Sentez-vous pas mal à la tête?
+W:Si vous voulez bien m'obliger,
+W:C'est de mon écurie vider.
+W:Dansons garçons
+W:
+W:Ce que j'en dis, mon ami Pierre,
+W:Entendez bien, c'est pour vous plaire,
+W:Mais pour si peu vous ne m'aurez
+W:Il dit "m'amie je le ferai"
+W:Dansons garçons
+
+X:367
+T:Mes sabots de bois
+R:marche
+C:trad.
+A:Bretagne
+O:France
+M:2/4
+L:1/8
+Q:1/4=125
+K:Eb
+F|B,>C DE|F2F2|G2BB|1F3:|2F2F2|
+|F2B>F|FED2|F2CC|A/2G3/2 F2|F2B>F|FED2|F2CC|FFB,2||
+
+X:368
+T:Bal Fisel
+R:marche
+C:trad.
+A:Bretagne
+O:France
+M:12/8
+L:1/8
+Q:1/4=120
+K:Eb
+|B,|:E2FEDC F3G2A|G2FE2CF3E2B,:|
+|:B,>B,B, B,2B, C2DE3|F2GF2CF3E3:|
+
+X:369
+T:Le trente et un du mois d'août
+A:Picardie
+O:France
+M:6/8
+L:1/8
+Q:1/4=95
+K:G
+DEF|G3BBB|G3BBB|B3ABG|A3DEF|G3BBB|G3BBB|B3ABG|A3ABc|d3GGF|
+M:9/8
+E3D2zGFE|
+M:6/8
+D3GFG|A3ABc|B3AGA|HG3||
+W:
+W:Le trente et un du mois d'août (bis)
+W:Nous vîmes venir par devant nous (bis)
+W:Une frégate d'Angleterre
+W:Qui fendait la mer et les flots,
+W:C'était pour aller à Breslau.
+W:
+W:refrain
+W:Buvons un coup, buvons-en deux, (bis)
+W:A la santé des amoureux, (bis)
+W:A la santé du roi de France
+W:Et merd' pour celui d'Angleterre
+W:Qui nous a déclaré la guerre !
+W:
+W:Le capitaine, en la voyant (bis)
+W:Fait appeler son lieutenant: (bis)
+W:Voyons, dit-il, toi qui es si brave,
+W:Voyon, lieut'nant te sens-tu fort ?
+W:D'aller accoster à son bord
+W:
+W:Le lieutenant fier z'et hardi (bis)
+W:Lui répondit : Capitaine oui (bis)
+W:Faites monter tou l'équipage,
+W:Braves marins et matelots,
+W:Faites les monter tous en haut !
+
+X:370
+T:J'ai un oiseau qui vole
+R:Branle simple
+C:Jacques Mangeant (1615)
+S:Jacques Mangeant 1615
+O:France
+M:4/4
+L:1/8
+Q:1/4=160
+K:Eb
+G2GG|G3GA2G2|F2=E2FFFD|E2C2G2GG|
+G3GA2G2|F2=E2FAGG|F4:||
+W:
+W:J'ai un oiseau qui vole, vole,
+W:Vole, vole, vole
+W:J'ai un oiseau qui vole, vole,
+W:Vole, volera.
+W:
+W:Il volera dedans ma gorge
+W:Vole, vole, vole
+W:Il volera dedans ma gorge
+W:Vole, volera.
+W:
+W: Il a volé dedans ma gorge, vole....
+W:
+W:Il volera dedans ta gorge, vole...
+W:
+W: Il a volé dedans ta gorge, vole ...
+
+X:371
+T:Je suis marchand de noix
+R:Branle double
+C:trad.
+S:apprise de Jean-Loup Baly - se trouve aussi dans le livre des chansons à danser de l'ADP
+N:Chanson à décompter - Se danse en rondeau également
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:C
+e|edc2|d2d>e|edc2|d2d>e|edc2|d2d>e|edc2|d2d2|
+|:e>def|edc2|d>c de|d2c2:||
+W:
+W:Je suis marchand de noix
+W:C'est moi qui vend des noix (bis)
+W:
+W:Six sous la douzaine, o gué
+W:Six sous la douzaine (bis)
+w:
+W:Cinq sous la douzaine...
+W:
+W:Quatre sous la douzaine etc...
+
+X:372
+T:Madeleine et la mort
+R:branle coupé
+C:trad.
+A:Alsace
+O:France
+M:4/4
+L:1/8
+Q:1/4=110
+K:C
+D|GDGA B2A2|G2 G>BB>A AG|G2 BG A2 Bc|B2AAGDBG|A2 BcB2A2|G6-GD||
+
+X:373
+T:Branle Pinagay
+R:BRANLE COUPE
+C:trad.
+S:Jehan Tabourot dit Thoinot Arbeau
+B:l'orchesographie - 1588
+O:France
+M:4/4
+L:1/4
+Q:1/4=220
+K:G
+GGGG|AABd/2c/2|B2GG|GGAA|Bd/2c/2Bd/2c/2|Bd/2c/2B2|
+|:BAGA|FGAG|BBAG|GFG2:||
+
+X:374
+T:Branle des Pois
+R:BRANLE COUPE
+C:trad.
+S:Jehan Tabourot dit Thoinot Arbeau
+B:l'orchesographie - 1588
+O:France
+M:4/4
+L:1/4
+Q:1/4=220
+K:Fmix
+B2Bc|d2dd|edcc|d2G2:|
+|GAF2|GABG|GABc|BAG2||GAF2|GABG|GABc|BAG2||
+
+X:375
+T:Y'a dix marins sur mer
+R:Hanter dro
+C:trad.
+A:Bretagne
+O:France
+Z:S Piron
+M:3/4
+Q:1/4=85
+K:C
+E A/2B/2cBcB|E A/2B/2cBc2|E A/2B/2cBc2:|
+|:cd/2e/2cAcB|EA/2B/2cB/2A/2B2|cd/2e/2cAcB|EA/2B/2cBA2:|
+W:
+W:Y'a dix marins sur mer
+W:Loin des leurs amitiés
+W:Loin des leurs amitiés
+W:Quand ils seront à terre
+W:Gué falala, falala
+W:Nous les ferons danser,
+W:Gué falala luré.
+W:Quand ils seront à terre
+W:Gué falala, falala
+W:Nous les ferons danser,
+W:Gué falala luré.
+W:
+W:Y'a neuf marins sur mer
+W:Loin des leurs amitiés
+W: etc...
+
+X:376
+T:Nous étions trois marins
+R:Hanter dro
+C:trad.
+A:Bretagne
+O:France
+Z:S Piron
+M:2/4
+L:1/8
+Q:1/4=85
+K:C
+cc/2c/2 BA|G2 cc/2c/2|df ed:|
+|de/2f/2 ge/2d/2|c2 AB/2c/2|df ed|
+cd/2c/2 AG/2F/2|G2 cc/2c/2|AFG2||
+W:
+W:Nous étions trois marins qui allaient sur la mer
+W:Le vent nous était bon, la mer était contraire.
+W:
+W: refrain
+W:Gai, maluron, malura les gars sont pour les filles
+W:Gai, maluron, malura les filles sont pour les gars
+W:
+W:Le vent nous a poussé sur les côtes d'Irlande
+W:Près d'un moulin à vent nous avons mouillé l'ancre.
+W:
+W:Et dedans ce moulin, y'avait une servante,
+w:Sitôt quelle m'a vu, m'a fait la révérence.
+W:
+W:Je luis ai demandé "d'où vient la connaissance?"
+W:Ne t'en souviens-tu pas quand nous étions ensemble ?
+W:
+W:A la foire, au marché de la ville de Nantes.
+W:Pour choisir un anneau, parlant de l'amour tendre
+W:
+W:L'est encore à mon doigt, le voudrais-tu reprendre ?
+W:Je le reprendrai pas, nous dormirons ensemble.
+W:
+W:Dans un p'tit lit bien fait, couvert de roses blanches.
+W:Là où qu'à la minuit, le rossignol y chante.
+
+X:377
+T:Il fait bon dormir sous le houx
+C:trad.
+O:France
+Z:S. Piron
+M:4/4
+L:1/4
+Q:1/4=75
+K:G
+GG/2A/2B/2c/2d|dcB2|GG/2A/2B/2c/2d|dcB2:|
+|:BB/2c/2B/2G/2A/2B/2|cBAG|A2G2:|
+|:GG/2A/2B/2c/2d|dcB2|GG/2A/2B/2c/2d|dcB2:|
+|:BB/2c/2B/2G/2A/2B/2|cBAG|A2G2:|
+
+X:378
+T:Michaud veillait
+C:trad.
+A:Gascogne
+O:France
+M:2/4
+L:1/8
+Q:1/4=100
+K:D
+G|F2E2|D3A,|DE FG|A2 AG|F2 A2|D3F|ED CE|A2zD|
+C2E2|A,3 D|CD EC|DE FE|FE FG|A2zd
+|A2zd|A2zd|cB AG|F2G2|A2zd
+|A2zd|A2zd|cB AG|F2E2|D2||
+W:
+W:Michaud veillait le soir dans sa chaumière
+W:Près du hameau il gardait son troupeau.
+W:Le ciel brillait d'une vive lumière
+W:Il se mit à chanter:  
+W:Je vois, je vois, je vois l'étoile du berger (bis)
+W:
+W:Au bruit qu'il fit, le pasteur de Judée
+W:Tout en sursaut, s'en va trouver Michaud
+W:Ah ! qu'il lui dit, ah! quelle heureuse journée
+W:A l'heure de minuit 
+W:Est né, est né, est né ce que l'ange a prédit (bis)
+W:
+W:La Vierge était assise dans l'étable
+W:L'âne mangeait et le boeuf ruminait
+W:Joseph priait cet enfant adorable
+W:Cet enfant non pareil
+W:Noël, Noël, Noël brillant comme un soleil (bis)
+
+X:379
+T:Polka du Pée Faulon
+C:trad.
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+eg ce|ed/2e/2 fd|df Bd|dc/2d/2ec|eg ce|ed/2e/2 fd|df Bd|ce c2:|
+|:Ge e>d|cBA2|fdBd|c/2B/2c/2d/2 ec|Ge e>d|cBA2|fdBG|edc2:||
+
+X:380
+T:Polka du Morvan
+C:trad.
+A:Morvan
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=120
+K:C
+g2g2|g/2a/2g/2f/2e2|cece|ed/2e/2f2|f2f2|f/2g/2f/2e/2d2|BdBd|1dc/2d/2e2:|2dc/2B/2c2|
+|:ceg2|fdB2|Bda2|gec2|ceg2|fdB2|BdBd|cec2:||
+
+X:381
+T:Polka du Gers
+C:trad.
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=100
+K:G
+Bc de/2f/2|gB d>d|e/2d/2c/2B/2 AA/2B/2|c/2d/2e/2f/2 ed|
+Bc de/2f/2|gB d>d|e/2d/2c/2B/2 A/2c/2B/2A/2|GBG2:|
+|:
+
+X:382
+T:Trotto
+C:trad.
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=170
+K:G
+A2 A eAe|e2dcBc|AGA BAB|G3A2B|1cBAB2G|B3B3:|2d2ed2c|BABGA2|
+|d/2c/2Bcd2e|d/2c/2Bc AGA|d/2c/2Bcd2e|d/2c/2Bc AGA|d/2c/2Bc d2e|
+d/2c/2Bc AGA|a2gf3|a/2g/2fg e2A|eAee3|a2 g/2f/2e2f/2g/2|
+a2g/2f/2e3|a/2g/2fge2A|eAee3||
+
+X:383
+T:Lou manigue
+C:trad.
+A:Limousin
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=100
+K:F
+A2AB|c2G2|ABAG|G2F2|ABAG|F2AA||
+M:6/8
+Q:1/4=170
+A2FGGG|G2FAAA|A2F GAG|F2zAAA|A2FGGG|G2FAAA|A2FGAG|F2zFED||
+M:3/4
+Q:1/4=120
+C2GGFG|A2FFED|C2GGAG|F2zFED|C2GGFG|A2FFED|C2GGAG|F3 z3||
+
+X:384
+T:Sérénade du tambour
+C:trad.
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=110
+K:Bb
+F|B2BB2B|B3Bzc|d2dd2d|d2dc2B|c3d3|c3czF|d3d2c|B3c3|
+F3z2F|B2cd2e|d3c2B|d3c3|B4B2|B2z2zF||
+W:
+W:Si j'avais un tambour 
+W:Qui fut garni de roses
+W:Et de fleurs d'amour,
+W:J'irai tambouriner
+W:Sur la fidélité
+W:De ma bien aimée.
+W:
+W:Bonsoir m'amie bonsoir
+W:Vous faites la rebelle
+W:Quand je viens vous voir
+W:Pour la dernière fois
+W:Je viens vous dire adieu
+W:Belle je m'en vois.
+W:
+W:La fleur de l'olivier
+W:Que vous avez aimée
+W:Charmante beauté
+W:Et vos grands yeux si beaux
+W:Que mon coeur aime tant
+W:Les faut-il quitter.
+W:
+W:Rossignolet des bois
+W:Va porter cette lettre
+W:A ma bien aimée
+W:Quand tu la trouvera
+W:Tu te rappelleras
+W:Et tu lui diras.
+W:
+W:Si j'avais un tambour 
+W:Qui fut garni de roses
+W:Et de fleurs d'amour,
+W:J'irai tambouriner
+W:Sur la fidélité
+W:De ma bien aimée.
+
+X:385
+T:Rondeau de Paul Lagardère
+R:rondeau
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=95
+K:G
+A>B cd|e/2f/2e/2f/2 d/2e/2d/2e/2|A>B cd|e/2f/2e/2f/2 d2:|
+|:c>A BG|A/2B/2c/2A/2 B/2G/2A/2B/2|c>A BG|A/2B/2A/2F/2G2:||
+
+X:386
+T:Rondeau de l'Agenais 1
+R:rondeau
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=200
+K:C
+geg fdf|eced2d|geg fdf|eced3:|
+|:G2Gc2c|e2ed3|fdf ece|1dBde2c:|2dBdc3||
+
+X:387
+T:Rondeau de l'Agenais 2
+R:rondeau
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:2/4
+L:1/8
+Q:1/4=130
+K:C
+ccBd|dB/2d/2cG|ccBd|BA G2:|
+|:cBc>d|efec|eedc|1BAAG:|2BAG2||
+
+X:388
+T:Rondeau de l'Agenais
+R:rondeau
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=200
+K:C
+eeee2c|d2fe2c|eeee2c|d2fe2c:|
+|:ccde2d|c2AG3|GBdGBd|1fede2c:|2fedc3||
+
+X:389
+T:Rondeau de Gascogne
+R:rondeau
+C:trad.
+A:Gascogne
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=185
+K:C
+e2fg2g|g2fe3|edef2f|1fede2c:|2fedc3|
+K:G
+|:E2GB2G|A2Bc2A|E2FA2F|1G2AB2G:|2G2BG3||
+
+X:390
+T:Rondeau de Gascogne
+R:rondeau
+C:trad.
+A:Gascogne
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=190
+K:C
+c2gf2e|defg2g|c2gf2e|defg3:|
+|:cBcd2d|g2gf2d|gagf2e|1defg2g:|2dedc3||
+
+X:391
+T:Rondeau de Marcel Gleyzes
+R:rondeau
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=185
+K:C
+g2gdef|e2de2c|g2gdef|e2dc3:|
+|:c2ccdc|B2cd3|d2ddef|1e2de2c:|2e2dc3||
+
+X:392
+T:Rondeau de M. Figeac
+R:rondeau
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=170
+K:G
+DGBAdc|BABGBG|DGBAdc|BABG3:|
+|:B2cded|dcBc2e|A2Bced|1cBAB2G:|2cBAG3||
+
+X:393
+T:Rondeau de M. Lalanne
+R:rondeau
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=170
+K:C
+e|:c2cc2e|g2gg2e|d2dd2e|1fgfede:|2fedc3|
+|:efgefg|efgg2f|1defdef|deff2d:|2defa2g|fedc2e||
+
+X:394
+T:Rondeau de M. Desjean
+R:rondeau
+C:trad.
+A:Landes
+O:France
+Z:S. Piron
+M:6/8
+L:1/8
+Q:1/4=170
+K:C
+e2cd2d|GABcBc|e2cd2d|GABc3:|
+|:e2ce2g|gfed2d|e2ce2g|gfed3:|
+|:c2de2d|c2de3|g2agfe|1dcde2c:|2dedc3||
+
