@@ -1,15 +1,13 @@
-# This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
 # platform: win-64
-ipython=8.10.0=py38haa95532_0
-ipython_genutils=0.2.0=pyhd3eb1b0_1
-matplotlib=3.7.1=pypi_0
-matplotlib-inline=0.1.6=py38haa95532_0
-numpy=1.23.5=py38h3b20f71_0
-numpy-base=1.23.5=py38h4da318b_0
-numpydoc=1.5.0=py38haa95532_0
-regex=2022.10.31=pypi_0
-tensorflow=2.10.0=mkl_py38ha5c4042_0
-tensorflow-base=2.10.0=mkl_py38h6a7f48e_0
-tensorflow-estimator=2.10.0=py38haa95532_0
-tqdm=4.65.0=pypi_0
+ipython==8.10.0
+ipython_genutils==0.2.0
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+numpy==1.23.5
+numpy-base==1.23.5
+numpydoc==1.5.0
+regex==2022.10.31
+tensorflow==2.10.0
+tensorflow-base==2.10.0
+tensorflow-estimator==2.10.0
+tqdm==4.65.0
