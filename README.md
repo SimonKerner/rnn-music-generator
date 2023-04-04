@@ -14,6 +14,6 @@
   To run this Jupyter Notebook you can simply use one of the links bellow: 
 </p>
 
-Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke2.mybinder.org/user/simonkerner-rnn-music-generator-xyhirsw0/notebooks/music_generator.ipynb)
+Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SimonKerner/rnn-music-generator/main?labpath=music_generator.ipynb)
 
 Static Notebook: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/SimonKerner/rnn-music-generator/blob/main/music_generator.ipynb)
