@@ -11,7 +11,7 @@
 ## How to run this project:
 
 <p>
-  To run this Jupyter Notebook you can simply use one of the links bellow: 
+  To run this Jupyter Notebook you can simply use one of the links below: 
 </p>
 
 Interactive Notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SimonKerner/rnn-music-generator/main?labpath=music_generator.ipynb)
